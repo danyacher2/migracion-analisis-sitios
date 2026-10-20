@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SystemData xmlns="urn:deployment-systemdata-schema">
+  <SchemaVersion Version="15.0.0.0" Build="16.0.3111.1200" DatabaseVersion="11552" SiteVersion="15" ObjectsProcessed="21" />
+  <ManifestFiles>
+    <ManifestFile Name="Manifest.xml" />
+  </ManifestFiles>
+  <SystemObjects>
+    <SystemObject Id="de5bb31f-2b83-4ca8-9040-002ba663a781" Type="Web" Url="/sites/GN_GCinterna" />
+    <SystemObject Id="1299f61c-dd6c-4e10-822c-181e6588ded0" Type="List" Url="/_catalog/users" />
+  </SystemObjects>
+</SystemData>

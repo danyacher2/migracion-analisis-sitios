@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RootObjects xmlns="urn:deployment-rootobjectmap-schema">
+  <RootObject Id="074c7853-922e-4007-8250-baf998d45e3d" Type="List" Url="/sites/GN_GCinterna/servicionominasyestudioseconomicos/GrupoTrabajoEmpleo/DocumentacionGeneral" ParentId="86c86d01-0fa5-468b-a5a6-b91fa44dfe1e" WebUrl="/sites/GN_GCinterna/servicionominasyestudioseconomicos/GrupoTrabajoEmpleo" IsDependency="false" />
+  <RootObject Id="d6e26e83-8cbb-4890-925e-c9d0e9610349" Type="List" Url="/sites/GN_GCinterna/servicionominasyestudioseconomicos/GrupoTrabajoEmpleo/Documents" ParentId="86c86d01-0fa5-468b-a5a6-b91fa44dfe1e" WebUrl="/sites/GN_GCinterna/servicionominasyestudioseconomicos/GrupoTrabajoEmpleo" IsDependency="false" />
+  <RootObject Id="9fac3997-2e2b-463d-9776-d0039c62bc39" Type="List" Url="/sites/GN_GCinterna/servicionominasyestudioseconomicos/Expedientes/Y" ParentId="a9a90712-24ad-4504-b7fd-6ec603a2dbdc" WebUrl="/sites/GN_GCinterna/servicionominasyestudioseconomicos/Expedientes" IsDependency="false" />
+  <RootObject Id="d388b8da-7970-4af1-882f-a41042f061c9" Type="List" Url="/sites/GN_GCinterna/servicionominasyestudioseconomicos/Expedientes/Z" ParentId="a9a90712-24ad-4504-b7fd-6ec603a2dbdc" WebUrl="/sites/GN_GCinterna/servicionominasyestudioseconomicos/Expedientes" IsDependency="false" />
+  <RootObject Id="8b4c47e4-303b-4019-8300-e840eaa8384f" Type="List" Url="/sites/GN_GCinterna/servicionominasyestudioseconomicos/Expedientes/A" ParentId="a9a90712-24ad-4504-b7fd-6ec603a2dbdc" WebUrl="/sites/GN_GCinterna/servicionominasyestudioseconomicos/Expedientes" IsDependency="false" />
+  <RootObject Id="c5b18242-1b1c-4837-b253-3296e7f5c3b0" Type="List" Url="/sites/GN_GCinterna/servicionominasyestudioseconomicos/Expedientes/D" ParentId="a9a90712-24ad-4504-b7fd-6ec603a2dbdc" WebUrl="/sites/GN_GCinterna/servicionominasyestudioseconomicos/Expedientes" IsDependency="false" />
+</RootObjects>

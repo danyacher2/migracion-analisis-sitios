@@ -1,0 +1,164 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SPObjects xmlns="urn:deployment-manifest-schema">
+  <SPObject Id="dc6ae239-ffa0-4aef-83da-4fda1fdf94f5" ObjectType="SPFolder" ParentId="00000000-0000-0000-0000-000000000000" ParentWebId="de5bb31f-2b83-4ca8-9040-002ba663a781" ParentWebUrl="/sites/GN_GCinterna" Url="/sites/GN_GCinterna">
+    <Folder Id="dc6ae239-ffa0-4aef-83da-4fda1fdf94f5" Name="GN_GCinterna" ParentFolderId="00000000-0000-0000-0000-000000000000" ParentWebId="de5bb31f-2b83-4ca8-9040-002ba663a781" ParentWebUrl="/sites/GN_GCinterna" Url="/sites/GN_GCinterna" TimeCreated="2026-10-10T20:29:26" TimeLastModified="2026-10-16T13:17:31" />
+  </SPObject>
+  <SPObject Id="6f10291f-033d-4a10-a732-151d111f78cf" ObjectType="SPFolder" ParentId="dc6ae239-ffa0-4aef-83da-4fda1fdf94f5" ParentWebId="d58c4c9f-3aa8-4418-b177-fc30ed164ff0" ParentWebUrl="/sites/GN_GCinterna/servicionominasyestudioseconomicos" Url="/sites/GN_GCinterna/servicionominasyestudioseconomicos">
+    <Folder Id="6f10291f-033d-4a10-a732-151d111f78cf" Name="servicionominasyestudioseconomicos" ParentFolderId="dc6ae239-ffa0-4aef-83da-4fda1fdf94f5" ParentWebId="d58c4c9f-3aa8-4418-b177-fc30ed164ff0" ParentWebUrl="/sites/GN_GCinterna/servicionominasyestudioseconomicos" Url="/sites/GN_GCinterna/servicionominasyestudioseconomicos" TimeCreated="2026-10-16T16:05:55" TimeLastModified="2026-10-16T16:06:01" />
+  </SPObject>
+  <SPObject Id="14effb68-2342-4030-bcaf-6325e9e5c50d" ObjectType="SPFolder" ParentId="6f10291f-033d-4a10-a732-151d111f78cf" ParentWebId="a9a90712-24ad-4504-b7fd-6ec603a2dbdc" ParentWebUrl="/sites/GN_GCinterna/servicionominasyestudioseconomicos/Expedientes" Url="/sites/GN_GCinterna/servicionominasyestudioseconomicos/Expedientes">
+    <Folder Id="14effb68-2342-4030-bcaf-6325e9e5c50d" Name="Expedientes" ParentFolderId="6f10291f-033d-4a10-a732-151d111f78cf" ParentWebId="a9a90712-24ad-4504-b7fd-6ec603a2dbdc" ParentWebUrl="/sites/GN_GCinterna/servicionominasyestudioseconomicos/Expedientes" Url="/sites/GN_GCinterna/servicionominasyestudioseconomicos/Expedientes" TimeCreated="2026-10-16T16:53:10" TimeLastModified="2026-10-16T16:53:15" />
+  </SPObject>
+  <SPObject Id="668f2d37-f824-4f1c-9891-37524f209c2a" ObjectType="SPFolder" ParentId="14effb68-2342-4030-bcaf-6325e9e5c50d" ParentWebId="a9a90712-24ad-4504-b7fd-6ec603a2dbdc" ParentWebUrl="/sites/GN_GCinterna/servicionominasyestudioseconomicos/Expedientes" Url="/sites/GN_GCinterna/servicionominasyestudioseconomicos/Expedientes/K">
+    <Folder Id="668f2d37-f824-4f1c-9891-37524f209c2a" Name="K" ParentFolderId="14effb68-2342-4030-bcaf-6325e9e5c50d" ParentWebId="a9a90712-24ad-4504-b7fd-6ec603a2dbdc" ParentWebUrl="/sites/GN_GCinterna/servicionominasyestudioseconomicos/Expedientes" Url="/sites/GN_GCinterna/servicionominasyestudioseconomicos/Expedientes/K" TimeCreated="2026-10-16T16:55:13" TimeLastModified="2026-10-16T23:49:39" />
+  </SPObject>
+  <SPObject Id="52cac117-2c34-4065-a42a-65c96cceb0db" ObjectType="SPDocumentLibrary" ParentId="a9a90712-24ad-4504-b7fd-6ec603a2dbdc" ParentWebId="a9a90712-24ad-4504-b7fd-6ec603a2dbdc" ParentWebUrl="/sites/GN_GCinterna/servicionominasyestudioseconomicos/Expedientes" Url="/sites/GN_GCinterna/servicionominasyestudioseconomicos/Expedientes/K">
+    <DocumentLibrary Id="52cac117-2c34-4065-a42a-65c96cceb0db" BaseTemplate="DocumentLibrary" RootFolderId="668f2d37-f824-4f1c-9891-37524f209c2a" RootFolderUrl="/sites/GN_GCinterna/servicionominasyestudioseconomicos/Expedientes/K" ParentWebId="a9a90712-24ad-4504-b7fd-6ec603a2dbdc" ParentWebUrl="/sites/GN_GCinterna/servicionominasyestudioseconomicos/Expedientes" Title="K" HasUniqueRoleAssignments="false" />
+  </SPObject>
+  <SPObject Id="939cfc67-3ad7-47ff-9bf5-7a68b689d084" ObjectType="SPFile" ParentId="668f2d37-f824-4f1c-9891-37524f209c2a" ParentWebId="a9a90712-24ad-4504-b7fd-6ec603a2dbdc" ParentWebUrl="/sites/GN_GCinterna/servicionominasyestudioseconomicos/Expedientes" Url="K/K.pdf">
+    <File Url="K/K.pdf" Id="939cfc67-3ad7-47ff-9bf5-7a68b689d084" ParentWebId="a9a90712-24ad-4504-b7fd-6ec603a2dbdc" ParentWebUrl="/sites/GN_GCinterna/servicionominasyestudioseconomicos/Expedientes" Name="K.pdf" ListItemIntId="1" ListId="52cac117-2c34-4065-a42a-65c96cceb0db" ParentId="668f2d37-f824-4f1c-9891-37524f209c2a" TimeCreated="2022-03-22T11:26:39" TimeLastModified="2022-03-22T11:26:39" Version="1.0" FileValue="a8b4c5cd-55b7-7ef6-b8e6-a21cfca6cef8.dat" Author="22" ModifiedBy="22" MD5Hash="1Pl5RJJLny1QiovbhadH2Q==" InitializationVector="TZDm3+j7vbZRvBLO422oSA==">
+      <Properties />
+    </File>
+  </SPObject>
+  <SPObject Id="fd0de91d-1147-4a27-b826-5e53dddf0807" ObjectType="SPFolder" ParentId="14effb68-2342-4030-bcaf-6325e9e5c50d" ParentWebId="a9a90712-24ad-4504-b7fd-6ec603a2dbdc" ParentWebUrl="/sites/GN_GCinterna/servicionominasyestudioseconomicos/Expedientes" Url="/sites/GN_GCinterna/servicionominasyestudioseconomicos/Expedientes/I">
+    <Folder Id="fd0de91d-1147-4a27-b826-5e53dddf0807" Name="I" ParentFolderId="14effb68-2342-4030-bcaf-6325e9e5c50d" ParentWebId="a9a90712-24ad-4504-b7fd-6ec603a2dbdc" ParentWebUrl="/sites/GN_GCinterna/servicionominasyestudioseconomicos/Expedientes" Url="/sites/GN_GCinterna/servicionominasyestudioseconomicos/Expedientes/I" TimeCreated="2026-10-16T16:54:59" TimeLastModified="2026-10-16T23:49:39" />
+  </SPObject>
+  <SPObject Id="e35814fe-0002-4beb-ba78-b79144c16a28" ObjectType="SPDocumentLibrary" ParentId="a9a90712-24ad-4504-b7fd-6ec603a2dbdc" ParentWebId="a9a90712-24ad-4504-b7fd-6ec603a2dbdc" ParentWebUrl="/sites/GN_GCinterna/servicionominasyestudioseconomicos/Expedientes" Url="/sites/GN_GCinterna/servicionominasyestudioseconomicos/Expedientes/I">
+    <DocumentLibrary Id="e35814fe-0002-4beb-ba78-b79144c16a28" BaseTemplate="DocumentLibrary" RootFolderId="fd0de91d-1147-4a27-b826-5e53dddf0807" RootFolderUrl="/sites/GN_GCinterna/servicionominasyestudioseconomicos/Expedientes/I" ParentWebId="a9a90712-24ad-4504-b7fd-6ec603a2dbdc" ParentWebUrl="/sites/GN_GCinterna/servicionominasyestudioseconomicos/Expedientes" Title="I" HasUniqueRoleAssignments="false" />
+  </SPObject>
+  <SPObject Id="0ddb6c78-347c-4914-a6f6-d176e624772b" ObjectType="SPFile" ParentId="fd0de91d-1147-4a27-b826-5e53dddf0807" ParentWebId="a9a90712-24ad-4504-b7fd-6ec603a2dbdc" ParentWebUrl="/sites/GN_GCinterna/servicionominasyestudioseconomicos/Expedientes" Url="I/IBAÑEZ_IPIÑA.pdf">
+    <File Url="I/IBAÑEZ_IPIÑA.pdf" Id="0ddb6c78-347c-4914-a6f6-d176e624772b" ParentWebId="a9a90712-24ad-4504-b7fd-6ec603a2dbdc" ParentWebUrl="/sites/GN_GCinterna/servicionominasyestudioseconomicos/Expedientes" Name="IBAÑEZ_IPIÑA.pdf" ListItemIntId="1" ListId="e35814fe-0002-4beb-ba78-b79144c16a28" ParentId="fd0de91d-1147-4a27-b826-5e53dddf0807" TimeCreated="2022-03-22T10:11:22" TimeLastModified="2022-03-22T10:11:22" Version="1.0" FileValue="34e209a5-38c2-7723-b9bb-d779c3041a9b.dat" Author="22" ModifiedBy="22" MD5Hash="KhkGj6Xv1fHTNRsvQHyvOw==" InitializationVector="TZBdJGffkqrPMeaMb3wLVw==">
+      <Properties />
+    </File>
+  </SPObject>
+  <SPObject Id="09a57c0b-bede-472c-ae48-123b787e2aeb" ObjectType="SPFolder" ParentId="14effb68-2342-4030-bcaf-6325e9e5c50d" ParentWebId="a9a90712-24ad-4504-b7fd-6ec603a2dbdc" ParentWebUrl="/sites/GN_GCinterna/servicionominasyestudioseconomicos/Expedientes" Url="/sites/GN_GCinterna/servicionominasyestudioseconomicos/Expedientes/J">
+    <Folder Id="09a57c0b-bede-472c-ae48-123b787e2aeb" Name="J" ParentFolderId="14effb68-2342-4030-bcaf-6325e9e5c50d" ParentWebId="a9a90712-24ad-4504-b7fd-6ec603a2dbdc" ParentWebUrl="/sites/GN_GCinterna/servicionominasyestudioseconomicos/Expedientes" Url="/sites/GN_GCinterna/servicionominasyestudioseconomicos/Expedientes/J" TimeCreated="2026-10-16T16:55:06" TimeLastModified="2026-10-16T23:49:39" />
+  </SPObject>
+  <SPObject Id="07a38639-7f9f-473f-8ec0-1bb1bd2cb3a8" ObjectType="SPDocumentLibrary" ParentId="a9a90712-24ad-4504-b7fd-6ec603a2dbdc" ParentWebId="a9a90712-24ad-4504-b7fd-6ec603a2dbdc" ParentWebUrl="/sites/GN_GCinterna/servicionominasyestudioseconomicos/Expedientes" Url="/sites/GN_GCinterna/servicionominasyestudioseconomicos/Expedientes/J">
+    <DocumentLibrary Id="07a38639-7f9f-473f-8ec0-1bb1bd2cb3a8" BaseTemplate="DocumentLibrary" RootFolderId="09a57c0b-bede-472c-ae48-123b787e2aeb" RootFolderUrl="/sites/GN_GCinterna/servicionominasyestudioseconomicos/Expedientes/J" ParentWebId="a9a90712-24ad-4504-b7fd-6ec603a2dbdc" ParentWebUrl="/sites/GN_GCinterna/servicionominasyestudioseconomicos/Expedientes" Title="J" HasUniqueRoleAssignments="false" />
+  </SPObject>
+  <SPObject Id="3565d6ac-b342-435a-b8a1-923b5d0e7196" ObjectType="SPFile" ParentId="09a57c0b-bede-472c-ae48-123b787e2aeb" ParentWebId="a9a90712-24ad-4504-b7fd-6ec603a2dbdc" ParentWebUrl="/sites/GN_GCinterna/servicionominasyestudioseconomicos/Expedientes" Url="J/J.pdf">
+    <File Url="J/J.pdf" Id="3565d6ac-b342-435a-b8a1-923b5d0e7196" ParentWebId="a9a90712-24ad-4504-b7fd-6ec603a2dbdc" ParentWebUrl="/sites/GN_GCinterna/servicionominasyestudioseconomicos/Expedientes" Name="J.pdf" ListItemIntId="1" ListId="07a38639-7f9f-473f-8ec0-1bb1bd2cb3a8" ParentId="09a57c0b-bede-472c-ae48-123b787e2aeb" TimeCreated="2022-03-22T11:25:58" TimeLastModified="2022-03-22T11:25:58" Version="1.0" FileValue="2acf37ed-364e-70bd-8b0d-4a670191f412.dat" Author="22" ModifiedBy="22" MD5Hash="Zjs/n+u2x2tLwupE+rLl/g==" InitializationVector="B24GI3VzSgGbDyGZEzl24g==">
+      <Properties />
+    </File>
+  </SPObject>
+  <SPObject Id="dbc6c239-1857-48cf-b5c6-8981aae064cc" ObjectType="SPFile" ParentId="fd0de91d-1147-4a27-b826-5e53dddf0807" ParentWebId="a9a90712-24ad-4504-b7fd-6ec603a2dbdc" ParentWebUrl="/sites/GN_GCinterna/servicionominasyestudioseconomicos/Expedientes" Url="I/I_1.pdf">
+    <File Url="I/I_1.pdf" Id="dbc6c239-1857-48cf-b5c6-8981aae064cc" ParentWebId="a9a90712-24ad-4504-b7fd-6ec603a2dbdc" ParentWebUrl="/sites/GN_GCinterna/servicionominasyestudioseconomicos/Expedientes" Name="I_1.pdf" ListItemIntId="3" ListId="e35814fe-0002-4beb-ba78-b79144c16a28" ParentId="fd0de91d-1147-4a27-b826-5e53dddf0807" TimeCreated="2023-02-06T09:35:23" TimeLastModified="2023-02-06T09:35:23" Version="1.0" FileValue="00b16f85-7d94-77d2-9e58-ec70f5e7f0c6.dat" Author="22" ModifiedBy="22" MD5Hash="FeUCbUF/DjYdZtIGwe1gNw==" InitializationVector="FzByS2jd5W1q3N+fFtj7UQ==">
+      <Properties>
+        <Property Name="Tipo de Contrato" Type="String" Access="ReadWrite" Value="Histórico" />
+      </Properties>
+    </File>
+  </SPObject>
+  <SPObject Id="51443b50-6eac-4790-91af-f81ec15a2f2c" ObjectType="SPFile" ParentId="09a57c0b-bede-472c-ae48-123b787e2aeb" ParentWebId="a9a90712-24ad-4504-b7fd-6ec603a2dbdc" ParentWebUrl="/sites/GN_GCinterna/servicionominasyestudioseconomicos/Expedientes" Url="J/J_K.pdf">
+    <File Url="J/J_K.pdf" Id="51443b50-6eac-4790-91af-f81ec15a2f2c" ParentWebId="a9a90712-24ad-4504-b7fd-6ec603a2dbdc" ParentWebUrl="/sites/GN_GCinterna/servicionominasyestudioseconomicos/Expedientes" Name="J_K.pdf" ListItemIntId="2" ListId="07a38639-7f9f-473f-8ec0-1bb1bd2cb3a8" ParentId="09a57c0b-bede-472c-ae48-123b787e2aeb" TimeCreated="2023-02-06T09:39:15" TimeLastModified="2023-02-06T09:39:15" Version="1.0" FileValue="77a35283-4100-74dd-9a87-a076019ae041.dat" Author="22" ModifiedBy="22" MD5Hash="dkSC2IanJAAsCz8TQ17DNA==" InitializationVector="rUlyq2uQAjE3WbDOp2X3Pg==">
+      <Properties>
+        <Property Name="Tipo de Contrato" Type="String" Access="ReadWrite" Value="Histórico" />
+      </Properties>
+    </File>
+  </SPObject>
+  <SPObject Id="b503ddd9-b4b1-4bf5-b641-43033bc7ade1" ObjectType="SPFolder" ParentId="14effb68-2342-4030-bcaf-6325e9e5c50d" ParentWebId="a9a90712-24ad-4504-b7fd-6ec603a2dbdc" ParentWebUrl="/sites/GN_GCinterna/servicionominasyestudioseconomicos/Expedientes" Url="/sites/GN_GCinterna/servicionominasyestudioseconomicos/Expedientes/M">
+    <Folder Id="b503ddd9-b4b1-4bf5-b641-43033bc7ade1" Name="M" ParentFolderId="14effb68-2342-4030-bcaf-6325e9e5c50d" ParentWebId="a9a90712-24ad-4504-b7fd-6ec603a2dbdc" ParentWebUrl="/sites/GN_GCinterna/servicionominasyestudioseconomicos/Expedientes" Url="/sites/GN_GCinterna/servicionominasyestudioseconomicos/Expedientes/M" TimeCreated="2026-10-16T16:55:27" TimeLastModified="2026-10-16T23:49:39" />
+  </SPObject>
+  <SPObject Id="d638c48e-a3fe-4494-902e-5fedb0df1a7f" ObjectType="SPDocumentLibrary" ParentId="a9a90712-24ad-4504-b7fd-6ec603a2dbdc" ParentWebId="a9a90712-24ad-4504-b7fd-6ec603a2dbdc" ParentWebUrl="/sites/GN_GCinterna/servicionominasyestudioseconomicos/Expedientes" Url="/sites/GN_GCinterna/servicionominasyestudioseconomicos/Expedientes/M">
+    <DocumentLibrary Id="d638c48e-a3fe-4494-902e-5fedb0df1a7f" BaseTemplate="DocumentLibrary" RootFolderId="b503ddd9-b4b1-4bf5-b641-43033bc7ade1" RootFolderUrl="/sites/GN_GCinterna/servicionominasyestudioseconomicos/Expedientes/M" ParentWebId="a9a90712-24ad-4504-b7fd-6ec603a2dbdc" ParentWebUrl="/sites/GN_GCinterna/servicionominasyestudioseconomicos/Expedientes" Title="M" HasUniqueRoleAssignments="false" />
+  </SPObject>
+  <SPObject Id="2019f96e-daae-489e-9be8-646553d8907a" ObjectType="SPFile" ParentId="b503ddd9-b4b1-4bf5-b641-43033bc7ade1" ParentWebId="a9a90712-24ad-4504-b7fd-6ec603a2dbdc" ParentWebUrl="/sites/GN_GCinterna/servicionominasyestudioseconomicos/Expedientes" Url="M/MO_MU_1.pdf">
+    <File Url="M/MO_MU_1.pdf" Id="2019f96e-daae-489e-9be8-646553d8907a" ParentWebId="a9a90712-24ad-4504-b7fd-6ec603a2dbdc" ParentWebUrl="/sites/GN_GCinterna/servicionominasyestudioseconomicos/Expedientes" Name="MO_MU_1.pdf" ListItemIntId="4" ListId="d638c48e-a3fe-4494-902e-5fedb0df1a7f" ParentId="b503ddd9-b4b1-4bf5-b641-43033bc7ade1" TimeCreated="2022-03-22T11:48:20" TimeLastModified="2022-03-22T11:48:20" Version="1.0" FileValue="07ccec3b-decc-743c-82ec-2a5780d046c5.dat" Author="22" ModifiedBy="22" MD5Hash="9SI4CAISovXP23kx/5OHUg==" InitializationVector="R9f50w4BmIqKD446L0Ybqg==">
+      <Properties />
+    </File>
+  </SPObject>
+  <SPObject Id="7f5e6966-fcaa-45b0-b1bb-69c52bd5dc2c" ObjectType="SPFile" ParentId="fd0de91d-1147-4a27-b826-5e53dddf0807" ParentWebId="a9a90712-24ad-4504-b7fd-6ec603a2dbdc" ParentWebUrl="/sites/GN_GCinterna/servicionominasyestudioseconomicos/Expedientes" Url="I/IR.pdf">
+    <File Url="I/IR.pdf" Id="7f5e6966-fcaa-45b0-b1bb-69c52bd5dc2c" ParentWebId="a9a90712-24ad-4504-b7fd-6ec603a2dbdc" ParentWebUrl="/sites/GN_GCinterna/servicionominasyestudioseconomicos/Expedientes" Name="IR.pdf" ListItemIntId="2" ListId="e35814fe-0002-4beb-ba78-b79144c16a28" ParentId="fd0de91d-1147-4a27-b826-5e53dddf0807" TimeCreated="2022-03-22T10:12:15" TimeLastModified="2022-03-22T10:12:15" Version="1.0" FileValue="d7eb7c55-98b6-7e55-9a3c-fb6e6b6983c0.dat" Author="22" ModifiedBy="22" MD5Hash="bbJcoeWCJ0eHAE/uWaHqOA==" InitializationVector="rsIhKTdmif9bVrqK52c3TA==">
+      <Properties />
+    </File>
+  </SPObject>
+  <SPObject Id="7066d3a3-42b6-47e1-a623-ca282b4222ab" ObjectType="SPFile" ParentId="b503ddd9-b4b1-4bf5-b641-43033bc7ade1" ParentWebId="a9a90712-24ad-4504-b7fd-6ec603a2dbdc" ParentWebUrl="/sites/GN_GCinterna/servicionominasyestudioseconomicos/Expedientes" Url="M/M_1.pdf">
+    <File Url="M/M_1.pdf" Id="7066d3a3-42b6-47e1-a623-ca282b4222ab" ParentWebId="a9a90712-24ad-4504-b7fd-6ec603a2dbdc" ParentWebUrl="/sites/GN_GCinterna/servicionominasyestudioseconomicos/Expedientes" Name="M_1.pdf" ListItemIntId="5" ListId="d638c48e-a3fe-4494-902e-5fedb0df1a7f" ParentId="b503ddd9-b4b1-4bf5-b641-43033bc7ade1" TimeCreated="2023-02-06T10:00:05" TimeLastModified="2023-02-06T10:00:05" Version="1.0" FileValue="c6a479f0-e087-770d-8489-5d7ace916dc7.dat" Author="22" ModifiedBy="22" MD5Hash="8PzbA14R3KUPqETYzCADzQ==" InitializationVector="cphm/yuCaZ1v44G+m8I38A==">
+      <Properties>
+        <Property Name="Tipo de Contrato" Type="String" Access="ReadWrite" Value="Histórico" />
+      </Properties>
+    </File>
+  </SPObject>
+  <SPObject Id="939cfc67-3ad7-47ff-9bf5-7a68b689d084" ObjectType="SPListItem" ParentId="52cac117-2c34-4065-a42a-65c96cceb0db" ParentWebId="a9a90712-24ad-4504-b7fd-6ec603a2dbdc" ParentWebUrl="/sites/GN_GCinterna/servicionominasyestudioseconomicos/Expedientes" Url="K/K.pdf">
+    <ListItem FileUrl="K/K.pdf" DocType="File" ParentFolderId="668f2d37-f824-4f1c-9891-37524f209c2a" Id="939cfc67-3ad7-47ff-9bf5-7a68b689d084" ParentWebId="a9a90712-24ad-4504-b7fd-6ec603a2dbdc" ParentListId="52cac117-2c34-4065-a42a-65c96cceb0db" Name="K.pdf" DirName="K" Order="100" IntId="1" DocId="939cfc67-3ad7-47ff-9bf5-7a68b689d084" Version="1.0" TimeCreated="2022-03-22T11:26:39" TimeLastModified="2022-03-22T11:26:39" ContentTypeId="0x0101002B996F232B88394D88053CEEB4138E0D" ModerationStatus="Approved" Author="22" ModifiedBy="22">
+      <Fields>
+        <Field Name="Title" />
+        <Field Name="TipoContrato" />
+      </Fields>
+    </ListItem>
+  </SPObject>
+  <SPObject Id="0ddb6c78-347c-4914-a6f6-d176e624772b" ObjectType="SPListItem" ParentId="e35814fe-0002-4beb-ba78-b79144c16a28" ParentWebId="a9a90712-24ad-4504-b7fd-6ec603a2dbdc" ParentWebUrl="/sites/GN_GCinterna/servicionominasyestudioseconomicos/Expedientes" Url="I/IBAÑEZ_IPIÑA.pdf">
+    <ListItem FileUrl="I/IBAÑEZ_IPIÑA.pdf" DocType="File" ParentFolderId="fd0de91d-1147-4a27-b826-5e53dddf0807" Id="0ddb6c78-347c-4914-a6f6-d176e624772b" ParentWebId="a9a90712-24ad-4504-b7fd-6ec603a2dbdc" ParentListId="e35814fe-0002-4beb-ba78-b79144c16a28" Name="IBAÑEZ_IPIÑA.pdf" DirName="I" Order="100" IntId="1" DocId="0ddb6c78-347c-4914-a6f6-d176e624772b" Version="1.0" TimeCreated="2022-03-22T10:11:22" TimeLastModified="2022-03-22T10:11:22" ContentTypeId="0x01010002C33E42273AE940831DB98EDE81E10E" ModerationStatus="Approved" Author="22" ModifiedBy="22">
+      <Fields>
+        <Field Name="Title" />
+        <Field Name="TipoContrato" />
+      </Fields>
+    </ListItem>
+  </SPObject>
+  <SPObject Id="3565d6ac-b342-435a-b8a1-923b5d0e7196" ObjectType="SPListItem" ParentId="07a38639-7f9f-473f-8ec0-1bb1bd2cb3a8" ParentWebId="a9a90712-24ad-4504-b7fd-6ec603a2dbdc" ParentWebUrl="/sites/GN_GCinterna/servicionominasyestudioseconomicos/Expedientes" Url="J/J.pdf">
+    <ListItem FileUrl="J/J.pdf" DocType="File" ParentFolderId="09a57c0b-bede-472c-ae48-123b787e2aeb" Id="3565d6ac-b342-435a-b8a1-923b5d0e7196" ParentWebId="a9a90712-24ad-4504-b7fd-6ec603a2dbdc" ParentListId="07a38639-7f9f-473f-8ec0-1bb1bd2cb3a8" Name="J.pdf" DirName="J" Order="100" IntId="1" DocId="3565d6ac-b342-435a-b8a1-923b5d0e7196" Version="1.0" TimeCreated="2022-03-22T11:25:58" TimeLastModified="2022-03-22T11:25:58" ContentTypeId="0x01010097C7B6B311838047B590479C7345BDE7" ModerationStatus="Approved" Author="22" ModifiedBy="22">
+      <Fields>
+        <Field Name="Title" />
+        <Field Name="TipoContrato" />
+      </Fields>
+    </ListItem>
+  </SPObject>
+  <SPObject Id="dbc6c239-1857-48cf-b5c6-8981aae064cc" ObjectType="SPListItem" ParentId="e35814fe-0002-4beb-ba78-b79144c16a28" ParentWebId="a9a90712-24ad-4504-b7fd-6ec603a2dbdc" ParentWebUrl="/sites/GN_GCinterna/servicionominasyestudioseconomicos/Expedientes" Url="I/I_1.pdf">
+    <ListItem FileUrl="I/I_1.pdf" DocType="File" ParentFolderId="fd0de91d-1147-4a27-b826-5e53dddf0807" Id="dbc6c239-1857-48cf-b5c6-8981aae064cc" ParentWebId="a9a90712-24ad-4504-b7fd-6ec603a2dbdc" ParentListId="e35814fe-0002-4beb-ba78-b79144c16a28" Name="I_1.pdf" DirName="I" Order="300" IntId="3" DocId="dbc6c239-1857-48cf-b5c6-8981aae064cc" Version="1.0" TimeCreated="2023-02-06T09:35:23" TimeLastModified="2023-02-06T09:35:23" ContentTypeId="0x01010002C33E42273AE940831DB98EDE81E10E" ModerationStatus="Approved" Author="22" ModifiedBy="22">
+      <Fields>
+        <Field Name="Title" />
+        <Field Name="TipoContrato" Value="Histórico" />
+      </Fields>
+    </ListItem>
+  </SPObject>
+  <SPObject Id="51443b50-6eac-4790-91af-f81ec15a2f2c" ObjectType="SPListItem" ParentId="07a38639-7f9f-473f-8ec0-1bb1bd2cb3a8" ParentWebId="a9a90712-24ad-4504-b7fd-6ec603a2dbdc" ParentWebUrl="/sites/GN_GCinterna/servicionominasyestudioseconomicos/Expedientes" Url="J/J_K.pdf">
+    <ListItem FileUrl="J/J_K.pdf" DocType="File" ParentFolderId="09a57c0b-bede-472c-ae48-123b787e2aeb" Id="51443b50-6eac-4790-91af-f81ec15a2f2c" ParentWebId="a9a90712-24ad-4504-b7fd-6ec603a2dbdc" ParentListId="07a38639-7f9f-473f-8ec0-1bb1bd2cb3a8" Name="J_K.pdf" DirName="J" Order="200" IntId="2" DocId="51443b50-6eac-4790-91af-f81ec15a2f2c" Version="1.0" TimeCreated="2023-02-06T09:39:15" TimeLastModified="2023-02-06T09:39:15" ContentTypeId="0x01010097C7B6B311838047B590479C7345BDE7" ModerationStatus="Approved" Author="22" ModifiedBy="22">
+      <Fields>
+        <Field Name="Title" />
+        <Field Name="TipoContrato" Value="Histórico" />
+      </Fields>
+    </ListItem>
+  </SPObject>
+  <SPObject Id="2019f96e-daae-489e-9be8-646553d8907a" ObjectType="SPListItem" ParentId="d638c48e-a3fe-4494-902e-5fedb0df1a7f" ParentWebId="a9a90712-24ad-4504-b7fd-6ec603a2dbdc" ParentWebUrl="/sites/GN_GCinterna/servicionominasyestudioseconomicos/Expedientes" Url="M/MO_MU_1.pdf">
+    <ListItem FileUrl="M/MO_MU_1.pdf" DocType="File" ParentFolderId="b503ddd9-b4b1-4bf5-b641-43033bc7ade1" Id="2019f96e-daae-489e-9be8-646553d8907a" ParentWebId="a9a90712-24ad-4504-b7fd-6ec603a2dbdc" ParentListId="d638c48e-a3fe-4494-902e-5fedb0df1a7f" Name="MO_MU_1.pdf" DirName="M" Order="400" IntId="4" DocId="2019f96e-daae-489e-9be8-646553d8907a" Version="1.0" TimeCreated="2022-03-22T11:48:20" TimeLastModified="2022-03-22T11:48:20" ContentTypeId="0x010100F69842DCF7907441924334D59C8F13F0" ModerationStatus="Approved" Author="22" ModifiedBy="22">
+      <Fields>
+        <Field Name="Title" />
+        <Field Name="TipoContrato" />
+      </Fields>
+    </ListItem>
+  </SPObject>
+  <SPObject Id="7f5e6966-fcaa-45b0-b1bb-69c52bd5dc2c" ObjectType="SPListItem" ParentId="e35814fe-0002-4beb-ba78-b79144c16a28" ParentWebId="a9a90712-24ad-4504-b7fd-6ec603a2dbdc" ParentWebUrl="/sites/GN_GCinterna/servicionominasyestudioseconomicos/Expedientes" Url="I/IR.pdf">
+    <ListItem FileUrl="I/IR.pdf" DocType="File" ParentFolderId="fd0de91d-1147-4a27-b826-5e53dddf0807" Id="7f5e6966-fcaa-45b0-b1bb-69c52bd5dc2c" ParentWebId="a9a90712-24ad-4504-b7fd-6ec603a2dbdc" ParentListId="e35814fe-0002-4beb-ba78-b79144c16a28" Name="IR.pdf" DirName="I" Order="200" IntId="2" DocId="7f5e6966-fcaa-45b0-b1bb-69c52bd5dc2c" Version="1.0" TimeCreated="2022-03-22T10:12:15" TimeLastModified="2022-03-22T10:12:15" ContentTypeId="0x01010002C33E42273AE940831DB98EDE81E10E" ModerationStatus="Approved" Author="22" ModifiedBy="22">
+      <Fields>
+        <Field Name="Title" />
+        <Field Name="TipoContrato" />
+      </Fields>
+    </ListItem>
+  </SPObject>
+  <SPObject Id="7066d3a3-42b6-47e1-a623-ca282b4222ab" ObjectType="SPListItem" ParentId="d638c48e-a3fe-4494-902e-5fedb0df1a7f" ParentWebId="a9a90712-24ad-4504-b7fd-6ec603a2dbdc" ParentWebUrl="/sites/GN_GCinterna/servicionominasyestudioseconomicos/Expedientes" Url="M/M_1.pdf">
+    <ListItem FileUrl="M/M_1.pdf" DocType="File" ParentFolderId="b503ddd9-b4b1-4bf5-b641-43033bc7ade1" Id="7066d3a3-42b6-47e1-a623-ca282b4222ab" ParentWebId="a9a90712-24ad-4504-b7fd-6ec603a2dbdc" ParentListId="d638c48e-a3fe-4494-902e-5fedb0df1a7f" Name="M_1.pdf" DirName="M" Order="500" IntId="5" DocId="7066d3a3-42b6-47e1-a623-ca282b4222ab" Version="1.0" TimeCreated="2023-02-06T10:00:05" TimeLastModified="2023-02-06T10:00:05" ContentTypeId="0x010100F69842DCF7907441924334D59C8F13F0" ModerationStatus="Approved" Author="22" ModifiedBy="22">
+      <Fields>
+        <Field Name="Title" />
+        <Field Name="TipoContrato" Value="Histórico" />
+      </Fields>
+    </ListItem>
+  </SPObject>
+  <SPObject Id="465e3f6d-2f14-4add-b3de-1c53ed4933d7" ObjectType="DeploymentRoles" ParentId="d58c4c9f-3aa8-4418-b177-fc30ed164ff0" ParentWebId="d58c4c9f-3aa8-4418-b177-fc30ed164ff0" ParentWebUrl="/sites/GN_GCinterna/servicionominasyestudioseconomicos">
+    <Roles>
+      <Role RoleId="1073741829" Title="$Resources:fpext,0x001C003Bu" Description="Tiene control total." PermMask="9223372036854775807" Hidden="false" RoleOrder="1" Type="5" />
+      <Role RoleId="1073741825" Title="$Resources:fpext,0x001C0040u" Description="Puede ver listas, bibliotecas de documentos, elementos de lista, carpetas o documentos específicos si tiene permisos." PermMask="68853760000" Hidden="true" RoleOrder="160" Type="1" />
+      <Role RoleId="1073741827" Title="$Resources:fpext,0x001C003Du" Description="Puede ver, agregar, actualizar y eliminar elementos de lista y documentos." PermMask="1856436900591" Hidden="false" RoleOrder="64" Type="3" />
+      <Role RoleId="1073741826" Title="$Resources:fpext,0x001C003Fu" Description="Puede ver páginas y elementos de lista, y descargar documentos." PermMask="756052856929" Hidden="false" RoleOrder="128" Type="2" />
+    </Roles>
+  </SPObject>
+  <SPObject Id="a977f21c-fff0-4bcd-9227-05cd5e93ad45" ObjectType="DeploymentRoleAssignments" ParentId="6f10291f-033d-4a10-a732-151d111f78cf" ParentWebId="d58c4c9f-3aa8-4418-b177-fc30ed164ff0" ParentWebUrl="/sites/GN_GCinterna/servicionominasyestudioseconomicos">
+    <RoleAssignments>
+      <RoleAssignment ScopeId="162adb4a-d8a6-4821-a99e-4e7823ee6217" RoleDefWebId="d58c4c9f-3aa8-4418-b177-fc30ed164ff0" RoleDefWebUrl="/sites/GN_GCinterna/servicionominasyestudioseconomicos" ObjectId="6f10291f-033d-4a10-a732-151d111f78cf" ObjectType="0" ObjectUrl="/sites/GN_GCinterna/servicionominasyestudioseconomicos" AnonymousPermMask="0">
+        <Assignment RoleId="1073741829" PrincipalId="1" />
+        <Assignment RoleId="1073741825" PrincipalId="1" />
+        <Assignment RoleId="1073741827" PrincipalId="5" />
+        <Assignment RoleId="1073741826" PrincipalId="21" />
+      </RoleAssignment>
+    </RoleAssignments>
+  </SPObject>
+</SPObjects>

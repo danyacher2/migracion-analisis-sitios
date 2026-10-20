@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RootObjects xmlns="urn:deployment-rootobjectmap-schema">
+  <RootObject Id="1543dbd5-dac9-4f68-98b9-60e4120986a7" Type="List" Url="/sites/GN_GCinterna/servicionominasyestudioseconomicos/CarpetasEscaneadasSS" ParentId="d58c4c9f-3aa8-4418-b177-fc30ed164ff0" WebUrl="/sites/GN_GCinterna/servicionominasyestudioseconomicos" IsDependency="false" />
+  <RootObject Id="3e4e3c0e-32f6-49dc-82ce-36b824a809f4" Type="List" Url="/sites/GN_GCinterna/servicionominasyestudioseconomicos/Expedientes/W" ParentId="a9a90712-24ad-4504-b7fd-6ec603a2dbdc" WebUrl="/sites/GN_GCinterna/servicionominasyestudioseconomicos/Expedientes" IsDependency="false" />
+  <RootObject Id="be67f4a8-97a2-4d95-b2c6-de95c99c4164" Type="List" Url="/sites/GN_GCinterna/servicionominasyestudioseconomicos/Expedientes/V" ParentId="a9a90712-24ad-4504-b7fd-6ec603a2dbdc" WebUrl="/sites/GN_GCinterna/servicionominasyestudioseconomicos/Expedientes" IsDependency="false" />
+</RootObjects>

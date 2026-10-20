@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RootObjects xmlns="urn:deployment-rootobjectmap-schema">
+  <RootObject Id="42396351-adde-408f-9031-5453496dd801" Type="List" Url="/sites/GN_GCinterna/servicionominasyestudioseconomicos/Expedientes/F" ParentId="a9a90712-24ad-4504-b7fd-6ec603a2dbdc" WebUrl="/sites/GN_GCinterna/servicionominasyestudioseconomicos/Expedientes" IsDependency="false" />
+  <RootObject Id="eba92bab-a488-4a65-9670-04275a0e4579" Type="List" Url="/sites/GN_GCinterna/servicionominasyestudioseconomicos/Expedientes/E" ParentId="a9a90712-24ad-4504-b7fd-6ec603a2dbdc" WebUrl="/sites/GN_GCinterna/servicionominasyestudioseconomicos/Expedientes" IsDependency="false" />
+  <RootObject Id="3b03c940-92cf-4c60-bf42-b6dfffc9d0e5" Type="List" Url="/sites/GN_GCinterna/servicionominasyestudioseconomicos/Expedientes/C" ParentId="a9a90712-24ad-4504-b7fd-6ec603a2dbdc" WebUrl="/sites/GN_GCinterna/servicionominasyestudioseconomicos/Expedientes" IsDependency="false" />
+</RootObjects>

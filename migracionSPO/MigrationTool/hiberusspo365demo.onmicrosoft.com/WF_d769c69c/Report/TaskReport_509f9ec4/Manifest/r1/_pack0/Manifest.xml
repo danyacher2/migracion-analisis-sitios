@@ -1,0 +1,350 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SPObjects xmlns="urn:deployment-manifest-schema">
+  <SPObject Id="dc6ae239-ffa0-4aef-83da-4fda1fdf94f5" ObjectType="SPFolder" ParentId="00000000-0000-0000-0000-000000000000" ParentWebId="de5bb31f-2b83-4ca8-9040-002ba663a781" ParentWebUrl="/sites/GN_GCinterna" Url="/sites/GN_GCinterna">
+    <Folder Id="dc6ae239-ffa0-4aef-83da-4fda1fdf94f5" Name="GN_GCinterna" ParentFolderId="00000000-0000-0000-0000-000000000000" ParentWebId="de5bb31f-2b83-4ca8-9040-002ba663a781" ParentWebUrl="/sites/GN_GCinterna" Url="/sites/GN_GCinterna" TimeCreated="2026-10-10T20:29:26" TimeLastModified="2026-10-16T13:17:31" />
+  </SPObject>
+  <SPObject Id="6f10291f-033d-4a10-a732-151d111f78cf" ObjectType="SPFolder" ParentId="dc6ae239-ffa0-4aef-83da-4fda1fdf94f5" ParentWebId="d58c4c9f-3aa8-4418-b177-fc30ed164ff0" ParentWebUrl="/sites/GN_GCinterna/servicionominasyestudioseconomicos" Url="/sites/GN_GCinterna/servicionominasyestudioseconomicos">
+    <Folder Id="6f10291f-033d-4a10-a732-151d111f78cf" Name="servicionominasyestudioseconomicos" ParentFolderId="dc6ae239-ffa0-4aef-83da-4fda1fdf94f5" ParentWebId="d58c4c9f-3aa8-4418-b177-fc30ed164ff0" ParentWebUrl="/sites/GN_GCinterna/servicionominasyestudioseconomicos" Url="/sites/GN_GCinterna/servicionominasyestudioseconomicos" TimeCreated="2026-10-16T16:05:55" TimeLastModified="2026-10-16T16:06:01" />
+  </SPObject>
+  <SPObject Id="5dd98cc4-90ee-4a9a-812d-2467ca19c2d2" ObjectType="SPFolder" ParentId="6f10291f-033d-4a10-a732-151d111f78cf" ParentWebId="d58c4c9f-3aa8-4418-b177-fc30ed164ff0" ParentWebUrl="/sites/GN_GCinterna/servicionominasyestudioseconomicos" Url="/sites/GN_GCinterna/servicionominasyestudioseconomicos/CarpetasEscaneadasSS">
+    <Folder Id="5dd98cc4-90ee-4a9a-812d-2467ca19c2d2" Name="CarpetasEscaneadasSS" ParentFolderId="6f10291f-033d-4a10-a732-151d111f78cf" ParentWebId="d58c4c9f-3aa8-4418-b177-fc30ed164ff0" ParentWebUrl="/sites/GN_GCinterna/servicionominasyestudioseconomicos" Url="/sites/GN_GCinterna/servicionominasyestudioseconomicos/CarpetasEscaneadasSS" TimeCreated="2026-10-16T16:07:25" TimeLastModified="2026-10-19T15:01:44" />
+  </SPObject>
+  <SPObject Id="1543dbd5-dac9-4f68-98b9-60e4120986a7" ObjectType="SPDocumentLibrary" ParentId="d58c4c9f-3aa8-4418-b177-fc30ed164ff0" ParentWebId="d58c4c9f-3aa8-4418-b177-fc30ed164ff0" ParentWebUrl="/sites/GN_GCinterna/servicionominasyestudioseconomicos" Url="/sites/GN_GCinterna/servicionominasyestudioseconomicos/CarpetasEscaneadasSS">
+    <DocumentLibrary Id="1543dbd5-dac9-4f68-98b9-60e4120986a7" BaseTemplate="DocumentLibrary" RootFolderId="5dd98cc4-90ee-4a9a-812d-2467ca19c2d2" RootFolderUrl="/sites/GN_GCinterna/servicionominasyestudioseconomicos/CarpetasEscaneadasSS" ParentWebId="d58c4c9f-3aa8-4418-b177-fc30ed164ff0" ParentWebUrl="/sites/GN_GCinterna/servicionominasyestudioseconomicos" Title="Carpetas Escaneadas SS" HasUniqueRoleAssignments="false" />
+  </SPObject>
+  <SPObject Id="460c7004-c365-407d-8644-6472e89fc438" ObjectType="SPFile" ParentId="5dd98cc4-90ee-4a9a-812d-2467ca19c2d2" ParentWebId="d58c4c9f-3aa8-4418-b177-fc30ed164ff0" ParentWebUrl="/sites/GN_GCinterna/servicionominasyestudioseconomicos" Url="CarpetasEscaneadasSS/Accidentes Muface De PANIAGUA A REDIN (2011-17)_ocred.pdf">
+    <File Url="CarpetasEscaneadasSS/Accidentes Muface De PANIAGUA A REDIN (2011-17)_ocred.pdf" Id="460c7004-c365-407d-8644-6472e89fc438" ParentWebId="d58c4c9f-3aa8-4418-b177-fc30ed164ff0" ParentWebUrl="/sites/GN_GCinterna/servicionominasyestudioseconomicos" Name="Accidentes Muface De PANIAGUA A REDIN (2011-17)_ocred.pdf" ListItemIntId="4" ListId="1543dbd5-dac9-4f68-98b9-60e4120986a7" ParentId="5dd98cc4-90ee-4a9a-812d-2467ca19c2d2" TimeCreated="2024-12-17T14:11:00" TimeLastModified="2024-12-17T14:11:00" Version="1.0" FileValue="0aff7121-aeb2-73cf-90f1-bc64ff32280c.dat" Author="31" ModifiedBy="31" MD5Hash="pjBrXehUP6xPhwt6bUAnZQ==" InitializationVector="x/SsXykr2tc1xWQYXihq3A==">
+      <Properties />
+    </File>
+  </SPObject>
+  <SPObject Id="fc9a8179-ad45-4e9e-a2ad-7fe9aa2185f3" ObjectType="SPFile" ParentId="5dd98cc4-90ee-4a9a-812d-2467ca19c2d2" ParentWebId="d58c4c9f-3aa8-4418-b177-fc30ed164ff0" ParentWebUrl="/sites/GN_GCinterna/servicionominasyestudioseconomicos" Url="CarpetasEscaneadasSS/Arroyo Abad, Erkuden-Pajares Garcia, Erkuden - aviso Tumutua.msg">
+    <File Url="CarpetasEscaneadasSS/Arroyo Abad, Erkuden-Pajares Garcia, Erkuden - aviso Tumutua.msg" Id="fc9a8179-ad45-4e9e-a2ad-7fe9aa2185f3" ParentWebId="d58c4c9f-3aa8-4418-b177-fc30ed164ff0" ParentWebUrl="/sites/GN_GCinterna/servicionominasyestudioseconomicos" Name="Arroyo Abad, Erkuden-Pajares Garcia, Erkuden - aviso Tumutua.msg" ListItemIntId="77" ListId="1543dbd5-dac9-4f68-98b9-60e4120986a7" ParentId="5dd98cc4-90ee-4a9a-812d-2467ca19c2d2" TimeCreated="2026-03-09T12:39:24" TimeLastModified="2026-03-09T12:39:24" Version="1.0" FileValue="199ec67a-6cd6-7b42-af95-f4177a55eaea.dat" Author="336" ModifiedBy="336" MD5Hash="z/BttC9dDFCtK74cK1DOOA==" InitializationVector="v8yLII5CZbKXOjS+cfaf8A==">
+      <Properties />
+    </File>
+  </SPObject>
+  <SPObject Id="11ffe89d-37b2-49b7-ab9c-b4bd6ccd7011" ObjectType="SPFile" ParentId="5dd98cc4-90ee-4a9a-812d-2467ca19c2d2" ParentWebId="d58c4c9f-3aa8-4418-b177-fc30ed164ff0" ParentWebUrl="/sites/GN_GCinterna/servicionominasyestudioseconomicos" Url="CarpetasEscaneadasSS/Bergerandi De Miguel, N_baja.pdf">
+    <File Url="CarpetasEscaneadasSS/Bergerandi De Miguel, N_baja.pdf" Id="11ffe89d-37b2-49b7-ab9c-b4bd6ccd7011" ParentWebId="d58c4c9f-3aa8-4418-b177-fc30ed164ff0" ParentWebUrl="/sites/GN_GCinterna/servicionominasyestudioseconomicos" Name="Bergerandi De Miguel, N_baja.pdf" ListItemIntId="82" ListId="1543dbd5-dac9-4f68-98b9-60e4120986a7" ParentId="5dd98cc4-90ee-4a9a-812d-2467ca19c2d2" TimeCreated="2026-03-09T12:39:24" TimeLastModified="2026-03-09T12:39:24" Version="1.0" FileValue="dde6f4ae-ea8b-73b4-b65f-e9f14e242cc2.dat" Author="336" ModifiedBy="336" MD5Hash="TWb2ZA+iTlsmuwnlEJ7G5Q==" InitializationVector="8wV2OhLo8hs/gaLSTg15TQ==">
+      <Properties />
+    </File>
+  </SPObject>
+  <SPObject Id="cfc2ba26-50a0-4c58-84c1-f663c9852201" ObjectType="SPFile" ParentId="5dd98cc4-90ee-4a9a-812d-2467ca19c2d2" ParentWebId="d58c4c9f-3aa8-4418-b177-fc30ed164ff0" ParentWebUrl="/sites/GN_GCinterna/servicionominasyestudioseconomicos" Url="CarpetasEscaneadasSS/Bravo Calvo, Laura Pilar_parte accidente.pdf">
+    <File Url="CarpetasEscaneadasSS/Bravo Calvo, Laura Pilar_parte accidente.pdf" Id="cfc2ba26-50a0-4c58-84c1-f663c9852201" ParentWebId="d58c4c9f-3aa8-4418-b177-fc30ed164ff0" ParentWebUrl="/sites/GN_GCinterna/servicionominasyestudioseconomicos" Name="Bravo Calvo, Laura Pilar_parte accidente.pdf" ListItemIntId="84" ListId="1543dbd5-dac9-4f68-98b9-60e4120986a7" ParentId="5dd98cc4-90ee-4a9a-812d-2467ca19c2d2" TimeCreated="2026-03-09T12:39:24" TimeLastModified="2026-03-09T12:39:24" Version="1.0" FileValue="46714018-89cf-7cf8-9d6a-630603211471.dat" Author="336" ModifiedBy="336" MD5Hash="BMdko4xywWEFzH27/T3fMA==" InitializationVector="qy/0Fvn4BZPYcmLcMEdjUA==">
+      <Properties />
+    </File>
+  </SPObject>
+  <SPObject Id="cd2a140c-34be-4693-9834-122d00811cd3" ObjectType="SPFile" ParentId="5dd98cc4-90ee-4a9a-812d-2467ca19c2d2" ParentWebId="d58c4c9f-3aa8-4418-b177-fc30ed164ff0" ParentWebUrl="/sites/GN_GCinterna/servicionominasyestudioseconomicos" Url="CarpetasEscaneadasSS/Accidentes Muface De SOLA A ZURUTUZA (2011-17)_ocred.pdf">
+    <File Url="CarpetasEscaneadasSS/Accidentes Muface De SOLA A ZURUTUZA (2011-17)_ocred.pdf" Id="cd2a140c-34be-4693-9834-122d00811cd3" ParentWebId="d58c4c9f-3aa8-4418-b177-fc30ed164ff0" ParentWebUrl="/sites/GN_GCinterna/servicionominasyestudioseconomicos" Name="Accidentes Muface De SOLA A ZURUTUZA (2011-17)_ocred.pdf" ListItemIntId="6" ListId="1543dbd5-dac9-4f68-98b9-60e4120986a7" ParentId="5dd98cc4-90ee-4a9a-812d-2467ca19c2d2" TimeCreated="2024-12-17T14:11:10" TimeLastModified="2024-12-17T14:11:10" Version="1.0" FileValue="a68f5715-8db9-7227-863b-daff7a172db0.dat" Author="31" ModifiedBy="31" MD5Hash="mBCZjNq9G0wbD4+pWasf3A==" InitializationVector="Fpx18ugP0vCkqYv4X5VJLg==">
+      <Properties />
+    </File>
+  </SPObject>
+  <SPObject Id="801e3617-4cfc-4cf4-84ac-a55021afcef1" ObjectType="SPFile" ParentId="5dd98cc4-90ee-4a9a-812d-2467ca19c2d2" ParentWebId="d58c4c9f-3aa8-4418-b177-fc30ed164ff0" ParentWebUrl="/sites/GN_GCinterna/servicionominasyestudioseconomicos" Url="CarpetasEscaneadasSS/Bravo Calvo_LP_anexo I.pdf">
+    <File Url="CarpetasEscaneadasSS/Bravo Calvo_LP_anexo I.pdf" Id="801e3617-4cfc-4cf4-84ac-a55021afcef1" ParentWebId="d58c4c9f-3aa8-4418-b177-fc30ed164ff0" ParentWebUrl="/sites/GN_GCinterna/servicionominasyestudioseconomicos" Name="Bravo Calvo_LP_anexo I.pdf" ListItemIntId="85" ListId="1543dbd5-dac9-4f68-98b9-60e4120986a7" ParentId="5dd98cc4-90ee-4a9a-812d-2467ca19c2d2" TimeCreated="2026-03-09T12:39:25" TimeLastModified="2026-03-09T12:39:25" Version="1.0" FileValue="9a1e3d11-d483-75e8-a9da-4badc25a44ee.dat" Author="336" ModifiedBy="336" MD5Hash="U/dK2YfWbAbCY0j6zDR7Pg==" InitializationVector="ySChUvEv64VMG0Nyx06O1Q==">
+      <Properties />
+    </File>
+  </SPObject>
+  <SPObject Id="d1e5b47a-0ed2-42cc-b123-489ad106c776" ObjectType="SPFile" ParentId="5dd98cc4-90ee-4a9a-812d-2467ca19c2d2" ParentWebId="d58c4c9f-3aa8-4418-b177-fc30ed164ff0" ParentWebUrl="/sites/GN_GCinterna/servicionominasyestudioseconomicos" Url="CarpetasEscaneadasSS/Bravo Calvo_LP_parte accidente.pdf">
+    <File Url="CarpetasEscaneadasSS/Bravo Calvo_LP_parte accidente.pdf" Id="d1e5b47a-0ed2-42cc-b123-489ad106c776" ParentWebId="d58c4c9f-3aa8-4418-b177-fc30ed164ff0" ParentWebUrl="/sites/GN_GCinterna/servicionominasyestudioseconomicos" Name="Bravo Calvo_LP_parte accidente.pdf" ListItemIntId="87" ListId="1543dbd5-dac9-4f68-98b9-60e4120986a7" ParentId="5dd98cc4-90ee-4a9a-812d-2467ca19c2d2" TimeCreated="2026-03-09T12:39:25" TimeLastModified="2026-03-09T12:39:25" Version="1.0" FileValue="4d528514-705b-7f7b-91d1-65dac94b8882.dat" Author="336" ModifiedBy="336" MD5Hash="HZc7ABGP8SSnR6+ienz7kA==" InitializationVector="kSbcZvTpo7NPgZNkYCQM5w==">
+      <Properties />
+    </File>
+  </SPObject>
+  <SPObject Id="f623a4e3-bd65-45d1-89ec-8ab633610d62" ObjectType="SPFile" ParentId="5dd98cc4-90ee-4a9a-812d-2467ca19c2d2" ParentWebId="d58c4c9f-3aa8-4418-b177-fc30ed164ff0" ParentWebUrl="/sites/GN_GCinterna/servicionominasyestudioseconomicos" Url="CarpetasEscaneadasSS/Lora Andres, Olaia_ anexo I.pdf">
+    <File Url="CarpetasEscaneadasSS/Lora Andres, Olaia_ anexo I.pdf" Id="f623a4e3-bd65-45d1-89ec-8ab633610d62" ParentWebId="d58c4c9f-3aa8-4418-b177-fc30ed164ff0" ParentWebUrl="/sites/GN_GCinterna/servicionominasyestudioseconomicos" Name="Lora Andres, Olaia_ anexo I.pdf" ListItemIntId="154" ListId="1543dbd5-dac9-4f68-98b9-60e4120986a7" ParentId="5dd98cc4-90ee-4a9a-812d-2467ca19c2d2" TimeCreated="2026-03-09T12:40:42" TimeLastModified="2026-03-09T12:40:42" Version="1.0" FileValue="a61dce43-95d6-7d2d-90e9-90ff19a087b9.dat" Author="336" ModifiedBy="336" MD5Hash="oQyVdduH0ihMNfxgI/emSw==" InitializationVector="IWvk4hExcPN3D+zaWvIAuQ==">
+      <Properties />
+    </File>
+  </SPObject>
+  <SPObject Id="415315e1-7007-4e45-b63b-dcae7e91f480" ObjectType="SPFile" ParentId="5dd98cc4-90ee-4a9a-812d-2467ca19c2d2" ParentWebId="d58c4c9f-3aa8-4418-b177-fc30ed164ff0" ParentWebUrl="/sites/GN_GCinterna/servicionominasyestudioseconomicos" Url="CarpetasEscaneadasSS/Martin Espildora, Africa_infor San Miguel.pdf">
+    <File Url="CarpetasEscaneadasSS/Martin Espildora, Africa_infor San Miguel.pdf" Id="415315e1-7007-4e45-b63b-dcae7e91f480" ParentWebId="d58c4c9f-3aa8-4418-b177-fc30ed164ff0" ParentWebUrl="/sites/GN_GCinterna/servicionominasyestudioseconomicos" Name="Martin Espildora, Africa_infor San Miguel.pdf" ListItemIntId="155" ListId="1543dbd5-dac9-4f68-98b9-60e4120986a7" ParentId="5dd98cc4-90ee-4a9a-812d-2467ca19c2d2" TimeCreated="2026-03-09T12:40:42" TimeLastModified="2026-03-09T12:40:42" Version="1.0" FileValue="7f889857-012f-7079-94dc-2c3db8eeae9a.dat" Author="336" ModifiedBy="336" MD5Hash="HzMgWcYWzGocBRgAf84PMQ==" InitializationVector="D+Rx/Q31qAUYktpHSuLwcQ==">
+      <Properties />
+    </File>
+  </SPObject>
+  <SPObject Id="290c37f2-f927-475c-8448-1009ed313ca6" ObjectType="SPFile" ParentId="5dd98cc4-90ee-4a9a-812d-2467ca19c2d2" ParentWebId="d58c4c9f-3aa8-4418-b177-fc30ed164ff0" ParentWebUrl="/sites/GN_GCinterna/servicionominasyestudioseconomicos" Url="CarpetasEscaneadasSS/Martin Espildora, Africa_parte accidente.pdf">
+    <File Url="CarpetasEscaneadasSS/Martin Espildora, Africa_parte accidente.pdf" Id="290c37f2-f927-475c-8448-1009ed313ca6" ParentWebId="d58c4c9f-3aa8-4418-b177-fc30ed164ff0" ParentWebUrl="/sites/GN_GCinterna/servicionominasyestudioseconomicos" Name="Martin Espildora, Africa_parte accidente.pdf" ListItemIntId="156" ListId="1543dbd5-dac9-4f68-98b9-60e4120986a7" ParentId="5dd98cc4-90ee-4a9a-812d-2467ca19c2d2" TimeCreated="2026-03-09T12:40:42" TimeLastModified="2026-03-09T12:40:42" Version="1.0" FileValue="eee4382f-45f0-77fa-804a-eeb679ee1f91.dat" Author="336" ModifiedBy="336" MD5Hash="hXdvxE07hh84xSgaqsb1fg==" InitializationVector="aNm/vbMHKwMeI0IrF/WmkQ==">
+      <Properties />
+    </File>
+  </SPObject>
+  <SPObject Id="2eba8915-0860-4a7c-ad0f-a7805a6a22d8" ObjectType="SPFile" ParentId="5dd98cc4-90ee-4a9a-812d-2467ca19c2d2" ParentWebId="d58c4c9f-3aa8-4418-b177-fc30ed164ff0" ParentWebUrl="/sites/GN_GCinterna/servicionominasyestudioseconomicos" Url="CarpetasEscaneadasSS/Martin Espilrora, Africa_anexo I.pdf">
+    <File Url="CarpetasEscaneadasSS/Martin Espilrora, Africa_anexo I.pdf" Id="2eba8915-0860-4a7c-ad0f-a7805a6a22d8" ParentWebId="d58c4c9f-3aa8-4418-b177-fc30ed164ff0" ParentWebUrl="/sites/GN_GCinterna/servicionominasyestudioseconomicos" Name="Martin Espilrora, Africa_anexo I.pdf" ListItemIntId="157" ListId="1543dbd5-dac9-4f68-98b9-60e4120986a7" ParentId="5dd98cc4-90ee-4a9a-812d-2467ca19c2d2" TimeCreated="2026-03-09T12:40:42" TimeLastModified="2026-03-09T12:40:42" Version="1.0" FileValue="5db1cd75-40f4-7889-bce2-f0bde31b7d76.dat" Author="336" ModifiedBy="336" MD5Hash="m74vD2q+RZ/694yiwywyXQ==" InitializationVector="HMFpyu/ASU2+X+jqf8Aufg==">
+      <Properties />
+    </File>
+  </SPObject>
+  <SPObject Id="9d58fe16-fb03-4a32-bd65-52c2f2491968" ObjectType="SPFile" ParentId="5dd98cc4-90ee-4a9a-812d-2467ca19c2d2" ParentWebId="d58c4c9f-3aa8-4418-b177-fc30ed164ff0" ParentWebUrl="/sites/GN_GCinterna/servicionominasyestudioseconomicos" Url="CarpetasEscaneadasSS/Martin Perez, Patricia_ aviso tumutua.msg">
+    <File Url="CarpetasEscaneadasSS/Martin Perez, Patricia_ aviso tumutua.msg" Id="9d58fe16-fb03-4a32-bd65-52c2f2491968" ParentWebId="d58c4c9f-3aa8-4418-b177-fc30ed164ff0" ParentWebUrl="/sites/GN_GCinterna/servicionominasyestudioseconomicos" Name="Martin Perez, Patricia_ aviso tumutua.msg" ListItemIntId="158" ListId="1543dbd5-dac9-4f68-98b9-60e4120986a7" ParentId="5dd98cc4-90ee-4a9a-812d-2467ca19c2d2" TimeCreated="2026-03-09T12:40:42" TimeLastModified="2026-03-09T12:40:42" Version="1.0" FileValue="80d95854-7837-7bcc-91de-2de7dd5c18e0.dat" Author="336" ModifiedBy="336" MD5Hash="AZ+nPdAEuVgbnVJwkWlukA==" InitializationVector="DM+Wn0FlMR8xtgsnCcHGhQ==">
+      <Properties />
+    </File>
+  </SPObject>
+  <SPObject Id="983a7058-dc4e-41fd-9634-e772d8b4f5d5" ObjectType="SPFile" ParentId="5dd98cc4-90ee-4a9a-812d-2467ca19c2d2" ParentWebId="d58c4c9f-3aa8-4418-b177-fc30ed164ff0" ParentWebUrl="/sites/GN_GCinterna/servicionominasyestudioseconomicos" Url="CarpetasEscaneadasSS/Bravo Calvo_LP_envio Muface.msg">
+    <File Url="CarpetasEscaneadasSS/Bravo Calvo_LP_envio Muface.msg" Id="983a7058-dc4e-41fd-9634-e772d8b4f5d5" ParentWebId="d58c4c9f-3aa8-4418-b177-fc30ed164ff0" ParentWebUrl="/sites/GN_GCinterna/servicionominasyestudioseconomicos" Name="Bravo Calvo_LP_envio Muface.msg" ListItemIntId="86" ListId="1543dbd5-dac9-4f68-98b9-60e4120986a7" ParentId="5dd98cc4-90ee-4a9a-812d-2467ca19c2d2" TimeCreated="2026-03-09T12:39:25" TimeLastModified="2026-03-09T12:39:25" Version="1.0" FileValue="6b483ab2-137f-7bb8-96e8-0dc2db91f709.dat" Author="336" ModifiedBy="336" MD5Hash="HC2ytEqZ55jquPTZE5MLXg==" InitializationVector="HTHDVfAdlxFU1ReJtlQ1QA==">
+      <Properties />
+    </File>
+  </SPObject>
+  <SPObject Id="ab951d68-82ee-41bc-bb6b-e2944525f9fb" ObjectType="SPFile" ParentId="5dd98cc4-90ee-4a9a-812d-2467ca19c2d2" ParentWebId="d58c4c9f-3aa8-4418-b177-fc30ed164ff0" ParentWebUrl="/sites/GN_GCinterna/servicionominasyestudioseconomicos" Url="CarpetasEscaneadasSS/Orzanco Burguete, Leire_ parte amistoso accidente tráfico.pdf">
+    <File Url="CarpetasEscaneadasSS/Orzanco Burguete, Leire_ parte amistoso accidente tráfico.pdf" Id="ab951d68-82ee-41bc-bb6b-e2944525f9fb" ParentWebId="d58c4c9f-3aa8-4418-b177-fc30ed164ff0" ParentWebUrl="/sites/GN_GCinterna/servicionominasyestudioseconomicos" Name="Orzanco Burguete, Leire_ parte amistoso accidente tráfico.pdf" ListItemIntId="160" ListId="1543dbd5-dac9-4f68-98b9-60e4120986a7" ParentId="5dd98cc4-90ee-4a9a-812d-2467ca19c2d2" TimeCreated="2026-03-09T12:40:43" TimeLastModified="2026-03-09T12:40:43" Version="1.0" FileValue="d9908449-bb4f-70df-ba9e-61e962cb33de.dat" Author="336" ModifiedBy="336" MD5Hash="lqVkDB9ylbaiIPByym2ByQ==" InitializationVector="Lo0OlMmFQuMNJwLdOEFjlw==">
+      <Properties />
+    </File>
+  </SPObject>
+  <SPObject Id="716e4a43-1df8-43d2-8960-5a6f08d353b9" ObjectType="SPFile" ParentId="5dd98cc4-90ee-4a9a-812d-2467ca19c2d2" ParentWebId="d58c4c9f-3aa8-4418-b177-fc30ed164ff0" ParentWebUrl="/sites/GN_GCinterna/servicionominasyestudioseconomicos" Url="CarpetasEscaneadasSS/Accidentes Muface De NAPAL A PALACIOS (2011-17)_ocred.pdf">
+    <File Url="CarpetasEscaneadasSS/Accidentes Muface De NAPAL A PALACIOS (2011-17)_ocred.pdf" Id="716e4a43-1df8-43d2-8960-5a6f08d353b9" ParentWebId="d58c4c9f-3aa8-4418-b177-fc30ed164ff0" ParentWebUrl="/sites/GN_GCinterna/servicionominasyestudioseconomicos" Name="Accidentes Muface De NAPAL A PALACIOS (2011-17)_ocred.pdf" ListItemIntId="3" ListId="1543dbd5-dac9-4f68-98b9-60e4120986a7" ParentId="5dd98cc4-90ee-4a9a-812d-2467ca19c2d2" TimeCreated="2024-12-17T14:10:55" TimeLastModified="2024-12-17T14:10:55" Version="1.0" FileValue="751361c5-7688-7374-bdac-7b10ceae930e.dat" Author="31" ModifiedBy="31" MD5Hash="pbxUkpabDOUc/4sCqt/+FA==" InitializationVector="qUjJf8fbIZIoByWa5k5PXA==">
+      <Properties />
+    </File>
+  </SPObject>
+  <SPObject Id="4369e76e-fc03-4c2c-b199-b216c3d119d9" ObjectType="SPFile" ParentId="5dd98cc4-90ee-4a9a-812d-2467ca19c2d2" ParentWebId="d58c4c9f-3aa8-4418-b177-fc30ed164ff0" ParentWebUrl="/sites/GN_GCinterna/servicionominasyestudioseconomicos" Url="CarpetasEscaneadasSS/Oroz Garcia, Virginia_parte y anexo I.pdf">
+    <File Url="CarpetasEscaneadasSS/Oroz Garcia, Virginia_parte y anexo I.pdf" Id="4369e76e-fc03-4c2c-b199-b216c3d119d9" ParentWebId="d58c4c9f-3aa8-4418-b177-fc30ed164ff0" ParentWebUrl="/sites/GN_GCinterna/servicionominasyestudioseconomicos" Name="Oroz Garcia, Virginia_parte y anexo I.pdf" ListItemIntId="159" ListId="1543dbd5-dac9-4f68-98b9-60e4120986a7" ParentId="5dd98cc4-90ee-4a9a-812d-2467ca19c2d2" TimeCreated="2026-03-09T12:40:43" TimeLastModified="2026-03-09T12:40:43" Version="1.0" FileValue="d0f72e3c-9b38-7376-a03c-b540df9f0808.dat" Author="336" ModifiedBy="336" MD5Hash="Ix82D1Q/y2UFM6C7g6fZKw==" InitializationVector="OQM9tdB/yBQGm0/yNp3W0A==">
+      <Properties />
+    </File>
+  </SPObject>
+  <SPObject Id="3f3d8d79-b777-4bf9-9692-ff7762ca9bb6" ObjectType="SPFile" ParentId="5dd98cc4-90ee-4a9a-812d-2467ca19c2d2" ParentWebId="d58c4c9f-3aa8-4418-b177-fc30ed164ff0" ParentWebUrl="/sites/GN_GCinterna/servicionominasyestudioseconomicos" Url="CarpetasEscaneadasSS/Accidentes Muface De RODRIGUEZ A SERRANO (2011-17)_ocred.pdf">
+    <File Url="CarpetasEscaneadasSS/Accidentes Muface De RODRIGUEZ A SERRANO (2011-17)_ocred.pdf" Id="3f3d8d79-b777-4bf9-9692-ff7762ca9bb6" ParentWebId="d58c4c9f-3aa8-4418-b177-fc30ed164ff0" ParentWebUrl="/sites/GN_GCinterna/servicionominasyestudioseconomicos" Name="Accidentes Muface De RODRIGUEZ A SERRANO (2011-17)_ocred.pdf" ListItemIntId="5" ListId="1543dbd5-dac9-4f68-98b9-60e4120986a7" ParentId="5dd98cc4-90ee-4a9a-812d-2467ca19c2d2" TimeCreated="2024-12-17T14:11:05" TimeLastModified="2024-12-17T14:11:05" Version="1.0" FileValue="e49151bf-90f7-7165-85f8-bcdc956b304a.dat" Author="31" ModifiedBy="31" MD5Hash="xJvoQUIJQJjWAJCHF/+t5A==" InitializationVector="GgG3E07NldeoxEFGtOW0SA==">
+      <Properties />
+    </File>
+  </SPObject>
+  <SPObject Id="14effb68-2342-4030-bcaf-6325e9e5c50d" ObjectType="SPFolder" ParentId="6f10291f-033d-4a10-a732-151d111f78cf" ParentWebId="a9a90712-24ad-4504-b7fd-6ec603a2dbdc" ParentWebUrl="/sites/GN_GCinterna/servicionominasyestudioseconomicos/Expedientes" Url="/sites/GN_GCinterna/servicionominasyestudioseconomicos/Expedientes">
+    <Folder Id="14effb68-2342-4030-bcaf-6325e9e5c50d" Name="Expedientes" ParentFolderId="6f10291f-033d-4a10-a732-151d111f78cf" ParentWebId="a9a90712-24ad-4504-b7fd-6ec603a2dbdc" ParentWebUrl="/sites/GN_GCinterna/servicionominasyestudioseconomicos/Expedientes" Url="/sites/GN_GCinterna/servicionominasyestudioseconomicos/Expedientes" TimeCreated="2026-10-16T16:53:10" TimeLastModified="2026-10-16T16:53:15" />
+  </SPObject>
+  <SPObject Id="ad5e72d8-6da2-4532-92e0-fa2c4b654e60" ObjectType="SPFolder" ParentId="14effb68-2342-4030-bcaf-6325e9e5c50d" ParentWebId="a9a90712-24ad-4504-b7fd-6ec603a2dbdc" ParentWebUrl="/sites/GN_GCinterna/servicionominasyestudioseconomicos/Expedientes" Url="/sites/GN_GCinterna/servicionominasyestudioseconomicos/Expedientes/W">
+    <Folder Id="ad5e72d8-6da2-4532-92e0-fa2c4b654e60" Name="W" ParentFolderId="14effb68-2342-4030-bcaf-6325e9e5c50d" ParentWebId="a9a90712-24ad-4504-b7fd-6ec603a2dbdc" ParentWebUrl="/sites/GN_GCinterna/servicionominasyestudioseconomicos/Expedientes" Url="/sites/GN_GCinterna/servicionominasyestudioseconomicos/Expedientes/W" TimeCreated="2026-10-16T18:34:54" TimeLastModified="2026-10-16T23:49:41" />
+  </SPObject>
+  <SPObject Id="3e4e3c0e-32f6-49dc-82ce-36b824a809f4" ObjectType="SPDocumentLibrary" ParentId="a9a90712-24ad-4504-b7fd-6ec603a2dbdc" ParentWebId="a9a90712-24ad-4504-b7fd-6ec603a2dbdc" ParentWebUrl="/sites/GN_GCinterna/servicionominasyestudioseconomicos/Expedientes" Url="/sites/GN_GCinterna/servicionominasyestudioseconomicos/Expedientes/W">
+    <DocumentLibrary Id="3e4e3c0e-32f6-49dc-82ce-36b824a809f4" BaseTemplate="DocumentLibrary" RootFolderId="ad5e72d8-6da2-4532-92e0-fa2c4b654e60" RootFolderUrl="/sites/GN_GCinterna/servicionominasyestudioseconomicos/Expedientes/W" ParentWebId="a9a90712-24ad-4504-b7fd-6ec603a2dbdc" ParentWebUrl="/sites/GN_GCinterna/servicionominasyestudioseconomicos/Expedientes" Title="W" HasUniqueRoleAssignments="false" />
+  </SPObject>
+  <SPObject Id="b4eca519-f450-4a25-9838-d0bb0a008735" ObjectType="SPFile" ParentId="ad5e72d8-6da2-4532-92e0-fa2c4b654e60" ParentWebId="a9a90712-24ad-4504-b7fd-6ec603a2dbdc" ParentWebUrl="/sites/GN_GCinterna/servicionominasyestudioseconomicos/Expedientes" Url="W/W.pdf">
+    <File Url="W/W.pdf" Id="b4eca519-f450-4a25-9838-d0bb0a008735" ParentWebId="a9a90712-24ad-4504-b7fd-6ec603a2dbdc" ParentWebUrl="/sites/GN_GCinterna/servicionominasyestudioseconomicos/Expedientes" Name="W.pdf" ListItemIntId="1" ListId="3e4e3c0e-32f6-49dc-82ce-36b824a809f4" ParentId="ad5e72d8-6da2-4532-92e0-fa2c4b654e60" TimeCreated="2022-05-17T09:15:32" TimeLastModified="2022-05-17T09:15:32" Version="1.0" FileValue="17a491d0-58a7-718a-ab2b-4014bc8410f3.dat" Author="289" ModifiedBy="289" MD5Hash="qUbrF5QzIzrH4qkMtweN0w==" InitializationVector="YP1wL2qcHTY7ZuovEE/lVA==">
+      <Properties />
+    </File>
+  </SPObject>
+  <SPObject Id="37f58b25-9f2b-4433-aa88-459c6b52e6be" ObjectType="SPFile" ParentId="5dd98cc4-90ee-4a9a-812d-2467ca19c2d2" ParentWebId="d58c4c9f-3aa8-4418-b177-fc30ed164ff0" ParentWebUrl="/sites/GN_GCinterna/servicionominasyestudioseconomicos" Url="CarpetasEscaneadasSS/Accidentes Laborales de Nagore a Graciarena (hasta 31122017).pdf">
+    <File Url="CarpetasEscaneadasSS/Accidentes Laborales de Nagore a Graciarena (hasta 31122017).pdf" Id="37f58b25-9f2b-4433-aa88-459c6b52e6be" ParentWebId="d58c4c9f-3aa8-4418-b177-fc30ed164ff0" ParentWebUrl="/sites/GN_GCinterna/servicionominasyestudioseconomicos" Name="Accidentes Laborales de Nagore a Graciarena (hasta 31122017).pdf" ListItemIntId="13" ListId="1543dbd5-dac9-4f68-98b9-60e4120986a7" ParentId="5dd98cc4-90ee-4a9a-812d-2467ca19c2d2" TimeCreated="2024-12-18T09:35:47" TimeLastModified="2024-12-18T09:35:47" Version="1.0" FileValue="db0f4797-b92e-72ae-8301-08b18f1b905a.dat" Author="31" ModifiedBy="31" MD5Hash="IIHDhu0SOHMYhbdbnHS4zw==" InitializationVector="WyRmwBlqZFu7OmMPbI9+mQ==">
+      <Properties />
+    </File>
+  </SPObject>
+  <SPObject Id="a7f340ad-ce4f-4e37-b851-96eaf0dfb256" ObjectType="SPFile" ParentId="5dd98cc4-90ee-4a9a-812d-2467ca19c2d2" ParentWebId="d58c4c9f-3aa8-4418-b177-fc30ed164ff0" ParentWebUrl="/sites/GN_GCinterna/servicionominasyestudioseconomicos" Url="CarpetasEscaneadasSS/ACCIDENTES LABORALES D-F_MUFACE 31122017_ocred.pdf">
+    <File Url="CarpetasEscaneadasSS/ACCIDENTES LABORALES D-F_MUFACE 31122017_ocred.pdf" Id="a7f340ad-ce4f-4e37-b851-96eaf0dfb256" ParentWebId="d58c4c9f-3aa8-4418-b177-fc30ed164ff0" ParentWebUrl="/sites/GN_GCinterna/servicionominasyestudioseconomicos" Name="ACCIDENTES LABORALES D-F_MUFACE 31122017_ocred.pdf" ListItemIntId="14" ListId="1543dbd5-dac9-4f68-98b9-60e4120986a7" ParentId="5dd98cc4-90ee-4a9a-812d-2467ca19c2d2" TimeCreated="2024-12-18T09:36:18" TimeLastModified="2024-12-18T09:36:18" Version="1.0" FileValue="a091afa4-2467-77b0-b63a-71c1e422422e.dat" Author="31" ModifiedBy="31" MD5Hash="m2Dbvt0CC/4YwdWhOhLV2g==" InitializationVector="0SAmQWaVjCbqbR9E67snbQ==">
+      <Properties />
+    </File>
+  </SPObject>
+  <SPObject Id="df6814a3-2ad5-4f8c-8f46-74045d971160" ObjectType="SPFile" ParentId="5dd98cc4-90ee-4a9a-812d-2467ca19c2d2" ParentWebId="d58c4c9f-3aa8-4418-b177-fc30ed164ff0" ParentWebUrl="/sites/GN_GCinterna/servicionominasyestudioseconomicos" Url="CarpetasEscaneadasSS/ACCIDENTES LABORALES SEGURIDAD SOCIAL T_Z_ocred.pdf">
+    <File Url="CarpetasEscaneadasSS/ACCIDENTES LABORALES SEGURIDAD SOCIAL T_Z_ocred.pdf" Id="df6814a3-2ad5-4f8c-8f46-74045d971160" ParentWebId="d58c4c9f-3aa8-4418-b177-fc30ed164ff0" ParentWebUrl="/sites/GN_GCinterna/servicionominasyestudioseconomicos" Name="ACCIDENTES LABORALES SEGURIDAD SOCIAL T_Z_ocred.pdf" ListItemIntId="17" ListId="1543dbd5-dac9-4f68-98b9-60e4120986a7" ParentId="5dd98cc4-90ee-4a9a-812d-2467ca19c2d2" TimeCreated="2024-12-18T09:38:10" TimeLastModified="2024-12-18T09:38:10" Version="1.0" FileValue="736fee33-f7e8-7e03-95b9-3294a4564e4b.dat" Author="31" ModifiedBy="31" MD5Hash="h0QEe/ikJQkgU0g4JHvXsA==" InitializationVector="GFnSjG8VDTRCnJV6AxemSQ==">
+      <Properties />
+    </File>
+  </SPObject>
+  <SPObject Id="2841bb9b-990f-4883-8cc1-bb247d0f5df7" ObjectType="SPFile" ParentId="5dd98cc4-90ee-4a9a-812d-2467ca19c2d2" ParentWebId="d58c4c9f-3aa8-4418-b177-fc30ed164ff0" ParentWebUrl="/sites/GN_GCinterna/servicionominasyestudioseconomicos" Url="CarpetasEscaneadasSS/Accidentes laborales S.social_G-M hasta el 311217_ocred.pdf">
+    <File Url="CarpetasEscaneadasSS/Accidentes laborales S.social_G-M hasta el 311217_ocred.pdf" Id="2841bb9b-990f-4883-8cc1-bb247d0f5df7" ParentWebId="d58c4c9f-3aa8-4418-b177-fc30ed164ff0" ParentWebUrl="/sites/GN_GCinterna/servicionominasyestudioseconomicos" Name="Accidentes laborales S.social_G-M hasta el 311217_ocred.pdf" ListItemIntId="16" ListId="1543dbd5-dac9-4f68-98b9-60e4120986a7" ParentId="5dd98cc4-90ee-4a9a-812d-2467ca19c2d2" TimeCreated="2024-12-18T09:37:29" TimeLastModified="2024-12-18T09:37:29" Version="1.0" FileValue="2bbc33a1-6b23-7514-af0a-ef195d179b77.dat" Author="31" ModifiedBy="31" MD5Hash="LcS2hlFpE3m0UvzuL956IQ==" InitializationVector="YIRF1lxP7sLxPWmpK5SqKA==">
+      <Properties />
+    </File>
+  </SPObject>
+  <SPObject Id="ae275ad0-e06c-4647-9257-78a26f93d3ad" ObjectType="SPFile" ParentId="5dd98cc4-90ee-4a9a-812d-2467ca19c2d2" ParentWebId="d58c4c9f-3aa8-4418-b177-fc30ed164ff0" ParentWebUrl="/sites/GN_GCinterna/servicionominasyestudioseconomicos" Url="CarpetasEscaneadasSS/ACCIDENTES LABORALES L-M MUFACE 31122017_ocred.pdf">
+    <File Url="CarpetasEscaneadasSS/ACCIDENTES LABORALES L-M MUFACE 31122017_ocred.pdf" Id="ae275ad0-e06c-4647-9257-78a26f93d3ad" ParentWebId="d58c4c9f-3aa8-4418-b177-fc30ed164ff0" ParentWebUrl="/sites/GN_GCinterna/servicionominasyestudioseconomicos" Name="ACCIDENTES LABORALES L-M MUFACE 31122017_ocred.pdf" ListItemIntId="15" ListId="1543dbd5-dac9-4f68-98b9-60e4120986a7" ParentId="5dd98cc4-90ee-4a9a-812d-2467ca19c2d2" TimeCreated="2024-12-18T09:36:49" TimeLastModified="2024-12-18T09:36:49" Version="1.0" FileValue="53ac9ae3-647f-726c-a70f-932b41ee471c.dat" Author="31" ModifiedBy="31" MD5Hash="65ULLbh0ct2y/ZsUXCTUiA==" InitializationVector="3u8JgnD8ws75Pp4MINe0Xg==">
+      <Properties />
+    </File>
+  </SPObject>
+  <SPObject Id="414abc02-8097-43cb-88d3-56c0aa75b73d" ObjectType="SPFile" ParentId="5dd98cc4-90ee-4a9a-812d-2467ca19c2d2" ParentWebId="d58c4c9f-3aa8-4418-b177-fc30ed164ff0" ParentWebUrl="/sites/GN_GCinterna/servicionominasyestudioseconomicos" Url="CarpetasEscaneadasSS/accidentes laborales seguridad social_I-M_hasta el 3112017_(1)_ocred.pdf">
+    <File Url="CarpetasEscaneadasSS/accidentes laborales seguridad social_I-M_hasta el 3112017_(1)_ocred.pdf" Id="414abc02-8097-43cb-88d3-56c0aa75b73d" ParentWebId="d58c4c9f-3aa8-4418-b177-fc30ed164ff0" ParentWebUrl="/sites/GN_GCinterna/servicionominasyestudioseconomicos" Name="accidentes laborales seguridad social_I-M_hasta el 3112017_(1)_ocred.pdf" ListItemIntId="18" ListId="1543dbd5-dac9-4f68-98b9-60e4120986a7" ParentId="5dd98cc4-90ee-4a9a-812d-2467ca19c2d2" TimeCreated="2024-12-18T09:38:53" TimeLastModified="2024-12-18T09:38:53" Version="1.0" FileValue="a7fd8e9b-bff5-7164-8ca8-d32b1c2f3b36.dat" Author="31" ModifiedBy="31" MD5Hash="kU5eUl7IF3pMNR1wySxIvQ==" InitializationVector="AVTchcvgJMyD4jT5nhezMw==">
+      <Properties />
+    </File>
+  </SPObject>
+  <SPObject Id="bd89ffac-7900-44c6-a9dc-c9b3eaf131ce" ObjectType="SPFolder" ParentId="14effb68-2342-4030-bcaf-6325e9e5c50d" ParentWebId="a9a90712-24ad-4504-b7fd-6ec603a2dbdc" ParentWebUrl="/sites/GN_GCinterna/servicionominasyestudioseconomicos/Expedientes" Url="/sites/GN_GCinterna/servicionominasyestudioseconomicos/Expedientes/V">
+    <Folder Id="bd89ffac-7900-44c6-a9dc-c9b3eaf131ce" Name="V" ParentFolderId="14effb68-2342-4030-bcaf-6325e9e5c50d" ParentWebId="a9a90712-24ad-4504-b7fd-6ec603a2dbdc" ParentWebUrl="/sites/GN_GCinterna/servicionominasyestudioseconomicos/Expedientes" Url="/sites/GN_GCinterna/servicionominasyestudioseconomicos/Expedientes/V" TimeCreated="2026-10-16T18:34:47" TimeLastModified="2026-10-16T23:49:41" />
+  </SPObject>
+  <SPObject Id="be67f4a8-97a2-4d95-b2c6-de95c99c4164" ObjectType="SPDocumentLibrary" ParentId="a9a90712-24ad-4504-b7fd-6ec603a2dbdc" ParentWebId="a9a90712-24ad-4504-b7fd-6ec603a2dbdc" ParentWebUrl="/sites/GN_GCinterna/servicionominasyestudioseconomicos/Expedientes" Url="/sites/GN_GCinterna/servicionominasyestudioseconomicos/Expedientes/V">
+    <DocumentLibrary Id="be67f4a8-97a2-4d95-b2c6-de95c99c4164" BaseTemplate="DocumentLibrary" RootFolderId="bd89ffac-7900-44c6-a9dc-c9b3eaf131ce" RootFolderUrl="/sites/GN_GCinterna/servicionominasyestudioseconomicos/Expedientes/V" ParentWebId="a9a90712-24ad-4504-b7fd-6ec603a2dbdc" ParentWebUrl="/sites/GN_GCinterna/servicionominasyestudioseconomicos/Expedientes" Title="V" HasUniqueRoleAssignments="false" />
+  </SPObject>
+  <SPObject Id="e5114867-e7c2-4831-a40e-832f516417e7" ObjectType="SPFile" ParentId="bd89ffac-7900-44c6-a9dc-c9b3eaf131ce" ParentWebId="a9a90712-24ad-4504-b7fd-6ec603a2dbdc" ParentWebUrl="/sites/GN_GCinterna/servicionominasyestudioseconomicos/Expedientes" Url="V/V.pdf">
+    <File Url="V/V.pdf" Id="e5114867-e7c2-4831-a40e-832f516417e7" ParentWebId="a9a90712-24ad-4504-b7fd-6ec603a2dbdc" ParentWebUrl="/sites/GN_GCinterna/servicionominasyestudioseconomicos/Expedientes" Name="V.pdf" ListItemIntId="1" ListId="be67f4a8-97a2-4d95-b2c6-de95c99c4164" ParentId="bd89ffac-7900-44c6-a9dc-c9b3eaf131ce" TimeCreated="2022-05-17T09:14:56" TimeLastModified="2022-05-17T09:14:56" Version="1.0" FileValue="93abe865-dda4-7963-a857-1feb0ebd9eea.dat" Author="289" ModifiedBy="289" MD5Hash="M12b5b6arBizD4cKGSuJUw==" InitializationVector="2FamzUPUZeqbwMEK8z4gQw==">
+      <Properties />
+    </File>
+  </SPObject>
+  <SPObject Id="460c7004-c365-407d-8644-6472e89fc438" ObjectType="SPListItem" ParentId="1543dbd5-dac9-4f68-98b9-60e4120986a7" ParentWebId="d58c4c9f-3aa8-4418-b177-fc30ed164ff0" ParentWebUrl="/sites/GN_GCinterna/servicionominasyestudioseconomicos" Url="CarpetasEscaneadasSS/Accidentes Muface De PANIAGUA A REDIN (2011-17)_ocred.pdf">
+    <ListItem FileUrl="CarpetasEscaneadasSS/Accidentes Muface De PANIAGUA A REDIN (2011-17)_ocred.pdf" DocType="File" ParentFolderId="5dd98cc4-90ee-4a9a-812d-2467ca19c2d2" Id="460c7004-c365-407d-8644-6472e89fc438" ParentWebId="d58c4c9f-3aa8-4418-b177-fc30ed164ff0" ParentListId="1543dbd5-dac9-4f68-98b9-60e4120986a7" Name="Accidentes Muface De PANIAGUA A REDIN (2011-17)_ocred.pdf" DirName="CarpetasEscaneadasSS" Order="400" IntId="4" DocId="460c7004-c365-407d-8644-6472e89fc438" Version="1.0" TimeCreated="2024-12-17T14:11:00" TimeLastModified="2024-12-17T14:11:00" ContentTypeId="0x010100F39AEFCE833B424C92846245D9EDBC42" ModerationStatus="Approved" Author="31" ModifiedBy="31">
+      <Fields>
+        <Field Name="Title" />
+      </Fields>
+    </ListItem>
+  </SPObject>
+  <SPObject Id="fc9a8179-ad45-4e9e-a2ad-7fe9aa2185f3" ObjectType="SPListItem" ParentId="1543dbd5-dac9-4f68-98b9-60e4120986a7" ParentWebId="d58c4c9f-3aa8-4418-b177-fc30ed164ff0" ParentWebUrl="/sites/GN_GCinterna/servicionominasyestudioseconomicos" Url="CarpetasEscaneadasSS/Arroyo Abad, Erkuden-Pajares Garcia, Erkuden - aviso Tumutua.msg">
+    <ListItem FileUrl="CarpetasEscaneadasSS/Arroyo Abad, Erkuden-Pajares Garcia, Erkuden - aviso Tumutua.msg" DocType="File" ParentFolderId="5dd98cc4-90ee-4a9a-812d-2467ca19c2d2" Id="fc9a8179-ad45-4e9e-a2ad-7fe9aa2185f3" ParentWebId="d58c4c9f-3aa8-4418-b177-fc30ed164ff0" ParentListId="1543dbd5-dac9-4f68-98b9-60e4120986a7" Name="Arroyo Abad, Erkuden-Pajares Garcia, Erkuden - aviso Tumutua.msg" DirName="CarpetasEscaneadasSS" Order="7700" IntId="77" DocId="fc9a8179-ad45-4e9e-a2ad-7fe9aa2185f3" Version="1.0" TimeCreated="2026-03-09T12:39:24" TimeLastModified="2026-03-09T12:39:24" ContentTypeId="0x010100F39AEFCE833B424C92846245D9EDBC42" ModerationStatus="Approved" Author="336" ModifiedBy="336">
+      <Fields>
+        <Field Name="Title" />
+      </Fields>
+    </ListItem>
+  </SPObject>
+  <SPObject Id="11ffe89d-37b2-49b7-ab9c-b4bd6ccd7011" ObjectType="SPListItem" ParentId="1543dbd5-dac9-4f68-98b9-60e4120986a7" ParentWebId="d58c4c9f-3aa8-4418-b177-fc30ed164ff0" ParentWebUrl="/sites/GN_GCinterna/servicionominasyestudioseconomicos" Url="CarpetasEscaneadasSS/Bergerandi De Miguel, N_baja.pdf">
+    <ListItem FileUrl="CarpetasEscaneadasSS/Bergerandi De Miguel, N_baja.pdf" DocType="File" ParentFolderId="5dd98cc4-90ee-4a9a-812d-2467ca19c2d2" Id="11ffe89d-37b2-49b7-ab9c-b4bd6ccd7011" ParentWebId="d58c4c9f-3aa8-4418-b177-fc30ed164ff0" ParentListId="1543dbd5-dac9-4f68-98b9-60e4120986a7" Name="Bergerandi De Miguel, N_baja.pdf" DirName="CarpetasEscaneadasSS" Order="8200" IntId="82" DocId="11ffe89d-37b2-49b7-ab9c-b4bd6ccd7011" Version="1.0" TimeCreated="2026-03-09T12:39:24" TimeLastModified="2026-03-09T12:39:24" ContentTypeId="0x010100F39AEFCE833B424C92846245D9EDBC42" ModerationStatus="Approved" Author="336" ModifiedBy="336">
+      <Fields>
+        <Field Name="Title" />
+      </Fields>
+    </ListItem>
+  </SPObject>
+  <SPObject Id="cfc2ba26-50a0-4c58-84c1-f663c9852201" ObjectType="SPListItem" ParentId="1543dbd5-dac9-4f68-98b9-60e4120986a7" ParentWebId="d58c4c9f-3aa8-4418-b177-fc30ed164ff0" ParentWebUrl="/sites/GN_GCinterna/servicionominasyestudioseconomicos" Url="CarpetasEscaneadasSS/Bravo Calvo, Laura Pilar_parte accidente.pdf">
+    <ListItem FileUrl="CarpetasEscaneadasSS/Bravo Calvo, Laura Pilar_parte accidente.pdf" DocType="File" ParentFolderId="5dd98cc4-90ee-4a9a-812d-2467ca19c2d2" Id="cfc2ba26-50a0-4c58-84c1-f663c9852201" ParentWebId="d58c4c9f-3aa8-4418-b177-fc30ed164ff0" ParentListId="1543dbd5-dac9-4f68-98b9-60e4120986a7" Name="Bravo Calvo, Laura Pilar_parte accidente.pdf" DirName="CarpetasEscaneadasSS" Order="8400" IntId="84" DocId="cfc2ba26-50a0-4c58-84c1-f663c9852201" Version="1.0" TimeCreated="2026-03-09T12:39:24" TimeLastModified="2026-03-09T12:39:24" ContentTypeId="0x010100F39AEFCE833B424C92846245D9EDBC42" ModerationStatus="Approved" Author="336" ModifiedBy="336">
+      <Fields>
+        <Field Name="Title" />
+      </Fields>
+    </ListItem>
+  </SPObject>
+  <SPObject Id="cd2a140c-34be-4693-9834-122d00811cd3" ObjectType="SPListItem" ParentId="1543dbd5-dac9-4f68-98b9-60e4120986a7" ParentWebId="d58c4c9f-3aa8-4418-b177-fc30ed164ff0" ParentWebUrl="/sites/GN_GCinterna/servicionominasyestudioseconomicos" Url="CarpetasEscaneadasSS/Accidentes Muface De SOLA A ZURUTUZA (2011-17)_ocred.pdf">
+    <ListItem FileUrl="CarpetasEscaneadasSS/Accidentes Muface De SOLA A ZURUTUZA (2011-17)_ocred.pdf" DocType="File" ParentFolderId="5dd98cc4-90ee-4a9a-812d-2467ca19c2d2" Id="cd2a140c-34be-4693-9834-122d00811cd3" ParentWebId="d58c4c9f-3aa8-4418-b177-fc30ed164ff0" ParentListId="1543dbd5-dac9-4f68-98b9-60e4120986a7" Name="Accidentes Muface De SOLA A ZURUTUZA (2011-17)_ocred.pdf" DirName="CarpetasEscaneadasSS" Order="600" IntId="6" DocId="cd2a140c-34be-4693-9834-122d00811cd3" Version="1.0" TimeCreated="2024-12-17T14:11:10" TimeLastModified="2024-12-17T14:11:10" ContentTypeId="0x010100F39AEFCE833B424C92846245D9EDBC42" ModerationStatus="Approved" Author="31" ModifiedBy="31">
+      <Fields>
+        <Field Name="Title" />
+      </Fields>
+    </ListItem>
+  </SPObject>
+  <SPObject Id="801e3617-4cfc-4cf4-84ac-a55021afcef1" ObjectType="SPListItem" ParentId="1543dbd5-dac9-4f68-98b9-60e4120986a7" ParentWebId="d58c4c9f-3aa8-4418-b177-fc30ed164ff0" ParentWebUrl="/sites/GN_GCinterna/servicionominasyestudioseconomicos" Url="CarpetasEscaneadasSS/Bravo Calvo_LP_anexo I.pdf">
+    <ListItem FileUrl="CarpetasEscaneadasSS/Bravo Calvo_LP_anexo I.pdf" DocType="File" ParentFolderId="5dd98cc4-90ee-4a9a-812d-2467ca19c2d2" Id="801e3617-4cfc-4cf4-84ac-a55021afcef1" ParentWebId="d58c4c9f-3aa8-4418-b177-fc30ed164ff0" ParentListId="1543dbd5-dac9-4f68-98b9-60e4120986a7" Name="Bravo Calvo_LP_anexo I.pdf" DirName="CarpetasEscaneadasSS" Order="8500" IntId="85" DocId="801e3617-4cfc-4cf4-84ac-a55021afcef1" Version="1.0" TimeCreated="2026-03-09T12:39:25" TimeLastModified="2026-03-09T12:39:25" ContentTypeId="0x010100F39AEFCE833B424C92846245D9EDBC42" ModerationStatus="Approved" Author="336" ModifiedBy="336">
+      <Fields>
+        <Field Name="Title" />
+      </Fields>
+    </ListItem>
+  </SPObject>
+  <SPObject Id="d1e5b47a-0ed2-42cc-b123-489ad106c776" ObjectType="SPListItem" ParentId="1543dbd5-dac9-4f68-98b9-60e4120986a7" ParentWebId="d58c4c9f-3aa8-4418-b177-fc30ed164ff0" ParentWebUrl="/sites/GN_GCinterna/servicionominasyestudioseconomicos" Url="CarpetasEscaneadasSS/Bravo Calvo_LP_parte accidente.pdf">
+    <ListItem FileUrl="CarpetasEscaneadasSS/Bravo Calvo_LP_parte accidente.pdf" DocType="File" ParentFolderId="5dd98cc4-90ee-4a9a-812d-2467ca19c2d2" Id="d1e5b47a-0ed2-42cc-b123-489ad106c776" ParentWebId="d58c4c9f-3aa8-4418-b177-fc30ed164ff0" ParentListId="1543dbd5-dac9-4f68-98b9-60e4120986a7" Name="Bravo Calvo_LP_parte accidente.pdf" DirName="CarpetasEscaneadasSS" Order="8700" IntId="87" DocId="d1e5b47a-0ed2-42cc-b123-489ad106c776" Version="1.0" TimeCreated="2026-03-09T12:39:25" TimeLastModified="2026-03-09T12:39:25" ContentTypeId="0x010100F39AEFCE833B424C92846245D9EDBC42" ModerationStatus="Approved" Author="336" ModifiedBy="336">
+      <Fields>
+        <Field Name="Title" />
+      </Fields>
+    </ListItem>
+  </SPObject>
+  <SPObject Id="f623a4e3-bd65-45d1-89ec-8ab633610d62" ObjectType="SPListItem" ParentId="1543dbd5-dac9-4f68-98b9-60e4120986a7" ParentWebId="d58c4c9f-3aa8-4418-b177-fc30ed164ff0" ParentWebUrl="/sites/GN_GCinterna/servicionominasyestudioseconomicos" Url="CarpetasEscaneadasSS/Lora Andres, Olaia_ anexo I.pdf">
+    <ListItem FileUrl="CarpetasEscaneadasSS/Lora Andres, Olaia_ anexo I.pdf" DocType="File" ParentFolderId="5dd98cc4-90ee-4a9a-812d-2467ca19c2d2" Id="f623a4e3-bd65-45d1-89ec-8ab633610d62" ParentWebId="d58c4c9f-3aa8-4418-b177-fc30ed164ff0" ParentListId="1543dbd5-dac9-4f68-98b9-60e4120986a7" Name="Lora Andres, Olaia_ anexo I.pdf" DirName="CarpetasEscaneadasSS" Order="15400" IntId="154" DocId="f623a4e3-bd65-45d1-89ec-8ab633610d62" Version="1.0" TimeCreated="2026-03-09T12:40:42" TimeLastModified="2026-03-09T12:40:42" ContentTypeId="0x010100F39AEFCE833B424C92846245D9EDBC42" ModerationStatus="Approved" Author="336" ModifiedBy="336">
+      <Fields>
+        <Field Name="Title" />
+      </Fields>
+    </ListItem>
+  </SPObject>
+  <SPObject Id="415315e1-7007-4e45-b63b-dcae7e91f480" ObjectType="SPListItem" ParentId="1543dbd5-dac9-4f68-98b9-60e4120986a7" ParentWebId="d58c4c9f-3aa8-4418-b177-fc30ed164ff0" ParentWebUrl="/sites/GN_GCinterna/servicionominasyestudioseconomicos" Url="CarpetasEscaneadasSS/Martin Espildora, Africa_infor San Miguel.pdf">
+    <ListItem FileUrl="CarpetasEscaneadasSS/Martin Espildora, Africa_infor San Miguel.pdf" DocType="File" ParentFolderId="5dd98cc4-90ee-4a9a-812d-2467ca19c2d2" Id="415315e1-7007-4e45-b63b-dcae7e91f480" ParentWebId="d58c4c9f-3aa8-4418-b177-fc30ed164ff0" ParentListId="1543dbd5-dac9-4f68-98b9-60e4120986a7" Name="Martin Espildora, Africa_infor San Miguel.pdf" DirName="CarpetasEscaneadasSS" Order="15500" IntId="155" DocId="415315e1-7007-4e45-b63b-dcae7e91f480" Version="1.0" TimeCreated="2026-03-09T12:40:42" TimeLastModified="2026-03-09T12:40:42" ContentTypeId="0x010100F39AEFCE833B424C92846245D9EDBC42" ModerationStatus="Approved" Author="336" ModifiedBy="336">
+      <Fields>
+        <Field Name="Title" />
+      </Fields>
+    </ListItem>
+  </SPObject>
+  <SPObject Id="290c37f2-f927-475c-8448-1009ed313ca6" ObjectType="SPListItem" ParentId="1543dbd5-dac9-4f68-98b9-60e4120986a7" ParentWebId="d58c4c9f-3aa8-4418-b177-fc30ed164ff0" ParentWebUrl="/sites/GN_GCinterna/servicionominasyestudioseconomicos" Url="CarpetasEscaneadasSS/Martin Espildora, Africa_parte accidente.pdf">
+    <ListItem FileUrl="CarpetasEscaneadasSS/Martin Espildora, Africa_parte accidente.pdf" DocType="File" ParentFolderId="5dd98cc4-90ee-4a9a-812d-2467ca19c2d2" Id="290c37f2-f927-475c-8448-1009ed313ca6" ParentWebId="d58c4c9f-3aa8-4418-b177-fc30ed164ff0" ParentListId="1543dbd5-dac9-4f68-98b9-60e4120986a7" Name="Martin Espildora, Africa_parte accidente.pdf" DirName="CarpetasEscaneadasSS" Order="15600" IntId="156" DocId="290c37f2-f927-475c-8448-1009ed313ca6" Version="1.0" TimeCreated="2026-03-09T12:40:42" TimeLastModified="2026-03-09T12:40:42" ContentTypeId="0x010100F39AEFCE833B424C92846245D9EDBC42" ModerationStatus="Approved" Author="336" ModifiedBy="336">
+      <Fields>
+        <Field Name="Title" />
+      </Fields>
+    </ListItem>
+  </SPObject>
+  <SPObject Id="2eba8915-0860-4a7c-ad0f-a7805a6a22d8" ObjectType="SPListItem" ParentId="1543dbd5-dac9-4f68-98b9-60e4120986a7" ParentWebId="d58c4c9f-3aa8-4418-b177-fc30ed164ff0" ParentWebUrl="/sites/GN_GCinterna/servicionominasyestudioseconomicos" Url="CarpetasEscaneadasSS/Martin Espilrora, Africa_anexo I.pdf">
+    <ListItem FileUrl="CarpetasEscaneadasSS/Martin Espilrora, Africa_anexo I.pdf" DocType="File" ParentFolderId="5dd98cc4-90ee-4a9a-812d-2467ca19c2d2" Id="2eba8915-0860-4a7c-ad0f-a7805a6a22d8" ParentWebId="d58c4c9f-3aa8-4418-b177-fc30ed164ff0" ParentListId="1543dbd5-dac9-4f68-98b9-60e4120986a7" Name="Martin Espilrora, Africa_anexo I.pdf" DirName="CarpetasEscaneadasSS" Order="15700" IntId="157" DocId="2eba8915-0860-4a7c-ad0f-a7805a6a22d8" Version="1.0" TimeCreated="2026-03-09T12:40:42" TimeLastModified="2026-03-09T12:40:42" ContentTypeId="0x010100F39AEFCE833B424C92846245D9EDBC42" ModerationStatus="Approved" Author="336" ModifiedBy="336">
+      <Fields>
+        <Field Name="Title" />
+      </Fields>
+    </ListItem>
+  </SPObject>
+  <SPObject Id="9d58fe16-fb03-4a32-bd65-52c2f2491968" ObjectType="SPListItem" ParentId="1543dbd5-dac9-4f68-98b9-60e4120986a7" ParentWebId="d58c4c9f-3aa8-4418-b177-fc30ed164ff0" ParentWebUrl="/sites/GN_GCinterna/servicionominasyestudioseconomicos" Url="CarpetasEscaneadasSS/Martin Perez, Patricia_ aviso tumutua.msg">
+    <ListItem FileUrl="CarpetasEscaneadasSS/Martin Perez, Patricia_ aviso tumutua.msg" DocType="File" ParentFolderId="5dd98cc4-90ee-4a9a-812d-2467ca19c2d2" Id="9d58fe16-fb03-4a32-bd65-52c2f2491968" ParentWebId="d58c4c9f-3aa8-4418-b177-fc30ed164ff0" ParentListId="1543dbd5-dac9-4f68-98b9-60e4120986a7" Name="Martin Perez, Patricia_ aviso tumutua.msg" DirName="CarpetasEscaneadasSS" Order="15800" IntId="158" DocId="9d58fe16-fb03-4a32-bd65-52c2f2491968" Version="1.0" TimeCreated="2026-03-09T12:40:42" TimeLastModified="2026-03-09T12:40:42" ContentTypeId="0x010100F39AEFCE833B424C92846245D9EDBC42" ModerationStatus="Approved" Author="336" ModifiedBy="336">
+      <Fields>
+        <Field Name="Title" />
+      </Fields>
+    </ListItem>
+  </SPObject>
+  <SPObject Id="983a7058-dc4e-41fd-9634-e772d8b4f5d5" ObjectType="SPListItem" ParentId="1543dbd5-dac9-4f68-98b9-60e4120986a7" ParentWebId="d58c4c9f-3aa8-4418-b177-fc30ed164ff0" ParentWebUrl="/sites/GN_GCinterna/servicionominasyestudioseconomicos" Url="CarpetasEscaneadasSS/Bravo Calvo_LP_envio Muface.msg">
+    <ListItem FileUrl="CarpetasEscaneadasSS/Bravo Calvo_LP_envio Muface.msg" DocType="File" ParentFolderId="5dd98cc4-90ee-4a9a-812d-2467ca19c2d2" Id="983a7058-dc4e-41fd-9634-e772d8b4f5d5" ParentWebId="d58c4c9f-3aa8-4418-b177-fc30ed164ff0" ParentListId="1543dbd5-dac9-4f68-98b9-60e4120986a7" Name="Bravo Calvo_LP_envio Muface.msg" DirName="CarpetasEscaneadasSS" Order="8600" IntId="86" DocId="983a7058-dc4e-41fd-9634-e772d8b4f5d5" Version="1.0" TimeCreated="2026-03-09T12:39:25" TimeLastModified="2026-03-09T12:39:25" ContentTypeId="0x010100F39AEFCE833B424C92846245D9EDBC42" ModerationStatus="Approved" Author="336" ModifiedBy="336">
+      <Fields>
+        <Field Name="Title" />
+      </Fields>
+    </ListItem>
+  </SPObject>
+  <SPObject Id="ab951d68-82ee-41bc-bb6b-e2944525f9fb" ObjectType="SPListItem" ParentId="1543dbd5-dac9-4f68-98b9-60e4120986a7" ParentWebId="d58c4c9f-3aa8-4418-b177-fc30ed164ff0" ParentWebUrl="/sites/GN_GCinterna/servicionominasyestudioseconomicos" Url="CarpetasEscaneadasSS/Orzanco Burguete, Leire_ parte amistoso accidente tráfico.pdf">
+    <ListItem FileUrl="CarpetasEscaneadasSS/Orzanco Burguete, Leire_ parte amistoso accidente tráfico.pdf" DocType="File" ParentFolderId="5dd98cc4-90ee-4a9a-812d-2467ca19c2d2" Id="ab951d68-82ee-41bc-bb6b-e2944525f9fb" ParentWebId="d58c4c9f-3aa8-4418-b177-fc30ed164ff0" ParentListId="1543dbd5-dac9-4f68-98b9-60e4120986a7" Name="Orzanco Burguete, Leire_ parte amistoso accidente tráfico.pdf" DirName="CarpetasEscaneadasSS" Order="16000" IntId="160" DocId="ab951d68-82ee-41bc-bb6b-e2944525f9fb" Version="1.0" TimeCreated="2026-03-09T12:40:43" TimeLastModified="2026-03-09T12:40:43" ContentTypeId="0x010100F39AEFCE833B424C92846245D9EDBC42" ModerationStatus="Approved" Author="336" ModifiedBy="336">
+      <Fields>
+        <Field Name="Title" />
+      </Fields>
+    </ListItem>
+  </SPObject>
+  <SPObject Id="716e4a43-1df8-43d2-8960-5a6f08d353b9" ObjectType="SPListItem" ParentId="1543dbd5-dac9-4f68-98b9-60e4120986a7" ParentWebId="d58c4c9f-3aa8-4418-b177-fc30ed164ff0" ParentWebUrl="/sites/GN_GCinterna/servicionominasyestudioseconomicos" Url="CarpetasEscaneadasSS/Accidentes Muface De NAPAL A PALACIOS (2011-17)_ocred.pdf">
+    <ListItem FileUrl="CarpetasEscaneadasSS/Accidentes Muface De NAPAL A PALACIOS (2011-17)_ocred.pdf" DocType="File" ParentFolderId="5dd98cc4-90ee-4a9a-812d-2467ca19c2d2" Id="716e4a43-1df8-43d2-8960-5a6f08d353b9" ParentWebId="d58c4c9f-3aa8-4418-b177-fc30ed164ff0" ParentListId="1543dbd5-dac9-4f68-98b9-60e4120986a7" Name="Accidentes Muface De NAPAL A PALACIOS (2011-17)_ocred.pdf" DirName="CarpetasEscaneadasSS" Order="300" IntId="3" DocId="716e4a43-1df8-43d2-8960-5a6f08d353b9" Version="1.0" TimeCreated="2024-12-17T14:10:55" TimeLastModified="2024-12-17T14:10:55" ContentTypeId="0x010100F39AEFCE833B424C92846245D9EDBC42" ModerationStatus="Approved" Author="31" ModifiedBy="31">
+      <Fields>
+        <Field Name="Title" />
+      </Fields>
+    </ListItem>
+  </SPObject>
+  <SPObject Id="4369e76e-fc03-4c2c-b199-b216c3d119d9" ObjectType="SPListItem" ParentId="1543dbd5-dac9-4f68-98b9-60e4120986a7" ParentWebId="d58c4c9f-3aa8-4418-b177-fc30ed164ff0" ParentWebUrl="/sites/GN_GCinterna/servicionominasyestudioseconomicos" Url="CarpetasEscaneadasSS/Oroz Garcia, Virginia_parte y anexo I.pdf">
+    <ListItem FileUrl="CarpetasEscaneadasSS/Oroz Garcia, Virginia_parte y anexo I.pdf" DocType="File" ParentFolderId="5dd98cc4-90ee-4a9a-812d-2467ca19c2d2" Id="4369e76e-fc03-4c2c-b199-b216c3d119d9" ParentWebId="d58c4c9f-3aa8-4418-b177-fc30ed164ff0" ParentListId="1543dbd5-dac9-4f68-98b9-60e4120986a7" Name="Oroz Garcia, Virginia_parte y anexo I.pdf" DirName="CarpetasEscaneadasSS" Order="15900" IntId="159" DocId="4369e76e-fc03-4c2c-b199-b216c3d119d9" Version="1.0" TimeCreated="2026-03-09T12:40:43" TimeLastModified="2026-03-09T12:40:43" ContentTypeId="0x010100F39AEFCE833B424C92846245D9EDBC42" ModerationStatus="Approved" Author="336" ModifiedBy="336">
+      <Fields>
+        <Field Name="Title" />
+      </Fields>
+    </ListItem>
+  </SPObject>
+  <SPObject Id="3f3d8d79-b777-4bf9-9692-ff7762ca9bb6" ObjectType="SPListItem" ParentId="1543dbd5-dac9-4f68-98b9-60e4120986a7" ParentWebId="d58c4c9f-3aa8-4418-b177-fc30ed164ff0" ParentWebUrl="/sites/GN_GCinterna/servicionominasyestudioseconomicos" Url="CarpetasEscaneadasSS/Accidentes Muface De RODRIGUEZ A SERRANO (2011-17)_ocred.pdf">
+    <ListItem FileUrl="CarpetasEscaneadasSS/Accidentes Muface De RODRIGUEZ A SERRANO (2011-17)_ocred.pdf" DocType="File" ParentFolderId="5dd98cc4-90ee-4a9a-812d-2467ca19c2d2" Id="3f3d8d79-b777-4bf9-9692-ff7762ca9bb6" ParentWebId="d58c4c9f-3aa8-4418-b177-fc30ed164ff0" ParentListId="1543dbd5-dac9-4f68-98b9-60e4120986a7" Name="Accidentes Muface De RODRIGUEZ A SERRANO (2011-17)_ocred.pdf" DirName="CarpetasEscaneadasSS" Order="500" IntId="5" DocId="3f3d8d79-b777-4bf9-9692-ff7762ca9bb6" Version="1.0" TimeCreated="2024-12-17T14:11:05" TimeLastModified="2024-12-17T14:11:05" ContentTypeId="0x010100F39AEFCE833B424C92846245D9EDBC42" ModerationStatus="Approved" Author="31" ModifiedBy="31">
+      <Fields>
+        <Field Name="Title" />
+      </Fields>
+    </ListItem>
+  </SPObject>
+  <SPObject Id="b4eca519-f450-4a25-9838-d0bb0a008735" ObjectType="SPListItem" ParentId="3e4e3c0e-32f6-49dc-82ce-36b824a809f4" ParentWebId="a9a90712-24ad-4504-b7fd-6ec603a2dbdc" ParentWebUrl="/sites/GN_GCinterna/servicionominasyestudioseconomicos/Expedientes" Url="W/W.pdf">
+    <ListItem FileUrl="W/W.pdf" DocType="File" ParentFolderId="ad5e72d8-6da2-4532-92e0-fa2c4b654e60" Id="b4eca519-f450-4a25-9838-d0bb0a008735" ParentWebId="a9a90712-24ad-4504-b7fd-6ec603a2dbdc" ParentListId="3e4e3c0e-32f6-49dc-82ce-36b824a809f4" Name="W.pdf" DirName="W" Order="100" IntId="1" DocId="b4eca519-f450-4a25-9838-d0bb0a008735" Version="1.0" TimeCreated="2022-05-17T09:15:32" TimeLastModified="2022-05-17T09:15:32" ContentTypeId="0x010100FA9D97C646B52C4CA0A2889BB991E735" ModerationStatus="Approved" Author="289" ModifiedBy="289">
+      <Fields>
+        <Field Name="Title" />
+        <Field Name="TipoContrato" />
+      </Fields>
+    </ListItem>
+  </SPObject>
+  <SPObject Id="37f58b25-9f2b-4433-aa88-459c6b52e6be" ObjectType="SPListItem" ParentId="1543dbd5-dac9-4f68-98b9-60e4120986a7" ParentWebId="d58c4c9f-3aa8-4418-b177-fc30ed164ff0" ParentWebUrl="/sites/GN_GCinterna/servicionominasyestudioseconomicos" Url="CarpetasEscaneadasSS/Accidentes Laborales de Nagore a Graciarena (hasta 31122017).pdf">
+    <ListItem FileUrl="CarpetasEscaneadasSS/Accidentes Laborales de Nagore a Graciarena (hasta 31122017).pdf" DocType="File" ParentFolderId="5dd98cc4-90ee-4a9a-812d-2467ca19c2d2" Id="37f58b25-9f2b-4433-aa88-459c6b52e6be" ParentWebId="d58c4c9f-3aa8-4418-b177-fc30ed164ff0" ParentListId="1543dbd5-dac9-4f68-98b9-60e4120986a7" Name="Accidentes Laborales de Nagore a Graciarena (hasta 31122017).pdf" DirName="CarpetasEscaneadasSS" Order="1300" IntId="13" DocId="37f58b25-9f2b-4433-aa88-459c6b52e6be" Version="1.0" TimeCreated="2024-12-18T09:35:47" TimeLastModified="2024-12-18T09:35:47" ContentTypeId="0x010100F39AEFCE833B424C92846245D9EDBC42" ModerationStatus="Approved" Author="31" ModifiedBy="31">
+      <Fields>
+        <Field Name="Title" />
+      </Fields>
+    </ListItem>
+  </SPObject>
+  <SPObject Id="a7f340ad-ce4f-4e37-b851-96eaf0dfb256" ObjectType="SPListItem" ParentId="1543dbd5-dac9-4f68-98b9-60e4120986a7" ParentWebId="d58c4c9f-3aa8-4418-b177-fc30ed164ff0" ParentWebUrl="/sites/GN_GCinterna/servicionominasyestudioseconomicos" Url="CarpetasEscaneadasSS/ACCIDENTES LABORALES D-F_MUFACE 31122017_ocred.pdf">
+    <ListItem FileUrl="CarpetasEscaneadasSS/ACCIDENTES LABORALES D-F_MUFACE 31122017_ocred.pdf" DocType="File" ParentFolderId="5dd98cc4-90ee-4a9a-812d-2467ca19c2d2" Id="a7f340ad-ce4f-4e37-b851-96eaf0dfb256" ParentWebId="d58c4c9f-3aa8-4418-b177-fc30ed164ff0" ParentListId="1543dbd5-dac9-4f68-98b9-60e4120986a7" Name="ACCIDENTES LABORALES D-F_MUFACE 31122017_ocred.pdf" DirName="CarpetasEscaneadasSS" Order="1400" IntId="14" DocId="a7f340ad-ce4f-4e37-b851-96eaf0dfb256" Version="1.0" TimeCreated="2024-12-18T09:36:18" TimeLastModified="2024-12-18T09:36:18" ContentTypeId="0x010100F39AEFCE833B424C92846245D9EDBC42" ModerationStatus="Approved" Author="31" ModifiedBy="31">
+      <Fields>
+        <Field Name="Title" />
+      </Fields>
+    </ListItem>
+  </SPObject>
+  <SPObject Id="df6814a3-2ad5-4f8c-8f46-74045d971160" ObjectType="SPListItem" ParentId="1543dbd5-dac9-4f68-98b9-60e4120986a7" ParentWebId="d58c4c9f-3aa8-4418-b177-fc30ed164ff0" ParentWebUrl="/sites/GN_GCinterna/servicionominasyestudioseconomicos" Url="CarpetasEscaneadasSS/ACCIDENTES LABORALES SEGURIDAD SOCIAL T_Z_ocred.pdf">
+    <ListItem FileUrl="CarpetasEscaneadasSS/ACCIDENTES LABORALES SEGURIDAD SOCIAL T_Z_ocred.pdf" DocType="File" ParentFolderId="5dd98cc4-90ee-4a9a-812d-2467ca19c2d2" Id="df6814a3-2ad5-4f8c-8f46-74045d971160" ParentWebId="d58c4c9f-3aa8-4418-b177-fc30ed164ff0" ParentListId="1543dbd5-dac9-4f68-98b9-60e4120986a7" Name="ACCIDENTES LABORALES SEGURIDAD SOCIAL T_Z_ocred.pdf" DirName="CarpetasEscaneadasSS" Order="1700" IntId="17" DocId="df6814a3-2ad5-4f8c-8f46-74045d971160" Version="1.0" TimeCreated="2024-12-18T09:38:10" TimeLastModified="2024-12-18T09:38:10" ContentTypeId="0x010100F39AEFCE833B424C92846245D9EDBC42" ModerationStatus="Approved" Author="31" ModifiedBy="31">
+      <Fields>
+        <Field Name="Title" />
+      </Fields>
+    </ListItem>
+  </SPObject>
+  <SPObject Id="2841bb9b-990f-4883-8cc1-bb247d0f5df7" ObjectType="SPListItem" ParentId="1543dbd5-dac9-4f68-98b9-60e4120986a7" ParentWebId="d58c4c9f-3aa8-4418-b177-fc30ed164ff0" ParentWebUrl="/sites/GN_GCinterna/servicionominasyestudioseconomicos" Url="CarpetasEscaneadasSS/Accidentes laborales S.social_G-M hasta el 311217_ocred.pdf">
+    <ListItem FileUrl="CarpetasEscaneadasSS/Accidentes laborales S.social_G-M hasta el 311217_ocred.pdf" DocType="File" ParentFolderId="5dd98cc4-90ee-4a9a-812d-2467ca19c2d2" Id="2841bb9b-990f-4883-8cc1-bb247d0f5df7" ParentWebId="d58c4c9f-3aa8-4418-b177-fc30ed164ff0" ParentListId="1543dbd5-dac9-4f68-98b9-60e4120986a7" Name="Accidentes laborales S.social_G-M hasta el 311217_ocred.pdf" DirName="CarpetasEscaneadasSS" Order="1600" IntId="16" DocId="2841bb9b-990f-4883-8cc1-bb247d0f5df7" Version="1.0" TimeCreated="2024-12-18T09:37:29" TimeLastModified="2024-12-18T09:37:29" ContentTypeId="0x010100F39AEFCE833B424C92846245D9EDBC42" ModerationStatus="Approved" Author="31" ModifiedBy="31">
+      <Fields>
+        <Field Name="Title" />
+      </Fields>
+    </ListItem>
+  </SPObject>
+  <SPObject Id="ae275ad0-e06c-4647-9257-78a26f93d3ad" ObjectType="SPListItem" ParentId="1543dbd5-dac9-4f68-98b9-60e4120986a7" ParentWebId="d58c4c9f-3aa8-4418-b177-fc30ed164ff0" ParentWebUrl="/sites/GN_GCinterna/servicionominasyestudioseconomicos" Url="CarpetasEscaneadasSS/ACCIDENTES LABORALES L-M MUFACE 31122017_ocred.pdf">
+    <ListItem FileUrl="CarpetasEscaneadasSS/ACCIDENTES LABORALES L-M MUFACE 31122017_ocred.pdf" DocType="File" ParentFolderId="5dd98cc4-90ee-4a9a-812d-2467ca19c2d2" Id="ae275ad0-e06c-4647-9257-78a26f93d3ad" ParentWebId="d58c4c9f-3aa8-4418-b177-fc30ed164ff0" ParentListId="1543dbd5-dac9-4f68-98b9-60e4120986a7" Name="ACCIDENTES LABORALES L-M MUFACE 31122017_ocred.pdf" DirName="CarpetasEscaneadasSS" Order="1500" IntId="15" DocId="ae275ad0-e06c-4647-9257-78a26f93d3ad" Version="1.0" TimeCreated="2024-12-18T09:36:49" TimeLastModified="2024-12-18T09:36:49" ContentTypeId="0x010100F39AEFCE833B424C92846245D9EDBC42" ModerationStatus="Approved" Author="31" ModifiedBy="31">
+      <Fields>
+        <Field Name="Title" />
+      </Fields>
+    </ListItem>
+  </SPObject>
+  <SPObject Id="414abc02-8097-43cb-88d3-56c0aa75b73d" ObjectType="SPListItem" ParentId="1543dbd5-dac9-4f68-98b9-60e4120986a7" ParentWebId="d58c4c9f-3aa8-4418-b177-fc30ed164ff0" ParentWebUrl="/sites/GN_GCinterna/servicionominasyestudioseconomicos" Url="CarpetasEscaneadasSS/accidentes laborales seguridad social_I-M_hasta el 3112017_(1)_ocred.pdf">
+    <ListItem FileUrl="CarpetasEscaneadasSS/accidentes laborales seguridad social_I-M_hasta el 3112017_(1)_ocred.pdf" DocType="File" ParentFolderId="5dd98cc4-90ee-4a9a-812d-2467ca19c2d2" Id="414abc02-8097-43cb-88d3-56c0aa75b73d" ParentWebId="d58c4c9f-3aa8-4418-b177-fc30ed164ff0" ParentListId="1543dbd5-dac9-4f68-98b9-60e4120986a7" Name="accidentes laborales seguridad social_I-M_hasta el 3112017_(1)_ocred.pdf" DirName="CarpetasEscaneadasSS" Order="1800" IntId="18" DocId="414abc02-8097-43cb-88d3-56c0aa75b73d" Version="1.0" TimeCreated="2024-12-18T09:38:53" TimeLastModified="2024-12-18T09:38:53" ContentTypeId="0x010100F39AEFCE833B424C92846245D9EDBC42" ModerationStatus="Approved" Author="31" ModifiedBy="31">
+      <Fields>
+        <Field Name="Title" />
+      </Fields>
+    </ListItem>
+  </SPObject>
+  <SPObject Id="e5114867-e7c2-4831-a40e-832f516417e7" ObjectType="SPListItem" ParentId="be67f4a8-97a2-4d95-b2c6-de95c99c4164" ParentWebId="a9a90712-24ad-4504-b7fd-6ec603a2dbdc" ParentWebUrl="/sites/GN_GCinterna/servicionominasyestudioseconomicos/Expedientes" Url="V/V.pdf">
+    <ListItem FileUrl="V/V.pdf" DocType="File" ParentFolderId="bd89ffac-7900-44c6-a9dc-c9b3eaf131ce" Id="e5114867-e7c2-4831-a40e-832f516417e7" ParentWebId="a9a90712-24ad-4504-b7fd-6ec603a2dbdc" ParentListId="be67f4a8-97a2-4d95-b2c6-de95c99c4164" Name="V.pdf" DirName="V" Order="100" IntId="1" DocId="e5114867-e7c2-4831-a40e-832f516417e7" Version="1.0" TimeCreated="2022-05-17T09:14:56" TimeLastModified="2022-05-17T09:14:56" ContentTypeId="0x010100C52E80606E4D6A4EABB6B17A9F0324E8" ModerationStatus="Approved" Author="289" ModifiedBy="289">
+      <Fields>
+        <Field Name="Title" />
+        <Field Name="TipoContrato" />
+      </Fields>
+    </ListItem>
+  </SPObject>
+  <SPObject Id="910514cd-3f16-4f59-bf7d-5e06b27b58d0" ObjectType="DeploymentRoles" ParentId="d58c4c9f-3aa8-4418-b177-fc30ed164ff0" ParentWebId="d58c4c9f-3aa8-4418-b177-fc30ed164ff0" ParentWebUrl="/sites/GN_GCinterna/servicionominasyestudioseconomicos">
+    <Roles>
+      <Role RoleId="1073741829" Title="$Resources:fpext,0x001C003Bu" Description="Tiene control total." PermMask="9223372036854775807" Hidden="false" RoleOrder="1" Type="5" />
+      <Role RoleId="1073741825" Title="$Resources:fpext,0x001C0040u" Description="Puede ver listas, bibliotecas de documentos, elementos de lista, carpetas o documentos específicos si tiene permisos." PermMask="68853760000" Hidden="true" RoleOrder="160" Type="1" />
+      <Role RoleId="1073741827" Title="$Resources:fpext,0x001C003Du" Description="Puede ver, agregar, actualizar y eliminar elementos de lista y documentos." PermMask="1856436900591" Hidden="false" RoleOrder="64" Type="3" />
+      <Role RoleId="1073741826" Title="$Resources:fpext,0x001C003Fu" Description="Puede ver páginas y elementos de lista, y descargar documentos." PermMask="756052856929" Hidden="false" RoleOrder="128" Type="2" />
+    </Roles>
+  </SPObject>
+  <SPObject Id="75cd5537-551b-4cf4-9ee1-b0f4a4a51dd5" ObjectType="DeploymentRoleAssignments" ParentId="6f10291f-033d-4a10-a732-151d111f78cf" ParentWebId="d58c4c9f-3aa8-4418-b177-fc30ed164ff0" ParentWebUrl="/sites/GN_GCinterna/servicionominasyestudioseconomicos">
+    <RoleAssignments>
+      <RoleAssignment ScopeId="9a43c425-4f09-4a14-9b94-34f77fc8f874" RoleDefWebId="d58c4c9f-3aa8-4418-b177-fc30ed164ff0" RoleDefWebUrl="/sites/GN_GCinterna/servicionominasyestudioseconomicos" ObjectId="6f10291f-033d-4a10-a732-151d111f78cf" ObjectType="0" ObjectUrl="/sites/GN_GCinterna/servicionominasyestudioseconomicos" AnonymousPermMask="0">
+        <Assignment RoleId="1073741829" PrincipalId="335" />
+        <Assignment RoleId="1073741825" PrincipalId="335" />
+        <Assignment RoleId="1073741827" PrincipalId="345" />
+        <Assignment RoleId="1073741826" PrincipalId="355" />
+      </RoleAssignment>
+    </RoleAssignments>
+  </SPObject>
+</SPObjects>

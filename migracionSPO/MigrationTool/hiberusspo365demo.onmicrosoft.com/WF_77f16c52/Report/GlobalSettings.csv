@@ -1,0 +1,35 @@
+﻿Setting,Value
+Migration auto re-run,False
+User mapping file,
+Use custom Azure storage,False
+Migrate file version history,True
+Keep all versions,True
+Filter out created date before,
+Filter out modified date before,
+Filter out modified date before,
+Filter out files with extensions,
+Filter out sites with names,
+Filter out lists with names,
+Filter out content types with names,
+Automatic user mapping,False
+Preserve user permission for SharePoint Server,True
+Preserve user permission for File Share,False
+Filter out hidden files,False
+Temporarily allow migration of scripts,False
+Only Perform Scan,False
+Start Migration If No Scan Issue,True
+Preserve Permission Inheritance,True
+Migrate Site Settings,PRESERVE_ALL_SETTINGS
+Skip List With Audience Enabled,True
+Migrate All Web Fields ContentTypes,True
+Migrate Navigation,True
+Migrate Managed Metadata,Do not migrate
+Migrate Pages Options,RENAME
+Replace invalid characters in files and folder,False
+Replacement of invalid characters in files and folder,_
+Lookup Reference Scan Policy,FIND_ALL_REFERENCE
+Migrate Root Folder,False
+Migrate Workflow,False
+Power Automate flow owner,dacher@hiberusspo365demo.onmicrosoft.com
+Handle unsupported workflow actions,StopForUnsupportedActions
+Working Directory Path,C:\migracionSPO

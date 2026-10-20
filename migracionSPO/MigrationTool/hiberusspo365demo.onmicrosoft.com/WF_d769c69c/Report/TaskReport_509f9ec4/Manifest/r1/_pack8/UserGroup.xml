@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<UserGroupMap xmlns="urn:deployment-usergroupmap-schema">
+  <Users>
+    <User Id="2" Name="Palomo Mateos, Sonia (Educación)" Login="i:0#.w|admon-cfnavarra\x056604" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtNjg0NTQ=" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="3" Name="Vidán Astiz, Rosalía (Educación)" Login="i:0#.w|admon-cfnavarra\n283880" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMTU5Mw==" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="4" Name="Valiño Martínez, David (Educación)" Login="i:0#.w|admon-cfnavarra\x087631" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtNzAwNzM=" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="6" Name="Hidalgo Palomino, María Alma (Educación)" Login="i:0#.w|admon-cfnavarra\x099927" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMjMwMzgz" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="7" Name="Moreno García, Roberto (Educación)" Login="i:0#.w|admon-cfnavarra\n560645" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMTEzMDU=" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="8" Name="Guadaño de la Serna, Sara (Educacion)" Login="i:0#.w|admon-cfnavarra\x100979" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMjMzNTI5" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="9" Name="Mateo Saldías, María del Carmen (Nóminas Educación)" Login="i:0#.w|admon-cfnavarra\n554880" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMjEyMDQ=" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="10" Name="Gallegos Yoldi, Susana (Educacion)" Login="i:0#.w|admon-cfnavarra\x096116" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMjE2OTEz" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="11" Name="Fernández Gavilán, Juan Luis  (Dpto. Educacion - Recursos Humanos)" Login="i:0#.w|admon-cfnavarra\n031742" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtNTM1OA==" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="12" Name="Etxauri Beltzunegi, Lara (Departamento de Educación)" Login="i:0#.w|admon-cfnavarra\x072970" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMTMwMzQ1" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="13" Name="Zabaleta Uriz, María Esther (Educación)" Login="i:0#.w|admon-cfnavarra\x082607" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMTY5OTQ3" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="14" Name="Itoiz Goñi, Nora (Servicio de estudios económicos y nóminas)" Login="i:0#.w|admon-cfnavarra\x081309" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMTY1NTA2" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="15" Name="Tejedor Zozaya, Mateo (Educación)" Login="i:0#.w|admon-cfnavarra\x070273" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMTEwMjUx" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="16" Name="Iturri Villanueva, Beatriz (Educación)" Login="i:0#.w|admon-cfnavarra\x020820" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtNTk3Mg==" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="17" Name="Yoldi Ruiz, Mª Aránzazu (Educación)" Login="i:0#.w|admon-cfnavarra\n287970" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtNDkxMQ==" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="18" Name="Igarreta Lanciego, Mª José (Educación)" Login="i:0#.w|admon-cfnavarra\n185770" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtNjQyNA==" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="19" Name="Pérez de Arrilucea Segú, Inés (Educación)" Login="i:0#.w|admon-cfnavarra\x093718" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMjA4MTE1" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="20" Name="Moral Fernández, Olga (Educación - Recursos Humanos)" Login="i:0#.w|admon-cfnavarra\x049742" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMTEyOTQ2" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="24" Name="Huarte Pozas, Enrique (SNE-NL)" Login="i:0#.w|admon-cfnavarra\x002389" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMTEwMzg=" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="25" Name="Astrain Zaratiegui, Mª Teresa (Educación)" Login="i:0#.w|admon-cfnavarra\n224262" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMTA4OTY=" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="26" Name="Sanchez Martin, Anabel (SNE Santesteban)" Login="i:0#.w|admon-cfnavarra\x065855" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtNzY1NjE=" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="27" Name="Colás Guilabert, Daniel (SNE-NL Iturrondo)" Login="i:0#.w|admon-cfnavarra\x092910" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMjA1MDUy" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="29" Name="Elizalde Goñi, Leire (Instituto Navarro del Deporte)" Login="i:0#.w|admon-cfnavarra\x054406" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMjgwNzg=" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="30" Name="Equiza Millán, Maria Gloria (C.S. Mendillorri)" Login="i:0#.w|admon-cfnavarra\x004948" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMjIyNzg=" IsDeleted="true" IsDomainGroup="false" />
+  </Users>
+  <Groups>
+    <Group Id="1" Name="Propietarios Servicio de Nóminas y Estudios Económicos" Description="Use este grupo para conceder a los usuarios permisos de control total en el sitio de SharePoint: Servicio de Nóminas y Estudios Económicos" Owner="1" OwnerIsUser="false" OnlyAllowMembersViewMembership="false" RequestToJoinLeaveEmailSetting="" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false">
+      <Member UserId="2" />
+      <Member UserId="3" />
+      <Member UserId="4" />
+    </Group>
+    <Group Id="5" Name="Integrantes Servicio de Nóminas y Estudios Económicos" Description="Use este grupo para conceder a los usuarios permisos de colaboración en el sitio de SharePoint: Servicio de Nóminas y Estudios Económicos" Owner="1" OwnerIsUser="false" OnlyAllowMembersViewMembership="false" RequestToJoinLeaveEmailSetting="" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false">
+      <Member UserId="6" />
+      <Member UserId="7" />
+      <Member UserId="8" />
+      <Member UserId="9" />
+      <Member UserId="10" />
+      <Member UserId="2" />
+      <Member UserId="11" />
+      <Member UserId="12" />
+      <Member UserId="13" />
+      <Member UserId="14" />
+      <Member UserId="15" />
+      <Member UserId="16" />
+      <Member UserId="17" />
+      <Member UserId="18" />
+      <Member UserId="19" />
+      <Member UserId="20" />
+    </Group>
+    <Group Id="21" Name="Visitantes Servicio de Nóminas y Estudios Económicos" Description="Use este grupo para conceder a los usuarios permisos de lectura en el sitio de SharePoint: Servicio de Nóminas y Estudios Económicos" Owner="1" OwnerIsUser="false" OnlyAllowMembersViewMembership="false" RequestToJoinLeaveEmailSetting="" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false" />
+    <Group Id="22" Name="Propietarios Grupo Trabajo Empleo" Description="Use este grupo para conceder a los usuarios permisos de control total en el sitio de SharePoint: Grupo Trabajo Empleo" Owner="22" OwnerIsUser="false" OnlyAllowMembersViewMembership="false" RequestToJoinLeaveEmailSetting="" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false">
+      <Member UserId="2" />
+    </Group>
+    <Group Id="23" Name="Integrantes Grupo Trabajo Empleo" Description="Use este grupo para conceder a los usuarios permisos de colaboración en el sitio de SharePoint: Grupo Trabajo Empleo" Owner="22" OwnerIsUser="false" OnlyAllowMembersViewMembership="false" RequestToJoinLeaveEmailSetting="" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false">
+      <Member UserId="24" />
+      <Member UserId="25" />
+      <Member UserId="26" />
+      <Member UserId="27" />
+    </Group>
+    <Group Id="28" Name="Visitantes Grupo Trabajo Empleo" Description="Use este grupo para conceder a los usuarios permisos de lectura en el sitio de SharePoint: Grupo Trabajo Empleo" Owner="22" OwnerIsUser="false" OnlyAllowMembersViewMembership="false" RequestToJoinLeaveEmailSetting="" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false">
+      <Member UserId="29" />
+    </Group>
+  </Groups>
+</UserGroupMap>

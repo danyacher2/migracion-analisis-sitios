@@ -1,0 +1,1191 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<UserGroupMap xmlns="urn:deployment-usergroupmap-schema">
+  <Users>
+    <User Id="2" Name="Cuenta de servicio de granja validación SharePoint 2013" Login="i:0#.w|admon-cfnavarra\svc_sgc2013val" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMTA3NDUw" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="3" Name="Cuenta administrativa de Olaia Solchaga Laspeñas" Login="i:0#.w|admon-cfnavarra\adm_d634587" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtOTUzNjk=" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="6" Name="Martínez de Lizarrondo Artola, Antidio (Oficina de Análisis y Prospectiva)" Login="i:0#.w|admon-cfnavarra\x050906" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtNTYyMzc=" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="7" Name="Tarrafeta Sayas, Luis Antonio (Planificación, Coordinación, Innovación y Evaluación de Políticas Públicas)" Login="i:0#.w|admon-cfnavarra\x080621" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMTYzNzI3" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="8" Name="Cia Pino, Itziar (Derechos Sociales)" Login="i:0#.w|admon-cfnavarra\x039817" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMjE1NzI=" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="12" Name="Fontenla Lana, Ana María (DGITIP-Serv. Sist.Inf. Corporativos)" Login="i:0#.w|admon-cfnavarra\x004782" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtOTM3Mw==" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="18" Name="Todos" Login="c:0(.s|true" IsSiteAdmin="false" SystemId="dHJ1ZQ==" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="19" Name="NT AUTHORITY\authenticated users" Login="c:0!.s|windows" IsSiteAdmin="false" SystemId="d2luZG93cw==" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="15" Name="Cuenta administradora granja desarrollo SharePoint 2013" Login="i:0#.w|admon-cfnavarra\svc_sgc2013des" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMTA3MTUx" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="16" Name="ADMON-CFNAVARRA\sps_admfunc" Login="c:0+.w|s-1-5-21-1844237615-1935655697-1801674531-111959" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMTExOTU5" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="17" Name="Izkue Mendi, Edurne (DGTD-Servicio Avance Digital)" Login="i:0#.w|admon-cfnavarra\x036183" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMTk4NzU=" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="27" Name="Olóriz Larrea, Josu (FP-Nóminas y SS)" Login="i:0#.w|admon-cfnavarra\n658200" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMjUyNg==" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="29" Name="Leon Milla, Ana Yuan (DGTD-Serv. Sist. Inf. Corporativos)" Login="i:0#.w|admon-cfnavarra\d422711" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMTE3ODg1" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="32" Name="Arancha Fontenla Lana" Login="i:0#.w|admon-cfnavarra\e421723" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtNDYxODc=" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="31" Name="Valiño Martínez, David (Educación)" Login="i:0#.w|admon-cfnavarra\x087631" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtNzAwNzM=" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="39" Name="Suescun Oset, Ana (DGTD-Servicio Avance Digital)" Login="i:0#.w|admon-cfnavarra\n089483" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMTkxNA==" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="40" Name="Maeztu Villafranca, Mª Carmen (Consejera Derechos Sociales)" Login="i:0#.w|admon-cfnavarra\n223916" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMzUzMA==" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="41" Name="Carbonero Martínez, Andrés (D.G. Protección Social y Cooperación al Desarrollo)" Login="i:0#.w|admon-cfnavarra\n019368" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMzQ2Nw==" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="42" Name="Arteaga Martínez, Ana (Serv. Navarro de Empleo)" Login="i:0#.w|admon-cfnavarra\x040804" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMjI5NDg=" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="43" Name="Ayerra Gurpegui, Carmelo (D.G. Política Social y Consumo)" Login="i:0#.w|admon-cfnavarra\n340312" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMzQ1Mw==" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="38" Name="Sola Mateos, Belén  (Economía y Hacienda)" Login="i:0#.w|admon-cfnavarra\x044288" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtNDA2NzQ=" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="44" Name="Piquer Lapuerta, Francisco Javier (SGT Derechos Sociales)" Login="i:0#.w|admon-cfnavarra\x045188" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtNDQyMDk=" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="45" Name="Etayo Lezáun, Javier (ANADP)" Login="i:0#.w|admon-cfnavarra\n222612" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtNTU2OA==" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="48" Name="Álvarez Álvarez, Carmen (Bomberos)" Login="i:0#.w|admon-cfnavarra\x060573" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtODk4NzM=" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="49" Name="Iriarte Armendariz, Alberto (DGTD-Corporativas)" Login="i:0#.w|admon-cfnavarra\x033521" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtNDQxNjM=" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="50" Name="Armañanzas Pagola, Puy (Bomberos)" Login="i:0#.w|admon-cfnavarra\n500360" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMjI5Ng==" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="47" Name="Jiménez Marqués, Rosa (Sª Gral.Técnica-Interior, Función Pública y Justicia)" Login="i:0#.w|admon-cfnavarra\x004540" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMTg3OA==" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="51" Name="Yanguas Bayona, Mª Aranzazu (ISPLN)" Login="i:0#.w|admon-cfnavarra\x013007" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMTU3NTI=" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="55" Name="Rubio Unzué, Merche  (ANADP)" Login="i:0#.w|admon-cfnavarra\n752101" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMTMwNw==" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="82" Name="Díez Ajona, María Asunción (Serv. de Bibliotecas)" Login="i:0#.w|admon-cfnavarra\n459700" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMjMwMTA=" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="58" Name="MARIA SAGRARIO CIORDIA ALVAREZ" Login="i:0#.f|wsmembershipprovider|15813658p" IsSiteAdmin="false" SystemId="MTU4MTM2NThw" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="59" Name="MARIA DE LA O ARTUCH AGUIRRE" Login="i:0#.f|wsmembershipprovider|16019624d" IsSiteAdmin="false" SystemId="MTYwMTk2MjRk" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="60" Name="Sanz Berrueta, Susana (Servicio de Patrimonio)" Login="i:0#.w|admon-cfnavarra\x040888" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMjMwODk=" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="61" Name="Martinez Pitillas, Pedro (Inst. Estadística)" Login="i:0#.w|admon-cfnavarra\x008641" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtODc5MzY=" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="62" Name="Jesús  Villanueva  Mateo" Login="i:0#.f|wsmembershipprovider|15826387h" IsSiteAdmin="false" SystemId="MTU4MjYzODdo" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="63" Name="Gainza Ordoqui, Joaquín (Obras Públicas)" Login="i:0#.w|admon-cfnavarra\n033241" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMjU0MA==" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="64" Name="PEDRO MARIA MARTINEZ PITILLAS" Login="i:0#.f|wsmembershipprovider|15851212a" IsSiteAdmin="false" SystemId="MTU4NTEyMTJh" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="65" Name="San Martin Razquin, Oskia (CyC)" Login="i:0#.w|admon-cfnavarra\d446340" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMjc3NjY=" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="66" Name="Artuch Aguirre, Mariola (Inst. Navarro para la Igualdad)" Login="i:0#.w|admon-cfnavarra\x006438" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMTA2MzYy" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="67" Name="OSCAR MELGOSA GARCIA" Login="i:0#.f|wsmembershipprovider|71135427s" IsSiteAdmin="false" SystemId="NzExMzU0Mjdz" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="68" Name="18198080c" Login="i:0#.f|wsmembershipprovider|18198080c" IsSiteAdmin="false" SystemId="MTgxOTgwODBj" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="69" Name="SUSANA SANZ BERRUETA" Login="i:0#.f|wsmembershipprovider|44619565w" IsSiteAdmin="false" SystemId="NDQ2MTk1NjV3" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="70" Name="Sala Balda, Txaro (Dirección General de Comunicación y R" Login="i:0#.w|admon-cfnavarra\x009712" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMTI3Njg=" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="71" Name="AINHOA NIEVA ZARDOYA" Login="i:0#.f|wsmembershipprovider|44625596f" IsSiteAdmin="false" SystemId="NDQ2MjU1OTZm" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="72" Name="Melgosa Garcia, Oscar (DGTD Servicio de Tecnologías de Salud)" Login="i:0#.w|admon-cfnavarra\x074414" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMTM2MjY2" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="73" Name="OSKIA SAN MARTIN RAZQUIN" Login="i:0#.f|wsmembershipprovider|44634084p" IsSiteAdmin="false" SystemId="NDQ2MzQwODRw" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="74" Name="MAYTE MANGADO BEROIZ" Login="i:0#.f|wsmembershipprovider|29144832z" IsSiteAdmin="false" SystemId="MjkxNDQ4MzJ6" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="75" Name="Ciordia Álvarez, Mª Sagrario (I.N.A.P.)" Login="i:0#.w|admon-cfnavarra\n142300" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMTQyOQ==" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="76" Name="Martínez Artola, Cristina (Dirección de Servicio de Innovación, Participación, Inspección y Difusión)" Login="i:0#.w|admon-cfnavarra\n030120" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtNDk3MA==" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="77" Name="Nieva Zardoya, Ainhoa (Servicio de Universidad)" Login="i:0#.w|admon-cfnavarra\x036403" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMjIyNzA=" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="78" Name="Villanueva Mateo, Jesús (Departamento DRyMA)" Login="i:0#.w|admon-cfnavarra\n096199" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMzI5Mw==" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="79" Name="33443603q" Login="i:0#.f|wsmembershipprovider|33443603q" IsSiteAdmin="false" SystemId="MzM0NDM2MDNx" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="80" Name="MARIA ROSARIO SALA BALDA" Login="i:0#.f|wsmembershipprovider|18210059q" IsSiteAdmin="false" SystemId="MTgyMTAwNTlx" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="81" Name="Mangado Beroiz, Mayte (Economía y Hacienda)" Login="i:0#.w|admon-cfnavarra\n060293" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMTM2NA==" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="89" Name="Núñez Rosón, Jerusalén  (Obras Públicas)" Login="i:0#.w|admon-cfnavarra\n648000" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtNjAzNQ==" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="91" Name="Juanicorena Izcue, Raquel (Instituto Navarro del Deporte)" Login="i:0#.w|admon-cfnavarra\n497450" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtNDQzNQ==" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="94" Name="Pardo Pardo, Idoia (Hacienda Foral de Navarra)" Login="i:0#.w|admon-cfnavarra\x004715" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtNzk1Mw==" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="95" Name="Ferrero Peso, Pilar (ANADP)" Login="i:0#.w|admon-cfnavarra\n220745" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMjYwMA==" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="97" Name="Grávalos Falces, Pedro (Salud Mental)" Login="i:0#.w|admon-cfnavarra\n210018" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtOTIxNA==" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="99" Name="Lus Guelbenzu, Natalia (Admon. Local)" Login="i:0#.w|admon-cfnavarra\x041458" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMjgwMjY=" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="100" Name="Abaurrea Leoz, Pilar (At. Primaria)" Login="i:0#.w|admon-cfnavarra\x016854" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMjk3NjY=" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="101" Name="Herrero Larrea, Itziar (Sección de Innovación Pública y Proyectos Europeos)" Login="i:0#.w|admon-cfnavarra\x044943" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtNDIwMDk=" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="102" Name="Abaurrea Azcona, M Teresa (ISPLN)" Login="i:0#.w|admon-cfnavarra\d201311" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMTA3NTc3" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="104" Name="Morrás Ros, Susana (Serv. Navarro de Empleo)" Login="i:0#.w|admon-cfnavarra\n202418" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMjU0Nw==" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="105" Name="Otazu Elcano, Agustín (Instituto Navarro de la Juventud)" Login="i:0#.w|admon-cfnavarra\n673350" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMzUzMw==" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="107" Name="Cuevas Remón, Graciela (SGT Memoria y Convivencia, Acción Exterior y Euskera)" Login="i:0#.w|admon-cfnavarra\n223188" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMzk4Ng==" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="108" Name="Arcaya Sánchez, Cristina (SGT Memoria y Convivencia, Acción Exterior y Euskera)" Login="i:0#.w|admon-cfnavarra\n006860" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMTUzOTI=" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="110" Name="Irurozqui Eguaras, Blanca (D.G. de Política Social y  Consu" Login="i:0#.w|admon-cfnavarra\n486740" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtNjE4NA==" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="112" Name="Gutiérrez Urrestarazu, Loli  (D.G. Política Social y Consumo)" Login="i:0#.w|admon-cfnavarra\x028804" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMTM5NDE=" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="113" Name="44621369n" Login="i:0e.t|ateka|44621369n" IsSiteAdmin="false" SystemId="NDQ2MjEzNjlu" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="114" Name="Jorge Palacios, Miguel Angel (Serv. Navarro de Empleo Alsasua)" Login="i:0#.w|admon-cfnavarra\x003139" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtNDU0MQ==" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="116" Name="Urdiain Díaz, Begoña (Serv. Navarro de Empleo Tudela)" Login="i:0#.w|admon-cfnavarra\x003164" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtNDYwNA==" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="117" Name="Calleja Leoz, Esther (SNE-NL)" Login="i:0#.w|admon-cfnavarra\x046753" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtNDcwNTk=" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="121" Name="Larrarte Huguet, Eneko" Login="i:0#.w|admon-cfnavarra\x057771" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMTM4Mjcz" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="122" Name="Fernández Mendaza, Mª Paz (Directora del Servicio de Marketing e Internacionalización Turística)" Login="i:0#.w|admon-cfnavarra\x003181" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtNDU1NQ==" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="123" Name="Teré Iriarte, Fernando (Serv. Navarro de Empleo Yamaguchi)" Login="i:0#.w|admon-cfnavarra\n223493" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMTM1Ng==" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="125" Name="Erice Aristu, Mª Jesús  (C.S. Ermitagaña)" Login="i:0#.w|admon-cfnavarra\n220351" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtNzA5Mg==" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="127" Name="Sanz García, Beatriz (Serv. Navarro de Empleo)" Login="i:0#.w|admon-cfnavarra\x003161" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtNDU3OA==" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="128" Name="Torondel Lopez, Elvira (Oficina de Análisis y Prospectiva)" Login="i:0#.w|admon-cfnavarra\x054638" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtNjM5ODQ=" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="129" Name="Ontoria Del Cura, Eva (Serv. Navarro de Empleo)" Login="i:0#.w|admon-cfnavarra\n223741" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMjgzMA==" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="132" Name="Soto Ahechu, Sara (Oficina de Análisis y Prospectiva)" Login="i:0#.w|admon-cfnavarra\x051446" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtNTU5NjE=" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="134" Name="Maria Elena Algarra Cerdan" Login="i:0e.t|ateka|maria elena algarra cerdan" IsSiteAdmin="false" SystemId="bWFyaWEgZWxlbmEgYWxnYXJyYSBjZXJkYW4=" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="135" Name="Giral Guembe, Mª Anunciación (C.S. Tafalla)" Login="i:0#.w|admon-cfnavarra\x020057" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMTI1NjI=" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="138" Name="Taberna Chacartegui, Irene (D.G. Política Social y Consumo)" Login="i:0#.w|admon-cfnavarra\x043336" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMzY5NDM=" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="141" Name="33436851a" Login="i:0e.t|ateka|33436851a" IsSiteAdmin="false" SystemId="MzM0MzY4NTFh" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="142" Name="Gogorcena Aoiz, Tomás  (D.G. Política Social y Consumo)" Login="i:0#.w|admon-cfnavarra\n340309" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMTI3Nw==" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="149" Name="Elizalde Goñi, Leire (Instituto Navarro del Deporte)" Login="i:0#.w|admon-cfnavarra\x054406" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMjgwNzg=" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="150" Name="Alforja Sagone, Lourdes (SNE Agencia Empresas)" Login="i:0#.w|admon-cfnavarra\x003171" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtNDU4MA==" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="155" Name="Gomez Royo, Héctor  (Prev. Riesgos Laborales)" Login="i:0#.w|admon-cfnavarra\x066335" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMTEyOTg2" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="156" Name="Del Cerro Valencia, Maria (Sección de Organización de Personal - Dir. Gral. de Función Pública)" Login="i:0#.w|admon-cfnavarra\x044568" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtNDEyMDM=" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="157" Name="De Miguel Alvarez, María (Sección de Organización de Personal)" Login="i:0#.w|admon-cfnavarra\x048720" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtNTAzMjU=" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="161" Name="Martínez Jiménez, Ana (Sección de Organización de Personal)" Login="i:0#.w|admon-cfnavarra\x073388" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMTMzMTYx" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="160" Name="Mena Zabala, Beatriz (DGTD-Serv. Organización e Innovación)" Login="i:0#.w|admon-cfnavarra\x052487" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtNTk5NjM=" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="162" Name="Bengochea Carpena, Amaya (SNE-NL)" Login="i:0#.w|admon-cfnavarra\x010968" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtNTE5MDU=" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="169" Name="Marcen Goñi, Sara (Serv. Centrales)" Login="i:0#.w|admon-cfnavarra\x052304" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtNTk4Mzg=" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="170" Name="Gorostiaga Ayestaran, Esteban (Instituto Navarro del Deporte)" Login="i:0#.w|admon-cfnavarra\n498800" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtNTYwMA==" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="171" Name="Sainz de Murieta, Eduardo (Interior)" Login="i:0#.w|admon-cfnavarra\n223573" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMTM5Nw==" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="172" Name="Pérez Jarauta, M José (ISPLN)" Login="i:0#.w|admon-cfnavarra\n202084" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMTI3OTU=" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="173" Name="Martínez Larrea, Alfredo (Director Gerente SNS-O)" Login="i:0#.w|admon-cfnavarra\n586790" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtNTkzNg==" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="174" Name="Goñi Sarries, Adriana (Salud Mental)" Login="i:0#.w|admon-cfnavarra\n419000" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtODIyOA==" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="175" Name="Sánchez Sanz, Primitivo (Instituto Navarro del Deporte)" Login="i:0#.w|admon-cfnavarra\n603200" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtNDQyMw==" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="176" Name="Urdanoz Ezcurra, Cristina (Serv. de Formación-S.Empleo)" Login="i:0#.w|admon-cfnavarra\n223495" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMzgyMQ==" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="177" Name="Tornero Recasens, Elena (SNS-O Hospital Universitario de Navarra)" Login="i:0#.w|admon-cfnavarra\x057489" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtNzI0NzQ=" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="178" Name="Sola Ibarra, Juan Antonio (Interior)" Login="i:0#.w|admon-cfnavarra\n222644" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtNjAyOQ==" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="179" Name="Jiménez Muro, Inés  (D.G. Política Social y Consumo)" Login="i:0#.w|admon-cfnavarra\x043843" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMzc5Njc=" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="180" Name="Garde Garde, Carmen (ISPLN)" Login="i:0#.w|admon-cfnavarra\n401700" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtNDM5NQ==" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="185" Name="Basterra Olóriz, Garbiñe (Directora General de Industria, Energ" Login="i:0#.w|admon-cfnavarra\x039917" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMjI2MDI=" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="186" Name="Iragui Moreno, Maider (Dpto. Salud)" Login="i:0#.w|admon-cfnavarra\x063931" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMTEyNzg2" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="187" Name="Ruiz Huelva, Sara (Sección de Atención Ciudadana)" Login="i:0#.w|admon-cfnavarra\x065029" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMTA4ODc2" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="188" Name="Gorricho Mendívil, Javier  (Serv. Centrales)" Login="i:0#.w|admon-cfnavarra\n438834" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtOTk2Mg==" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="191" Name="Gurucharri Pellejero, Sandra (C.S. Alsasua)" Login="i:0#.w|admon-cfnavarra\x020392" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMTE1NDA=" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="195" Name="29154639t" Login="i:0e.t|ateka|29154639t" IsSiteAdmin="false" SystemId="MjkxNTQ2Mzl0" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="208" Name="Abad Vicente, Fco. Javier (Dpto. Salud)" Login="i:0#.w|admon-cfnavarra\n202042" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtNjU0Ng==" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="209" Name="Elizalde Soto, Lázaro (Departamento de Salud)" Login="i:0#.w|admon-cfnavarra\n027578" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtNTI3Mg==" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="225" Name="Castiella Lafuente, Fermín  (ISPLN)" Login="i:0#.w|admon-cfnavarra\n220672" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMjI2MQ==" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="236" Name="Pérez Villanueva, Laura (Derechos Sociales)" Login="i:0#.w|admon-cfnavarra\x022916" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMTQ0NDY=" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="237" Name="Errea Lizaur, Gustavo Adolfo (Educación)" Login="i:0#.w|admon-cfnavarra\x028787" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMjE5Mzg=" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="238" Name="García de Eulate Jiménez, José Ramón (Observatorio Realidad Social)" Login="i:0#.w|admon-cfnavarra\d433962" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMTA5MDgz" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="240" Name="Echeverría Fernández, Javier (Derechos Sociales)" Login="i:0#.w|admon-cfnavarra\x010565" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMjg0MDc=" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="241" Name="González Salgado, Carmen (Hacienda Foral de Navarra)" Login="i:0#.w|admon-cfnavarra\n223301" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMTAyNTU=" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="245" Name="System Account" Login="SHAREPOINT\system" IsSiteAdmin="false" SystemId="" IsDeleted="false" IsDomainGroup="false" />
+    <User Id="246" Name="Sainz Lezáun, Izaskun (BON)" Login="i:0#.w|admon-cfnavarra\x056792" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtNzI2OTc=" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="248" Name="Escribano López, Ana (Economía y Hacienda)" Login="i:0#.w|admon-cfnavarra\n223416" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMTQxOA==" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="251" Name="Iribas Latour, Ricardo (Educación)" Login="i:0#.w|admon-cfnavarra\x033913" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMTI3OTA=" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="257" Name="RITXAR IRIBAS LATOUR" Login="i:0#.f|wsmembershipprovider|33449023p" IsSiteAdmin="false" SystemId="MzM0NDkwMjNw" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="258" Name="Perfecto San Miguel, Joaquín (Servicio de Gestión Gerencia At.Primaria)" Login="i:0#.w|admon-cfnavarra\n223229" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMzUwMg==" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="262" Name="Guindo González, Jone (Servicio de Comunicación)" Login="i:0#.w|admon-cfnavarra\x053498" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtNjEzNTY=" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="261" Name="Esparza Lizasoain, Conchi (Salud Mental)" Login="i:0#.w|admon-cfnavarra\n342000" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMTQ0NDM=" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="264" Name="Diago Rodríguez, Mª Paz (Dir. Gral. Interior)" Login="i:0#.w|admon-cfnavarra\n023748" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMzAzMg==" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="267" Name="Sáiz Agustín, M.D. (Cámara de Comptos)" Login="i:0#.w|admon-cfnavarra\d574624" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMzg3OA==" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="269" Name="Auzmendi Alustiza, Iñaki (SNS-O Hospital Universitario de Navarra)" Login="i:0#.w|admon-cfnavarra\n189750" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtNjAxNw==" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="272" Name="MARIA CONCEPCION ESPARZA LIZASOAIN" Login="i:0#.f|wsmembershipprovider|18194232j" IsSiteAdmin="false" SystemId="MTgxOTQyMzJq" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="271" Name="ROSA MARIA ROMERO VELAZ" Login="i:0#.f|wsmembershipprovider|18206353j" IsSiteAdmin="false" SystemId="MTgyMDYzNTNq" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="274" Name="Urdín Zubiri, Cristina (SNS-O Hospital Universitario de Navarra)" Login="i:0#.w|admon-cfnavarra\n825690" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtNjA1NQ==" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="277" Name="IñAKI XABIER AUZMENDI ALUSTIZA" Login="i:0#.f|wsmembershipprovider|72436556b" IsSiteAdmin="false" SystemId="NzI0MzY1NTZi" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="278" Name="CRISTINA URDIN ZUBIRI" Login="i:0#.f|wsmembershipprovider|29142075v" IsSiteAdmin="false" SystemId="MjkxNDIwNzV2" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="280" Name="Osinaga Lesaca, Patxi (Industria)" Login="i:0#.w|admon-cfnavarra\n073125" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtNTA0MQ==" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="281" Name="Gaztelu Escudero, Daniel (TRACASA-Corporativas)" Login="i:0#.w|admon-cfnavarra\d804706" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMjgwOTI=" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="283" Name="Muruzabal Fernández, Iasone (Economía y Hacienda)" Login="i:0#.w|admon-cfnavarra\n068276" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMTY0MA==" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="284" Name="Vidán Astiz, Rosalía (Educación)" Login="i:0#.w|admon-cfnavarra\n283880" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMTU5Mw==" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="285" Name="Alonso de Mur, Mª Adela (Departamento DRyMA)" Login="i:0#.w|admon-cfnavarra\n223811" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtNTAxMg==" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="286" Name="Molina Jurado, Mª Sierra (SNS-O At. Primaria)" Login="i:0#.w|admon-cfnavarra\x034497" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMTg5MjA=" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="288" Name="Ancin García, María del Mar (Educación)" Login="i:0#.w|admon-cfnavarra\x049080" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtNTIyMzk=" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="289" Name="Equiza Millán, Maria Gloria (C.S. Mendillorri)" Login="i:0#.w|admon-cfnavarra\x004948" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMjIyNzg=" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="290" Name="Etxauri Beltzunegi, Lara (Departamento de Educación)" Login="i:0#.w|admon-cfnavarra\x072970" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMTMwMzQ1" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="291" Name="Tejedor Zozaya, Mateo (Educación)" Login="i:0#.w|admon-cfnavarra\x070273" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMTEwMjUx" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="292" Name="Yoldi Ruiz, Mª Aránzazu (Educación)" Login="i:0#.w|admon-cfnavarra\n287970" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtNDkxMQ==" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="294" Name="Balduz Ugarriza, Fernando (Subdirector Gestión Económica y SSGG" Login="i:0#.w|admon-cfnavarra\n013568" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMjQ1MA==" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="295" Name="Jiménez Leiva, Mª Victoria (Servicio Coordinación del Plan Recuperación y Contabilidad Nacional)" Login="i:0#.w|admon-cfnavarra\x011865" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtNDM1Nw==" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="296" Name="Elizalde Marco, Alfonso (Educación)" Login="i:0#.w|admon-cfnavarra\x039961" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtNDA4MTI=" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="297" Name="Moreno García, Roberto (Educación)" Login="i:0#.w|admon-cfnavarra\n560645" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMTEzMDU=" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="298" Name="Pagola Vicuña, Mª Emilia (At. Primaria)" Login="i:0#.w|admon-cfnavarra\x012411" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMTI5NTU=" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="299" Name="Orquin Balda, Mercedes (Educación)" Login="i:0#.w|admon-cfnavarra\x051009" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtODA1ODA=" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="300" Name="Pérez Omeñaca, Montserrat (Serv. Navarro de Empleo)" Login="i:0#.w|admon-cfnavarra\x005039" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMTQ0Nw==" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="301" Name="Izko Tejada, Gotzon (Educacion)" Login="i:0#.w|admon-cfnavarra\n491850" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtNzYyOQ==" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="302" Name="Ardanaz Pena, Ana (Educación)" Login="i:0#.w|admon-cfnavarra\n115030" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtOTI4Mw==" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="303" Name="Fernández Gavilán, Juan Luis  (Dpto. Educacion - Recursos Humanos)" Login="i:0#.w|admon-cfnavarra\n031742" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtNTM1OA==" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="304" Name="Díez de Ure Eraul, Daniel (Educación)" Login="i:0#.w|admon-cfnavarra\x002131" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMTIwMzg=" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="305" Name="González González, Mª Pilar (ISPLN)" Login="i:0#.w|admon-cfnavarra\x044294" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtNDA5NTg=" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="306" Name="Bordonaba Ruiz, Amaya (Economía y Hacienda)" Login="i:0#.w|admon-cfnavarra\n133380" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMzY5MTM=" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="307" Name="González Senosiain, Esperanza (Educación)" Login="i:0#.w|admon-cfnavarra\x056525" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtNzA1NDc=" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="308" Name="Lana Aldea, Carmen (Educación)" Login="i:0#.w|admon-cfnavarra\n527570" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMTEyOTg=" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="309" Name="Ayala Cabrerizo, Juana (Educación)" Login="i:0#.w|admon-cfnavarra\x006111" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMjE1ODk=" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="310" Name="Igarreta Lanciego, Mª José (Educación)" Login="i:0#.w|admon-cfnavarra\n185770" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtNjQyNA==" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="311" Name="Gil Roanes, Rosa María (SNS-O Hospital Universitario de Navarra))" Login="i:0#.w|admon-cfnavarra\x056887" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtODM1MTE=" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="312" Name="Arteta Ganuza, Carlos (Instituto Navarro del Deporte)" Login="i:0#.w|admon-cfnavarra\n180750" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMTgxMw==" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="313" Name="Yarnoz Torres, Javier (ISPLN)" Login="i:0#.w|admon-cfnavarra\x041364" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtNDA3MzU=" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="314" Name="Erdozáin Rived, Txaro (Dirección General de Políticas Migratorias)" Login="i:0#.w|admon-cfnavarra\n221047" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMTcyMQ==" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="315" Name="Tabar Fernández, Susana (Educación)" Login="i:0#.w|admon-cfnavarra\n273980" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMzcwMg==" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="324" Name="Lanciego Balda, Juan José (Dir. Gral. Interior)" Login="i:0#.w|admon-cfnavarra\n052421" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMjM1Mw==" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="325" Name="Errasti Izaguirre, Eneritz (Inst. Navarro para la Igualdad)" Login="i:0#.w|admon-cfnavarra\x070997" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMTI3MjI4" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="328" Name="Nieva Zardoya, Arantza (Secretariado del Gobierno)" Login="i:0#.w|admon-cfnavarra\x022379" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMzA1NzE=" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="329" Name="Vitas Elizari, Edurne (DGTD-Corporativas)" Login="i:0#.w|admon-cfnavarra\n223665" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMjcyMA==" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="332" Name="Arana Rey, Cristina (Servicio de Proyección Internacional)" Login="i:0#.w|admon-cfnavarra\x034088" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtNjM2NjI=" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="337" Name="González Torvisco, Sonia (Educación)" Login="i:0#.w|admon-cfnavarra\x085012" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMTgwNDk4" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="338" Name="Montero Moreno, Patricia (Educación)" Login="i:0#.w|admon-cfnavarra\x071411" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMTI4Njk5" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="336" Name="Palomo Mateos, Sonia (Educación)" Login="i:0#.w|admon-cfnavarra\x056604" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtNjg0NTQ=" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="340" Name="73610212t" Login="i:0e.t|ateka|73610212t" IsSiteAdmin="false" SystemId="NzM2MTAyMTJ0" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="341" Name="Berango García, Yolanda (Educación)" Login="i:0#.w|admon-cfnavarra\x006318" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtNTE0Mg==" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="342" Name="García Azcona, Patxi (Educación)" Login="i:0#.w|admon-cfnavarra\x084505" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMTc5MzYy" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="344" Name="44627392d" Login="i:0e.t|ateka|44627392d" IsSiteAdmin="false" SystemId="NDQ2MjczOTJk" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="346" Name="Hidalgo Palomino, María Alma (Educación)" Login="i:0#.w|admon-cfnavarra\x099927" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMjMwMzgz" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="347" Name="Guadaño de la Serna, Sara (Educacion)" Login="i:0#.w|admon-cfnavarra\x100979" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMjMzNTI5" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="348" Name="Mateo Saldías, María del Carmen (Nóminas Educación)" Login="i:0#.w|admon-cfnavarra\n554880" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMjEyMDQ=" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="349" Name="Gallegos Yoldi, Susana (Educacion)" Login="i:0#.w|admon-cfnavarra\x096116" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMjE2OTEz" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="350" Name="Zabaleta Uriz, María Esther (Educación)" Login="i:0#.w|admon-cfnavarra\x082607" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMTY5OTQ3" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="351" Name="Itoiz Goñi, Nora (Servicio de estudios económicos y nóminas)" Login="i:0#.w|admon-cfnavarra\x081309" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMTY1NTA2" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="352" Name="Iturri Villanueva, Beatriz (Educación)" Login="i:0#.w|admon-cfnavarra\x020820" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtNTk3Mg==" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="353" Name="Pérez de Arrilucea Segú, Inés (Educación)" Login="i:0#.w|admon-cfnavarra\x093718" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMjA4MTE1" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="354" Name="Moral Fernández, Olga (Educación - Recursos Humanos)" Login="i:0#.w|admon-cfnavarra\x049742" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMTEyOTQ2" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="360" Name="Huarte Pozas, Enrique (SNE-NL)" Login="i:0#.w|admon-cfnavarra\x002389" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMTEwMzg=" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="361" Name="Astrain Zaratiegui, Mª Teresa (Educación)" Login="i:0#.w|admon-cfnavarra\n224262" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMTA4OTY=" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="362" Name="Sanchez Martin, Anabel (SNE Santesteban)" Login="i:0#.w|admon-cfnavarra\x065855" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtNzY1NjE=" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="363" Name="Colás Guilabert, Daniel (SNE-NL Iturrondo)" Login="i:0#.w|admon-cfnavarra\x092910" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMjA1MDUy" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="367" Name="Asiain Albisu, Joseba (Director General de Presidencia)" Login="i:0#.w|admon-cfnavarra\x004784" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtOTcxNA==" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="368" Name="Zufía Arbilla, Maite (Planificación Estratégica)" Login="i:0#.w|admon-cfnavarra\x064017" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMTA1MzU2" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="372" Name="Lecuona Tornos, María (Transportes)" Login="i:0#.w|admon-cfnavarra\x045093" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtNDMwMjM=" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="373" Name="Rodriguez Gomez, Jesus Maria (Director General de Admon. Local)" Login="i:0#.w|admon-cfnavarra\x075440" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMTM3MjU4" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="374" Name="López Vera, Pedro (Dirección General de Obras Públicas e Infraestructuras)" Login="i:0#.w|admon-cfnavarra\n220074" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtNDg3NA==" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="375" Name="Miranda Ordobas, Berta (Directora General de Transportes)" Login="i:0#.w|admon-cfnavarra\x055251" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtNjY0MTg=" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="377" Name="Pozueta Uribe-Echeverría, Miguel Angel (Director Gerente Instituto Navarro del Deporte)" Login="i:0#.w|admon-cfnavarra\x055320" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtNjcxMzM=" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="378" Name="Barcenilla Tirapu, Mª Camino (Cultura)" Login="i:0#.w|admon-cfnavarra\x046147" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtNDU5MjE=" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="379" Name="Apezteguia Morentin, Ignacio (Director General de Cultura-Institución Príncipe de Viana)" Login="i:0#.w|admon-cfnavarra\x075438" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMTM3MjQ4" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="381" Name="Osés Zudaire, Cristina (Observatorio Realidad Social)" Login="i:0#.w|admon-cfnavarra\d647198" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMTIzNDg2" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="382" Name="Vaca Guergué, Jesús Mª (ANADP)" Login="i:0#.w|admon-cfnavarra\x004064" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtNDUwMzQ=" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="383" Name="García López, Ana Isabel (ANADP)" Login="i:0#.w|admon-cfnavarra\n40711" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtOTY1Mw==" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="384" Name="Chueca Chueca, Olga (ANADP)" Login="i:0#.w|admon-cfnavarra\x077661" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMTQyODEy" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="385" Name="Sala López, Olga (ANADP)" Login="i:0#.w|admon-cfnavarra\d419963" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMTE2NTE3" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="386" Name="Arguiñano Sánchez, Mª Soledad (ANADP)" Login="i:0#.w|admon-cfnavarra\n340334" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMzQ4MQ==" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="387" Name="Rodriguez Tapiz, Aranzazu (Observatorio de Realidad Social)" Login="i:0#.w|admon-cfnavarra\d138029" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMTcxMzA3" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="388" Name="Francés Román, Inés (ANADP)" Login="i:0#.w|admon-cfnavarra\x051190" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtNTcwMDQ=" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="389" Name="Martón Pérez, Miriam (Directora Gerente del SNE-NL)" Login="i:0#.w|admon-cfnavarra\x059978" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtODY5MzY=" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="390" Name="Iraceburu Zazpe, Víctor (Oficina de Análisis y Prospectiva)" Login="i:0#.w|admon-cfnavarra\x053521" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtNjQ1NzA=" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="391" Name="Campos Iturralde, Luis (DG Planificación, Coordinación, Innovación y Evaluación de Políticas)" Login="i:0#.w|admon-cfnavarra\x075487" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMTEzNzcz" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="392" Name="Urra Urriza, Mª Carmen  (D.G. Política Social y Consumo)" Login="i:0#.w|admon-cfnavarra\n224095" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtOTYyOQ==" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="393" Name="Iriarte Aristu, Ignacio (Dirección de Profesionales SNS-O)" Login="i:0#.w|admon-cfnavarra\n223084" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMzQ2NQ==" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="394" Name="Arana Aicua, Carlos (ANADP)" Login="i:0#.w|admon-cfnavarra\n5844" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMTI2Mg==" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="395" Name="Trébol Urra, Ainhoa (ANADP)" Login="i:0#.w|admon-cfnavarra\x024027" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMjUxMTY=" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="396" Name="Etxamendi Tiebas, Ana (ANADP)" Login="i:0#.w|admon-cfnavarra\n307800" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMTI3NA==" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="398" Name="Goñi Razquin, Izaskun (Directora General de Política de Empresa, Proyección Internacional y Trabajo)" Login="i:0#.w|admon-cfnavarra\d439588" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMTA0MjQ2" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="399" Name="Ezkutari Artieda, Maitena (Of. Turismo-Lekunberri)" Login="i:0#.w|admon-cfnavarra\d431813" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMTA0NDIw" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="400" Name="Itoiz Mariñelarena, Uxue (CEIN)" Login="i:0#.w|admon-cfnavarra\d627895" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMTEwMzkz" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="402" Name="Álvarez Asiáin, Pilar (Consejo de Navarra)" Login="i:0#.w|admon-cfnavarra\x005717" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMzk2NQ==" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="403" Name="Muñoz Trigo, Pablo (Director General de Medio Ambiente- DRyMA)" Login="i:0#.w|admon-cfnavarra\n067906" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtNTI5Mg==" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="404" Name="Santafé Aranda, Fernando (Economía y Hacienda)" Login="i:0#.w|admon-cfnavarra\n221392" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMjY4NQ==" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="405" Name="Almendros Martín, Camila (Servicios Centrales)" Login="i:0#.w|admon-cfnavarra\n222441" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMjExMjc=" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="406" Name="Sancho Rodríguez, M Ángeles (Departamento DRyMA)" Login="i:0#.w|admon-cfnavarra\n084897" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtNTU2Mg==" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="407" Name="Gil Jordán, Ignacio (Director General Agricultura y Ganaderia)" Login="i:0#.w|admon-cfnavarra\x063471" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMTAzNzcw" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="409" Name="Martínez de Bujanda Esténoz, Oscar (Hacienda Foral de Navarra)" Login="i:0#.w|admon-cfnavarra\n222073" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMTE3MA==" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="410" Name="Urrutia Juanicotena, Begoña (D Gral. del Presupuesto)" Login="i:0#.w|admon-cfnavarra\n093191" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtNTU2MA==" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="411" Name="Turrillas Osés, Virginia (Servicio de Patrimonio)" Login="i:0#.w|admon-cfnavarra\n146637" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtOTEyOQ==" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="412" Name="Arrizabalaga Rodríguez, Iñaki (Economía)" Login="i:0#.w|admon-cfnavarra\n009726" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtNTExNw==" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="413" Name="Marticorena Chapa, Javier (Cámara de Comptos)" Login="i:0#.w|admon-cfnavarra\d611338" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMTQ3MzQ=" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="415" Name="Elcuaz Viscarret, Virginia (Educación y Cultura)" Login="i:0#.w|admon-cfnavarra\n224137" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtOTI3NQ==" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="416" Name="Rodríguez Garraza, Tomás (DG de Formación Profesional)" Login="i:0#.w|admon-cfnavarra\n255180" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtNDk0OQ==" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="417" Name="Ardaiz Ganuza, Eneko (Educación)" Login="i:0#.w|admon-cfnavarra\n223842" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMzE3MA==" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="418" Name="Sevillano Gonzalez, Gil (Director General de Educación)" Login="i:0#.w|admon-cfnavarra\x009940" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMTM3MjQz" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="419" Name="Unzue Vela, Begoña (Educación)" Login="i:0#.w|admon-cfnavarra\n277685" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtNTE3NA==" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="421" Name="Abril Olaetxea, Izaskun (Dra Gral de Ordenación del Territorio)" Login="i:0#.w|admon-cfnavarra\x063360" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMTA0MzAz" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="422" Name="Goñi Urroz, Ruben (Director General Desarrollo Rural)" Login="i:0#.w|admon-cfnavarra\x063464" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMTAzNzgx" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="424" Name="Sainz de Rozas Bedialauneta, Rafael (Justicia)" Login="i:0#.w|admon-cfnavarra\x075450" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMTM4MTg3" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="425" Name="San Martín Sánchez de Muniain, Laura (SGT - Universidad, Innovación y Transformación Digital)" Login="i:0#.w|admon-cfnavarra\x012727" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMjY3NjM=" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="426" Name="Ruiz de Irizar, Patricia (Directora General de Coordinacion de Politicas Migratorias)" Login="i:0#.w|admon-cfnavarra\x075416" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMTM3MjUx" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="427" Name="Amezcua Zabalza, María (Justicia)" Login="i:0#.w|admon-cfnavarra\x067473" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMTE1OTc5" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="430" Name="Zarranz Alli, Eva (INAP)" Login="i:0#.w|admon-cfnavarra\n005344" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtNTUxMg==" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="431" Name="López Antelo, María Amparo (Consejera Interior, Función Pública y Justicia)" Login="i:0#.w|admon-cfnavarra\x075439" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMTM4MTg0" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="432" Name="Roncal Los Arcos, Pablo Jesus (Director General de Comunicación y Relaciones Institucionales)" Login="i:0#.w|admon-cfnavarra\x075433" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMTM3MjQ3" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="433" Name="Iriarte Ibarra, Jon (D.G. Presidencia y Gobierno Abierto)" Login="i:0#.w|admon-cfnavarra\x003415" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtNzU5ODk=" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="434" Name="Amatriain Busto, Carlos (Instituto Navarro de la Juventud)" Login="i:0#.w|admon-cfnavarra\x075816" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMjE0Njg=" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="435" Name="Isturiz Garcia, Eva (Inst. Navarro para la Igualdad / Nafarroako Berdintasunerako Institutua)" Login="i:0#.w|admon-cfnavarra\d207719" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMTM5NjE2" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="436" Name="Goñi Lacabe, Amaia (Función Pública)" Login="i:0#.w|admon-cfnavarra\x020094" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtNjA4Mw==" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="438" Name="Pérez García, Sergio (Director General de Acción Exterior)" Login="i:0#.w|admon-cfnavarra\x062646" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMTAzMjk3" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="439" Name="Arregi Pérez, Mikel (Euskarabidea)" Login="i:0#.w|admon-cfnavarra\n009327" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtOTg2OQ==" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="440" Name="Zabalza Arregui, Martín (Director General de Paz, Convivencia y Derechos Humanos)" Login="i:0#.w|admon-cfnavarra\x075457" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMTM4MTky" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="442" Name="Nuin Villanueva, M Ángeles (ISPLN)" Login="i:0#.w|admon-cfnavarra\n648750" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtNzU1OA==" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="443" Name="Garatea Crelgo, Miguel (ISPLN)" Login="i:0#.w|admon-cfnavarra\n034500" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtNTkyOA==" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="444" Name="Achutegui Basagoiti, Gregorio (SSCC)" Login="i:0#.w|admon-cfnavarra\x079788" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMTU2MzQ5" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="445" Name="Ochando Ortiz, Geno (Departamento de Salud)" Login="i:0#.w|admon-cfnavarra\x022410" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtNjk5MA==" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="446" Name="Artundo Purroy, Carlos (Director General de Salud)" Login="i:0#.w|admon-cfnavarra\x075488" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMTM3Mjcw" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="448" Name="Martínez Ortigosa, Rosario (Directora General de Innovación)" Login="i:0#.w|admon-cfnavarra\x076187" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMTM4Mzcz" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="449" Name="Burusco Juandeaburre, Ana Jesus (Direccion General de Universidades)" Login="i:0#.w|admon-cfnavarra\x075483" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMTM3ODE3" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="452" Name="Senar Amatria, Ane (SGT Derechos Sociales)" Login="i:0#.w|admon-cfnavarra\x077065" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMTQxNjc5" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="453" Name="Pérez Remondegui, José Javier (Economía y Hacienda)" Login="i:0#.w|admon-cfnavarra\x043928" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMzgwODE=" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="454" Name="Rodríguez Zubiría, Elena (Planificación, Coordinación, Innovación y Evaluación de Políticas Públicas)" Login="i:0#.w|admon-cfnavarra\x004679" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMTE4NjAy" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="455" Name="Muñoz Garde, Andrés (SGT Derechos Sociales)" Login="i:0#.w|admon-cfnavarra\x038842" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMjA4NzY=" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="456" Name="Jiménez Izu, Eduardo (SGT Cohesión Territorial)" Login="i:0#.w|admon-cfnavarra\n522150" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMTEyOTc=" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="460" Name="Policía Foral - PF1079 (Interior)" Login="i:0#.w|admon-cfnavarra\x051793" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtNjI2MTY=" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="462" Name="Saragueta González, Martín (Serv. de Bibliotecas)" Login="i:0#.w|admon-cfnavarra\n268380" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMjI5OTc=" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="465" Name="Andueza Elía, Aitor (Suhiltzaileak Auritz)" Login="i:0#.w|admon-cfnavarra\x003749" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtNDUzMjc=" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="464" Name="Horcada Ibáñez, Carlos José (Bomberos - Navascués)" Login="i:0#.w|admon-cfnavarra\n222021" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMTI2NjQ=" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="467" Name="Jiménez Soret, Maitane (Periodismo Derechos Sociales)" Login="i:0#.w|admon-cfnavarra\d754941" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMTI4MzU5" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="470" Name="Villanueva Durantez, Jesús (ISPLN)" Login="i:0#.w|admon-cfnavarra\x045268" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtNDU2OTU=" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="469" Name="Lain Bandrés, Asun (At. Primaria)" Login="i:0#.w|admon-cfnavarra\n516150" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtNzQ0OQ==" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="473" Name="González Ramírez, Mª Isabel (Dirección General de Políticas Migratorias)" Login="i:0#.w|admon-cfnavarra\x042753" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtNDA1NDM=" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="472" Name="Jauregui Virto, Marta (Vivienda)" Login="i:0#.w|admon-cfnavarra\x064947" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMTA4NzE1" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="477" Name="Inaga Martínez, Mª Carmen (SNS-O Hospital Reina Sofía – Área de Salud de Tudela)" Login="i:0#.w|admon-cfnavarra\x052417" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtNTk5MzI=" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="476" Name="Jordan Lizarbe, Ana Mª (SNS-O Hospital Reina Sofía – Área de Salud de Tudela)" Login="i:0#.w|admon-cfnavarra\x052420" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtNjA1ODY=" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="481" Name="Dominguez García, Saray (D.G. Política Social y Consumo)" Login="i:0#.w|admon-cfnavarra\d611154" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMjQyMzI=" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="480" Name="Antuñano Unanua, Leyre (Educación)" Login="i:0#.w|admon-cfnavarra\x054496" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtNjQ1MjI=" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="484" Name="Erroz Urdániz, Berta (Palacio de Justicia)" Login="i:0#.w|admon-cfnavarra\n029133" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtNTM0NA==" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="483" Name="Mazquiaran Goicoechea, Jaione (Cultura, Deporte y Turismo)" Login="i:0#.w|admon-cfnavarra\x042229" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtNDAwNTM=" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="485" Name="Ansorena Huici, María Izaskun (Cultura, Deporte y Turismo)" Login="i:0#.w|admon-cfnavarra\n412675" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMzY4NjM=" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="487" Name="Marquinez Marañon, Maider (Instituto Navarro para la Igualdad/Nafarroako Berdintasunerako Institutua)" Login="i:0#.w|admon-cfnavarra\x048806" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtNTE4Mzk=" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="489" Name="LEYRE ANTUÑANO UNANUA" Login="i:0#.f|wsmembershipprovider|leyre antuñano unanua" IsSiteAdmin="false" SystemId="bGV5cmUgYW50dcOxYW5vIHVuYW51YQ==" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="493" Name="Auza Catalan, Ruben (Oficina de Análisis y Prospectiva)" Login="i:0#.w|admon-cfnavarra\x017710" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMTk3NTM1" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="494" Name="Garcia de Eulate Jimenez, Jose Ramón (DG Planificación, Coordinación, Innovación y Evaluación)" Login="i:0#.w|admon-cfnavarra\x087875" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtMTkwNjkw" IsDeleted="true" IsDomainGroup="false" />
+    <User Id="495" Name="Corral Fuentes, Miguel Angel (DG Planificación, Coordinación, Innovación y Evaluación de Políticas Públicas)" Login="i:0#.w|admon-cfnavarra\x060598" IsSiteAdmin="false" SystemId="cy0xLTUtMjEtMTg0NDIzNzYxNS0xOTM1NjU1Njk3LTE4MDE2NzQ1MzEtOTEyNzE=" IsDeleted="true" IsDomainGroup="false" />
+  </Users>
+  <Groups>
+    <Group Id="1" Name="Propietarios VALCorporativa00" Description="Use este grupo para conceder a los usuarios permisos de control total en el sitio de SharePoint: VALCorporativa00" Owner="1" OwnerIsUser="false" OnlyAllowMembersViewMembership="false" RequestToJoinLeaveEmailSetting="" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false">
+      <Member UserId="2" />
+      <Member UserId="3" />
+    </Group>
+    <Group Id="4" Name="Colaboradores Administración" Description="" Owner="5" OwnerIsUser="false" OnlyAllowMembersViewMembership="true" RequestToJoinLeaveEmailSetting="" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false" />
+    <Group Id="5" Name="Propietarios Servicio de Planificación Calidad e Inspección" Description="Use este grupo para dar a los usuarios control total en el sitio de SharePoint: Servicio de Planificación Calidad e Inspección" Owner="5" OwnerIsUser="false" OnlyAllowMembersViewMembership="true" RequestToJoinLeaveEmailSetting="" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false">
+      <Member UserId="6" />
+      <Member UserId="7" />
+      <Member UserId="8" />
+    </Group>
+    <Group Id="9" Name="Visitantes de la VALCorporativa00" Description="Use este grupo para conceder a los usuarios permisos de lectura en el sitio de SharePoint: VALCorporativa00" Owner="1" OwnerIsUser="false" OnlyAllowMembersViewMembership="false" RequestToJoinLeaveEmailSetting="" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false" />
+    <Group Id="10" Name="Colaboradores Inspección - Servicio de Planificación Calidad e Inspección" Description="" Owner="5" OwnerIsUser="false" OnlyAllowMembersViewMembership="true" RequestToJoinLeaveEmailSetting="" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false" />
+    <Group Id="11" Name="Integrantes de la VALCorporativa00" Description="Use este grupo para conceder a los usuarios permisos de colaboración en el sitio de SharePoint: VALCorporativa00" Owner="1" OwnerIsUser="false" OnlyAllowMembersViewMembership="false" RequestToJoinLeaveEmailSetting="" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false">
+      <Member UserId="12" />
+    </Group>
+    <Group Id="13" Name="Lectores de recursos de estilo" Description="Use este grupo para dar permisos de lectura a la Galería de páginas maestras y a la Biblioteca de estilos, los cuales son necesarios para explorar este sitio. No elimine este grupo." Owner="14" OwnerIsUser="false" OnlyAllowMembersViewMembership="true" RequestToJoinLeaveEmailSetting="" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false">
+      <Member UserId="18" />
+      <Member UserId="19" />
+    </Group>
+    <Group Id="14" Name="Propietarios Corporativa00" Description="Use este grupo para conceder a los usuarios permisos de control total en el sitio de SharePoint: Corporativa00" Owner="14" OwnerIsUser="false" OnlyAllowMembersViewMembership="false" RequestToJoinLeaveEmailSetting="" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false">
+      <Member UserId="15" />
+      <Member UserId="16" />
+      <Member UserId="3" />
+      <Member UserId="17" />
+    </Group>
+    <Group Id="20" Name="Diseñadores" Description="Los integrantes de este grupo pueden editar listas, bibliotecas de documentos y páginas del sitio. Los diseñadores pueden crear páginas maestras y diseños de página en la Galería de páginas maestras. Además, pueden cambiar el comportamiento y la apariencia de los sitios de la colección mediante páginas maestras y archivos CSS.  " Owner="14" OwnerIsUser="false" OnlyAllowMembersViewMembership="true" RequestToJoinLeaveEmailSetting="" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false" />
+    <Group Id="21" Name="Administradores de jerarquías" Description="Los integrantes de este grupo pueden crear sitios, listas, elementos de lista y documentos. " Owner="14" OwnerIsUser="false" OnlyAllowMembersViewMembership="true" RequestToJoinLeaveEmailSetting="" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false" />
+    <Group Id="22" Name="Aprobadores" Description="Los integrantes de este grupo pueden editar y aprobar páginas, elementos de lista y documentos." Owner="14" OwnerIsUser="false" OnlyAllowMembersViewMembership="true" RequestToJoinLeaveEmailSetting="" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false" />
+    <Group Id="23" Name="Lectores restringidos" Description="Los integrantes de este grupo pueden ver páginas y documentos, pero no pueden ver versiones históricas ni consultar la información sobre derechos de usuarios." Owner="14" OwnerIsUser="false" OnlyAllowMembersViewMembership="true" RequestToJoinLeaveEmailSetting="" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false" />
+    <Group Id="24" Name="Usuarios de distribución rápida" Description="Los integrantes de este grupo pueden programar trabajos de distribución rápida." Owner="14" OwnerIsUser="false" OnlyAllowMembersViewMembership="true" RequestToJoinLeaveEmailSetting="" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false" />
+    <Group Id="25" Name="Administradores de traducciones" Description="Los miembros de este grupo pueden traducir páginas, elementos de la lista y documentos de Variaciones." Owner="14" OwnerIsUser="false" OnlyAllowMembersViewMembership="true" RequestToJoinLeaveEmailSetting="" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false" />
+    <Group Id="26" Name="Visitantes de la Corporativa00" Description="Use este grupo para conceder a los usuarios permisos de lectura en el sitio de SharePoint: Corporativa00" Owner="14" OwnerIsUser="false" OnlyAllowMembersViewMembership="false" RequestToJoinLeaveEmailSetting="" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false">
+      <Member UserId="18" />
+      <Member UserId="27" />
+    </Group>
+    <Group Id="28" Name="Integrantes de la Corporativa00" Description="Use este grupo para conceder a los usuarios permisos de colaboración en el sitio de SharePoint: Corporativa00" Owner="14" OwnerIsUser="false" OnlyAllowMembersViewMembership="false" RequestToJoinLeaveEmailSetting="" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false">
+      <Member UserId="29" />
+      <Member UserId="12" />
+    </Group>
+    <Group Id="30" Name="Integrantes de la Subisitio 1" Description="Use este grupo para conceder a los usuarios permisos de colaboración en el sitio de SharePoint: Subisitio 1" Owner="31" OwnerIsUser="true" OnlyAllowMembersViewMembership="false" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false">
+      <Member UserId="12" />
+      <Member UserId="17" />
+      <Member UserId="32" />
+    </Group>
+    <Group Id="33" Name="Visitantes Programa de incorporación Social GTPINC" Description="Use este grupo para dar a los usuarios permisos de lectura en el sitio de SharePoint: Programa de incorporación Social GTPINC" Owner="5" OwnerIsUser="false" OnlyAllowMembersViewMembership="true" RequestToJoinLeaveEmailSetting="" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false" />
+    <Group Id="34" Name="Integrantes Programa de incorporación Social GTPINC" Description="Use este grupo para dar a los usuarios permisos de colaboración en el sitio de SharePoint: Programa de incorporación Social GTPINC" Owner="5" OwnerIsUser="false" OnlyAllowMembersViewMembership="false" RequestToJoinLeaveEmailSetting="" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false" />
+    <Group Id="35" Name="Integrantes Comisión Coordinación Atención Primaria SS" Description="Use este grupo para dar a los usuarios permisos de colaboración en el sitio de SharePoint: Comisión Coordinación Atención Primaria SS" Owner="5" OwnerIsUser="false" OnlyAllowMembersViewMembership="false" RequestToJoinLeaveEmailSetting="" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false" />
+    <Group Id="36" Name="Visitantes Comisión Coordinación Atención Primaria SS" Description="Use este grupo para dar a los usuarios permisos de lectura en el sitio de SharePoint: Comisión Coordinación Atención Primaria SS" Owner="5" OwnerIsUser="false" OnlyAllowMembersViewMembership="true" RequestToJoinLeaveEmailSetting="" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false" />
+    <Group Id="37" Name="Integrantes Comisión Estadística" Description="" Owner="38" OwnerIsUser="true" OnlyAllowMembersViewMembership="true" RequestToJoinLeaveEmailSetting="" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false">
+      <Member UserId="39" />
+      <Member UserId="40" />
+      <Member UserId="41" />
+      <Member UserId="42" />
+      <Member UserId="43" />
+      <Member UserId="38" />
+      <Member UserId="44" />
+      <Member UserId="45" />
+    </Group>
+    <Group Id="46" Name="Trabajos en Share point 2013" Description="" Owner="47" OwnerIsUser="true" OnlyAllowMembersViewMembership="true" RequestToJoinLeaveEmailSetting="rosa.jimenez.marques@navarra.es" AllowMembersEditMembership="false" AllowRequestToJoinLeave="true" AutoAcceptRequestToJoinLeave="false">
+      <Member UserId="48" />
+      <Member UserId="49" />
+      <Member UserId="50" />
+      <Member UserId="47" />
+      <Member UserId="51" />
+    </Group>
+    <Group Id="52" Name="Comité Seguridad y Salud" Description="" Owner="48" OwnerIsUser="true" OnlyAllowMembersViewMembership="true" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false">
+      <Member UserId="48" />
+    </Group>
+    <Group Id="53" Name="Visitantes Cooperación" Description="Use este grupo para dar a los usuarios permisos de lectura en el sitio de SharePoint: Cooperación" Owner="5" OwnerIsUser="false" OnlyAllowMembersViewMembership="true" RequestToJoinLeaveEmailSetting="" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false" />
+    <Group Id="54" Name="Integrantes Cooperación" Description="Use este grupo para dar a los usuarios permisos de colaboración en el sitio de SharePoint: Cooperación" Owner="5" OwnerIsUser="false" OnlyAllowMembersViewMembership="false" RequestToJoinLeaveEmailSetting="" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false">
+      <Member UserId="55" />
+      <Member UserId="41" />
+    </Group>
+    <Group Id="56" Name="sugrupo" Description="" Owner="57" OwnerIsUser="false" OnlyAllowMembersViewMembership="true" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false">
+      <Member UserId="82" />
+    </Group>
+    <Group Id="57" Name="Propietarios XX" Description="Use este grupo para conceder a los usuarios permisos de control total en el sitio de SharePoint: XX" Owner="57" OwnerIsUser="false" OnlyAllowMembersViewMembership="false" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false">
+      <Member UserId="58" />
+      <Member UserId="59" />
+      <Member UserId="60" />
+      <Member UserId="61" />
+      <Member UserId="62" />
+      <Member UserId="63" />
+      <Member UserId="64" />
+      <Member UserId="65" />
+      <Member UserId="66" />
+      <Member UserId="67" />
+      <Member UserId="68" />
+      <Member UserId="69" />
+      <Member UserId="70" />
+      <Member UserId="71" />
+      <Member UserId="72" />
+      <Member UserId="73" />
+      <Member UserId="74" />
+      <Member UserId="75" />
+      <Member UserId="76" />
+      <Member UserId="77" />
+      <Member UserId="78" />
+      <Member UserId="79" />
+      <Member UserId="80" />
+      <Member UserId="81" />
+    </Group>
+    <Group Id="83" Name="Integrantes 2º Plan Estratégico Servicios Sociales" Description="" Owner="5" OwnerIsUser="false" OnlyAllowMembersViewMembership="true" RequestToJoinLeaveEmailSetting="" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false" />
+    <Group Id="84" Name="Visitantes Consejo Navarra Voluntariado" Description="" Owner="38" OwnerIsUser="true" OnlyAllowMembersViewMembership="true" RequestToJoinLeaveEmailSetting="" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false" />
+    <Group Id="85" Name="Colaboradores Consejo Navarro Voluntariado" Description="" Owner="38" OwnerIsUser="true" OnlyAllowMembersViewMembership="true" RequestToJoinLeaveEmailSetting="" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false" />
+    <Group Id="86" Name="Visitantes Red de Calidad Servicios Sociales" Description="Use este grupo para dar a los usuarios permisos de lectura en el sitio de SharePoint: Red de Calidad Servicios Sociales" Owner="5" OwnerIsUser="false" OnlyAllowMembersViewMembership="true" RequestToJoinLeaveEmailSetting="" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false" />
+    <Group Id="87" Name="Integrantes Red de Calidad Servicios Sociales" Description="Use este grupo para dar a los usuarios permisos de colaboración en el sitio de SharePoint: Red de Calidad Servicios Sociales" Owner="88" OwnerIsUser="false" OnlyAllowMembersViewMembership="true" RequestToJoinLeaveEmailSetting="" AllowMembersEditMembership="true" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false" />
+    <Group Id="88" Name="Colaboradores Calidad - Servicio de Planificación Calidad e Inspección" Description="" Owner="5" OwnerIsUser="false" OnlyAllowMembersViewMembership="true" RequestToJoinLeaveEmailSetting="" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false">
+      <Member UserId="89" />
+    </Group>
+    <Group Id="90" Name="Integrantes Politicas Sociales Red Calidad GT Indicadores" Description="Use este grupo para dar a los usuarios permisos de colaboración en el sitio de SharePoint: Grupo Trabajo de Indicadores" Owner="88" OwnerIsUser="false" OnlyAllowMembersViewMembership="false" RequestToJoinLeaveEmailSetting="" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false">
+      <Member UserId="91" />
+    </Group>
+    <Group Id="92" Name="Integrantes prueba-edurne" Description="" Owner="17" OwnerIsUser="true" OnlyAllowMembersViewMembership="true" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false">
+      <Member UserId="12" />
+      <Member UserId="17" />
+    </Group>
+    <Group Id="93" Name="Integrantes Politicas Sociales Red Calidad GT Procedimientos" Description="Use este grupo para dar a los usuarios permisos de colaboración en el sitio de SharePoint: Grupo de Trabajo de Procedimientos" Owner="88" OwnerIsUser="false" OnlyAllowMembersViewMembership="false" RequestToJoinLeaveEmailSetting="" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false">
+      <Member UserId="94" />
+      <Member UserId="95" />
+    </Group>
+    <Group Id="96" Name="Integrantes Politicas Sociales Red de Calidad Grupo motor" Description="Use este grupo para dar a los usuarios permisos de colaboración en el sitio de SharePoint: Grupo motor" Owner="88" OwnerIsUser="false" OnlyAllowMembersViewMembership="false" RequestToJoinLeaveEmailSetting="" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false">
+      <Member UserId="94" />
+      <Member UserId="97" />
+    </Group>
+    <Group Id="98" Name="Visitantes GT Intervención con Población Gitana" Description="" Owner="5" OwnerIsUser="false" OnlyAllowMembersViewMembership="true" RequestToJoinLeaveEmailSetting="" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false">
+      <Member UserId="99" />
+      <Member UserId="100" />
+      <Member UserId="101" />
+      <Member UserId="102" />
+      <Member UserId="45" />
+    </Group>
+    <Group Id="103" Name="Colaboradores GT Intervención con Población Gitana" Description="" Owner="5" OwnerIsUser="false" OnlyAllowMembersViewMembership="true" RequestToJoinLeaveEmailSetting="" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false">
+      <Member UserId="101" />
+      <Member UserId="38" />
+      <Member UserId="104" />
+      <Member UserId="105" />
+    </Group>
+    <Group Id="106" Name="Propietarios SGT Relaciones Ciudadanas e Institucionales" Description="Use este grupo para conceder a los usuarios permisos de control total en el sitio de SharePoint: SGT Relaciones Ciudadanas e Institucionales" Owner="106" OwnerIsUser="false" OnlyAllowMembersViewMembership="false" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false">
+      <Member UserId="107" />
+      <Member UserId="108" />
+    </Group>
+    <Group Id="109" Name="Propietarios GrupoLocalAlsasua" Description="Use este grupo para dar a los usuarios control total en el sitio de SharePoint: GrupoLocalAlsasua" Owner="109" OwnerIsUser="false" OnlyAllowMembersViewMembership="true" RequestToJoinLeaveEmailSetting="" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false">
+      <Member UserId="110" />
+    </Group>
+    <Group Id="111" Name="Integrantes GrupoLocalAlsasua" Description="Use este grupo para dar a los usuarios permisos de colaboración en el sitio de SharePoint: GrupoLocalAlsasua" Owner="109" OwnerIsUser="false" OnlyAllowMembersViewMembership="false" RequestToJoinLeaveEmailSetting="" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false">
+      <Member UserId="112" />
+      <Member UserId="113" />
+      <Member UserId="114" />
+    </Group>
+    <Group Id="115" Name="Integrantes GrupoLocalTudela" Description="Use este grupo para dar a los usuarios permisos de colaboración en el sitio de SharePoint: GrupoLocalTudela" Owner="110" OwnerIsUser="true" OnlyAllowMembersViewMembership="false" RequestToJoinLeaveEmailSetting="" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false">
+      <Member UserId="116" />
+      <Member UserId="112" />
+      <Member UserId="117" />
+    </Group>
+    <Group Id="118" Name="Visitantes GrupoLocalTudela" Description="" Owner="5" OwnerIsUser="false" OnlyAllowMembersViewMembership="true" RequestToJoinLeaveEmailSetting="" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false" />
+    <Group Id="119" Name="Integrantes Innovacion Politicas Sociales" Description="Use este grupo para dar a los usuarios permisos de colaboración en el sitio de SharePoint: Innovacion Politicas Sociales" Owner="5" OwnerIsUser="false" OnlyAllowMembersViewMembership="false" RequestToJoinLeaveEmailSetting="" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false">
+      <Member UserId="6" />
+      <Member UserId="110" />
+    </Group>
+    <Group Id="120" Name="Visitantes Innovacion Politicas Sociales" Description="Use este grupo para dar a los usuarios permisos de lectura en el sitio de SharePoint: Innovacion Politicas Sociales" Owner="5" OwnerIsUser="false" OnlyAllowMembersViewMembership="true" RequestToJoinLeaveEmailSetting="" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false">
+      <Member UserId="116" />
+      <Member UserId="121" />
+      <Member UserId="113" />
+      <Member UserId="122" />
+      <Member UserId="114" />
+      <Member UserId="123" />
+    </Group>
+    <Group Id="124" Name="Integrantes Jonadas de Buenas Prácticas Tudela" Description="" Owner="88" OwnerIsUser="false" OnlyAllowMembersViewMembership="true" RequestToJoinLeaveEmailSetting="" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false">
+      <Member UserId="97" />
+      <Member UserId="125" />
+    </Group>
+    <Group Id="126" Name="Integrantes Observatorio" Description="" Owner="38" OwnerIsUser="true" OnlyAllowMembersViewMembership="true" RequestToJoinLeaveEmailSetting="" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false">
+      <Member UserId="6" />
+      <Member UserId="39" />
+      <Member UserId="127" />
+      <Member UserId="128" />
+      <Member UserId="101" />
+      <Member UserId="38" />
+      <Member UserId="129" />
+    </Group>
+    <Group Id="130" Name="Propietarios Planes" Description="Use este grupo para dar a los usuarios control total en el sitio de SharePoint: Planes" Owner="130" OwnerIsUser="false" OnlyAllowMembersViewMembership="true" RequestToJoinLeaveEmailSetting="" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false">
+      <Member UserId="6" />
+      <Member UserId="7" />
+      <Member UserId="38" />
+    </Group>
+    <Group Id="131" Name="Integrantes Planes" Description="Use este grupo para dar a los usuarios permisos de colaboración en el sitio de SharePoint: Planes" Owner="130" OwnerIsUser="false" OnlyAllowMembersViewMembership="false" RequestToJoinLeaveEmailSetting="" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false">
+      <Member UserId="132" />
+      <Member UserId="127" />
+      <Member UserId="128" />
+      <Member UserId="110" />
+      <Member UserId="101" />
+      <Member UserId="38" />
+      <Member UserId="129" />
+    </Group>
+    <Group Id="133" Name="Visitantes Programa Atención Domiciliaria SocioSanitaria PADOSS" Description="Use este grupo para dar a los usuarios permisos de lectura en el sitio de SharePoint: Programa Atención Domiciliaria SocioSanitaria PADOSS" Owner="5" OwnerIsUser="false" OnlyAllowMembersViewMembership="true" RequestToJoinLeaveEmailSetting="" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false">
+      <Member UserId="112" />
+      <Member UserId="134" />
+      <Member UserId="135" />
+    </Group>
+    <Group Id="136" Name="Integrantes Programa Atención Domiciliaria SocioSanitaria PADOSS" Description="Use este grupo para dar a los usuarios permisos de colaboración en el sitio de SharePoint: Programa Atención Domiciliaria SocioSanitaria PADOSS" Owner="5" OwnerIsUser="false" OnlyAllowMembersViewMembership="false" RequestToJoinLeaveEmailSetting="" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false">
+      <Member UserId="100" />
+    </Group>
+    <Group Id="137" Name="Integrantes Programa de Incorporación Social (GTPINC)" Description="Use este grupo para dar a los usuarios permisos de colaboración en el sitio de SharePoint: Programa de Incorporación Social (GTPINC)" Owner="5" OwnerIsUser="false" OnlyAllowMembersViewMembership="false" RequestToJoinLeaveEmailSetting="" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false">
+      <Member UserId="112" />
+      <Member UserId="138" />
+    </Group>
+    <Group Id="139" Name="INAI Relaciones Ciudadanas e Intitucionales" Description="" Owner="106" OwnerIsUser="false" OnlyAllowMembersViewMembership="true" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false" />
+    <Group Id="140" Name="Visitantes Programa de Incorporación Social (GTPINC)" Description="Use este grupo para dar a los usuarios permisos de lectura en el sitio de SharePoint: Programa de Incorporación Social (GTPINC)" Owner="5" OwnerIsUser="false" OnlyAllowMembersViewMembership="true" RequestToJoinLeaveEmailSetting="" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false">
+      <Member UserId="6" />
+      <Member UserId="141" />
+      <Member UserId="142" />
+      <Member UserId="138" />
+      <Member UserId="125" />
+      <Member UserId="105" />
+    </Group>
+    <Group Id="143" Name="Euskarabidea Relaciones Ciudadanas e Institucionales" Description="" Owner="106" OwnerIsUser="false" OnlyAllowMembersViewMembership="true" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false" />
+    <Group Id="144" Name="SGT Relaciones Ciudadanas e Institucionales" Description="" Owner="106" OwnerIsUser="false" OnlyAllowMembersViewMembership="true" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false" />
+    <Group Id="145" Name="Servicio de Memoria y Convivencia Relaciones Ciudadanas e Institucionales" Description="" Owner="106" OwnerIsUser="false" OnlyAllowMembersViewMembership="true" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false" />
+    <Group Id="146" Name="Propietarios Proyecto ERSISI Comité de Dirección" Description="Use este grupo para dar a los usuarios control total en el sitio de SharePoint: Proyecto ERSISI Comité de Dirección" Owner="146" OwnerIsUser="false" OnlyAllowMembersViewMembership="true" RequestToJoinLeaveEmailSetting="" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false">
+      <Member UserId="6" />
+      <Member UserId="112" />
+      <Member UserId="110" />
+    </Group>
+    <Group Id="147" Name="Servicio de Atención y Participación Ciudadana Relaciones Ciudadanas e Institucionales" Description="" Owner="106" OwnerIsUser="false" OnlyAllowMembersViewMembership="true" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false" />
+    <Group Id="148" Name="Integrantes Proyecto ERSISI Comité de Dirección" Description="Use este grupo para dar a los usuarios permisos de colaboración en el sitio de SharePoint: Proyecto ERSISI Comité de Dirección" Owner="146" OwnerIsUser="false" OnlyAllowMembersViewMembership="false" RequestToJoinLeaveEmailSetting="" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false">
+      <Member UserId="141" />
+      <Member UserId="149" />
+      <Member UserId="122" />
+      <Member UserId="110" />
+      <Member UserId="41" />
+      <Member UserId="150" />
+      <Member UserId="129" />
+    </Group>
+    <Group Id="151" Name="Visitantes Proyecto ERSISI Comité de Dirección" Description="Use este grupo para dar a los usuarios permisos de lectura en el sitio de SharePoint: Proyecto ERSISI Comité de Dirección" Owner="146" OwnerIsUser="false" OnlyAllowMembersViewMembership="true" RequestToJoinLeaveEmailSetting="" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false" />
+    <Group Id="152" Name="Servicio de Proyección Institucional Relaciones Ciudadanas e Institucionales" Description="" Owner="106" OwnerIsUser="false" OnlyAllowMembersViewMembership="true" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false" />
+    <Group Id="153" Name="Servicio de Comunicación Relaciones Ciudadanas e Institucionales" Description="" Owner="106" OwnerIsUser="false" OnlyAllowMembersViewMembership="true" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false">
+      <Member UserId="31" />
+    </Group>
+    <Group Id="154" Name="prueba00" Description="" Owner="57" OwnerIsUser="false" OnlyAllowMembersViewMembership="true" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false">
+      <Member UserId="155" />
+      <Member UserId="156" />
+      <Member UserId="157" />
+    </Group>
+    <Group Id="158" Name="propietariosprueba" Description="Use este grupo para dar a los usuarios control total en el sitio de SharePoint: prueba" Owner="158" OwnerIsUser="false" OnlyAllowMembersViewMembership="true" RequestToJoinLeaveEmailSetting="" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false">
+      <Member UserId="38" />
+    </Group>
+    <Group Id="159" Name="Nuevo grupo" Description="" Owner="160" OwnerIsUser="true" OnlyAllowMembersViewMembership="true" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false">
+      <Member UserId="161" />
+      <Member UserId="160" />
+      <Member UserId="162" />
+    </Group>
+    <Group Id="163" Name="integrantesprueba" Description="Use este grupo para dar a los usuarios permisos de colaboración en el sitio de SharePoint: prueba" Owner="158" OwnerIsUser="false" OnlyAllowMembersViewMembership="false" RequestToJoinLeaveEmailSetting="" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false">
+      <Member UserId="38" />
+    </Group>
+    <Group Id="164" Name="GrupoAna" Description="" Owner="161" OwnerIsUser="true" OnlyAllowMembersViewMembership="true" RequestToJoinLeaveEmailSetting="ana.martinez.jimenez@navarra.es" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false">
+      <Member UserId="161" />
+    </Group>
+    <Group Id="165" Name="Propietarios Seguimiento de Planes" Description="Use este grupo para dar a los usuarios control total en el sitio de SharePoint: Seguimiento de Planes" Owner="165" OwnerIsUser="false" OnlyAllowMembersViewMembership="true" RequestToJoinLeaveEmailSetting="" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false">
+      <Member UserId="38" />
+    </Group>
+    <Group Id="166" Name="Integrantes Seguimiento de Planes" Description="Use este grupo para dar a los usuarios permisos de colaboración en el sitio de SharePoint: Seguimiento de Planes" Owner="165" OwnerIsUser="false" OnlyAllowMembersViewMembership="false" RequestToJoinLeaveEmailSetting="" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false" />
+    <Group Id="167" Name="Responsables Seguimiento Población Gitana" Description="" Owner="5" OwnerIsUser="false" OnlyAllowMembersViewMembership="true" RequestToJoinLeaveEmailSetting="" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false" />
+    <Group Id="168" Name="Visitantes Seguimiento de Planes" Description="Use este grupo para dar a los usuarios permisos de lectura en el sitio de SharePoint: Seguimiento de Planes" Owner="165" OwnerIsUser="false" OnlyAllowMembersViewMembership="true" RequestToJoinLeaveEmailSetting="" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false">
+      <Member UserId="169" />
+      <Member UserId="170" />
+      <Member UserId="171" />
+      <Member UserId="172" />
+      <Member UserId="173" />
+      <Member UserId="38" />
+      <Member UserId="174" />
+      <Member UserId="101" />
+      <Member UserId="175" />
+      <Member UserId="176" />
+      <Member UserId="45" />
+      <Member UserId="177" />
+      <Member UserId="178" />
+      <Member UserId="179" />
+      <Member UserId="112" />
+      <Member UserId="180" />
+    </Group>
+    <Group Id="181" Name="Propietarios Población Gitana" Description="Use este grupo para dar a los usuarios control total en el sitio de SharePoint: Población Gitana" Owner="181" OwnerIsUser="false" OnlyAllowMembersViewMembership="true" RequestToJoinLeaveEmailSetting="" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false">
+      <Member UserId="97" />
+      <Member UserId="38" />
+    </Group>
+    <Group Id="182" Name="Visitantes Población Gitana" Description="Use este grupo para dar a los usuarios permisos de lectura en el sitio de SharePoint: Población Gitana" Owner="181" OwnerIsUser="false" OnlyAllowMembersViewMembership="true" RequestToJoinLeaveEmailSetting="" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false">
+      <Member UserId="179" />
+      <Member UserId="172" />
+      <Member UserId="101" />
+      <Member UserId="176" />
+      <Member UserId="45" />
+    </Group>
+    <Group Id="183" Name="Integrantes SGT" Description="Use este grupo para conceder a los usuarios permisos de colaboración en el sitio de SharePoint: SGT" Owner="106" OwnerIsUser="false" OnlyAllowMembersViewMembership="false" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false" />
+    <Group Id="184" Name="Servicio Planificación Asignación de Solicitudes" Description="" Owner="31" OwnerIsUser="true" OnlyAllowMembersViewMembership="true" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false">
+      <Member UserId="185" />
+      <Member UserId="186" />
+      <Member UserId="187" />
+      <Member UserId="188" />
+    </Group>
+    <Group Id="189" Name="Propietarios Red de Familia" Description="Use este grupo para dar a los usuarios control total en el sitio de SharePoint: Red de Familia" Owner="189" OwnerIsUser="false" OnlyAllowMembersViewMembership="true" RequestToJoinLeaveEmailSetting="" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false">
+      <Member UserId="141" />
+      <Member UserId="110" />
+      <Member UserId="38" />
+    </Group>
+    <Group Id="190" Name="Integrantes Red de Familia" Description="Use este grupo para dar a los usuarios permisos de colaboración en el sitio de SharePoint: Red de Familia" Owner="189" OwnerIsUser="false" OnlyAllowMembersViewMembership="false" RequestToJoinLeaveEmailSetting="" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false">
+      <Member UserId="191" />
+      <Member UserId="141" />
+      <Member UserId="113" />
+    </Group>
+    <Group Id="192" Name="Visitantes Red de Familia" Description="Use este grupo para dar a los usuarios permisos de lectura en el sitio de SharePoint: Red de Familia" Owner="189" OwnerIsUser="false" OnlyAllowMembersViewMembership="true" RequestToJoinLeaveEmailSetting="" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false">
+      <Member UserId="191" />
+      <Member UserId="141" />
+      <Member UserId="113" />
+    </Group>
+    <Group Id="193" Name="Integrantes Servicio de Atención a Domicilio SAD" Description="Use este grupo para dar a los usuarios permisos de colaboración en el sitio de SharePoint: Servicio de Atención a Domicilio SAD" Owner="5" OwnerIsUser="false" OnlyAllowMembersViewMembership="false" RequestToJoinLeaveEmailSetting="" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false">
+      <Member UserId="112" />
+    </Group>
+    <Group Id="194" Name="Visitantes Servicio de Atención a Domicilio SAD" Description="Use este grupo para dar a los usuarios permisos de lectura en el sitio de SharePoint: Servicio de Atención a Domicilio SAD" Owner="5" OwnerIsUser="false" OnlyAllowMembersViewMembership="true" RequestToJoinLeaveEmailSetting="" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false">
+      <Member UserId="195" />
+      <Member UserId="134" />
+      <Member UserId="101" />
+    </Group>
+    <Group Id="196" Name="Propietarios Plan de Empleo" Description="Use este grupo para dar a los usuarios control total en el sitio de SharePoint: Plan de Empleo" Owner="196" OwnerIsUser="false" OnlyAllowMembersViewMembership="true" RequestToJoinLeaveEmailSetting="" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false">
+      <Member UserId="6" />
+      <Member UserId="110" />
+      <Member UserId="38" />
+    </Group>
+    <Group Id="197" Name="Integrantes Plan de Empleo" Description="Use este grupo para dar a los usuarios permisos de colaboración en el sitio de SharePoint: Plan de Empleo" Owner="196" OwnerIsUser="false" OnlyAllowMembersViewMembership="false" RequestToJoinLeaveEmailSetting="" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false">
+      <Member UserId="38" />
+    </Group>
+    <Group Id="198" Name="Visitantes Plan de Empleo" Description="Use este grupo para dar a los usuarios permisos de lectura en el sitio de SharePoint: Plan de Empleo" Owner="196" OwnerIsUser="false" OnlyAllowMembersViewMembership="true" RequestToJoinLeaveEmailSetting="" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false">
+      <Member UserId="38" />
+    </Group>
+    <Group Id="199" Name="Propietarios Plan de Inclusión" Description="Use este grupo para dar a los usuarios control total en el sitio de SharePoint: Plan de Inclusión" Owner="199" OwnerIsUser="false" OnlyAllowMembersViewMembership="true" RequestToJoinLeaveEmailSetting="" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false">
+      <Member UserId="6" />
+      <Member UserId="110" />
+      <Member UserId="38" />
+    </Group>
+    <Group Id="200" Name="Integrantes Plan de Inclusión" Description="Use este grupo para dar a los usuarios permisos de colaboración en el sitio de SharePoint: Plan de Inclusión" Owner="199" OwnerIsUser="false" OnlyAllowMembersViewMembership="false" RequestToJoinLeaveEmailSetting="" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false">
+      <Member UserId="38" />
+    </Group>
+    <Group Id="201" Name="Visitantes Plan de Inclusión" Description="Use este grupo para dar a los usuarios permisos de lectura en el sitio de SharePoint: Plan de Inclusión" Owner="199" OwnerIsUser="false" OnlyAllowMembersViewMembership="true" RequestToJoinLeaveEmailSetting="" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false" />
+    <Group Id="202" Name="Propietarios Vivienda" Description="Use este grupo para dar a los usuarios control total en el sitio de SharePoint: Vivienda" Owner="202" OwnerIsUser="false" OnlyAllowMembersViewMembership="true" RequestToJoinLeaveEmailSetting="" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false">
+      <Member UserId="6" />
+      <Member UserId="110" />
+      <Member UserId="38" />
+    </Group>
+    <Group Id="203" Name="Visitantes Vivienda" Description="Use este grupo para dar a los usuarios permisos de lectura en el sitio de SharePoint: Vivienda" Owner="202" OwnerIsUser="false" OnlyAllowMembersViewMembership="true" RequestToJoinLeaveEmailSetting="" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false" />
+    <Group Id="204" Name="Integrantes Vivienda" Description="Use este grupo para dar a los usuarios permisos de colaboración en el sitio de SharePoint: Vivienda" Owner="202" OwnerIsUser="false" OnlyAllowMembersViewMembership="false" RequestToJoinLeaveEmailSetting="" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false">
+      <Member UserId="38" />
+    </Group>
+    <Group Id="205" Name="Propietarios Plan de Infancia y familia" Description="Use este grupo para dar a los usuarios control total en el sitio de SharePoint: Plan de Infancia y familia" Owner="205" OwnerIsUser="false" OnlyAllowMembersViewMembership="true" RequestToJoinLeaveEmailSetting="" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false">
+      <Member UserId="6" />
+      <Member UserId="110" />
+      <Member UserId="38" />
+    </Group>
+    <Group Id="206" Name="Visitantes Plan de Infancia y familia" Description="Use este grupo para dar a los usuarios permisos de lectura en el sitio de SharePoint: Plan de Infancia y familia" Owner="205" OwnerIsUser="false" OnlyAllowMembersViewMembership="true" RequestToJoinLeaveEmailSetting="" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false" />
+    <Group Id="207" Name="Integrantes Plan de Infancia y familia" Description="Use este grupo para dar a los usuarios permisos de colaboración en el sitio de SharePoint: Plan de Infancia y familia" Owner="205" OwnerIsUser="false" OnlyAllowMembersViewMembership="false" RequestToJoinLeaveEmailSetting="" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false">
+      <Member UserId="208" />
+      <Member UserId="6" />
+      <Member UserId="209" />
+      <Member UserId="38" />
+    </Group>
+    <Group Id="210" Name="Propietarios Deporte" Description="Use este grupo para dar a los usuarios control total en el sitio de SharePoint: Deporte" Owner="210" OwnerIsUser="false" OnlyAllowMembersViewMembership="true" RequestToJoinLeaveEmailSetting="" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false">
+      <Member UserId="97" />
+      <Member UserId="38" />
+      <Member UserId="31" />
+    </Group>
+    <Group Id="211" Name="Deporte Eje 4" Description="" Owner="210" OwnerIsUser="false" OnlyAllowMembersViewMembership="true" RequestToJoinLeaveEmailSetting="" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false" />
+    <Group Id="212" Name="Deporte Eje 1" Description="" Owner="210" OwnerIsUser="false" OnlyAllowMembersViewMembership="false" RequestToJoinLeaveEmailSetting="" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false">
+      <Member UserId="101" />
+      <Member UserId="175" />
+    </Group>
+    <Group Id="213" Name="Deporte Eje 2" Description="" Owner="210" OwnerIsUser="false" OnlyAllowMembersViewMembership="true" RequestToJoinLeaveEmailSetting="" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false">
+      <Member UserId="170" />
+    </Group>
+    <Group Id="214" Name="Deporte Eje 6" Description="" Owner="210" OwnerIsUser="false" OnlyAllowMembersViewMembership="true" RequestToJoinLeaveEmailSetting="" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false" />
+    <Group Id="215" Name="Visitantes Deporte" Description="Use este grupo para dar a los usuarios permisos de lectura en el sitio de SharePoint: Deporte" Owner="210" OwnerIsUser="false" OnlyAllowMembersViewMembership="true" RequestToJoinLeaveEmailSetting="" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false">
+      <Member UserId="170" />
+      <Member UserId="175" />
+    </Group>
+    <Group Id="216" Name="Deporte Eje 3" Description="" Owner="210" OwnerIsUser="false" OnlyAllowMembersViewMembership="true" RequestToJoinLeaveEmailSetting="" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false" />
+    <Group Id="217" Name="Integrantes Deporte" Description="Use este grupo para dar a los usuarios permisos de colaboración en el sitio de SharePoint: Deporte" Owner="210" OwnerIsUser="false" OnlyAllowMembersViewMembership="false" RequestToJoinLeaveEmailSetting="" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false" />
+    <Group Id="218" Name="Deporte Eje 7" Description="" Owner="210" OwnerIsUser="false" OnlyAllowMembersViewMembership="true" RequestToJoinLeaveEmailSetting="" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false">
+      <Member UserId="170" />
+    </Group>
+    <Group Id="219" Name="Encuesta - CHN Encuestas psicosociales" Description="" Owner="17" OwnerIsUser="true" OnlyAllowMembersViewMembership="true" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false">
+      <Member UserId="18" />
+      <Member UserId="17" />
+    </Group>
+    <Group Id="220" Name="Deporte Eje 5" Description="" Owner="210" OwnerIsUser="false" OnlyAllowMembersViewMembership="true" RequestToJoinLeaveEmailSetting="" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false">
+      <Member UserId="170" />
+    </Group>
+    <Group Id="221" Name="Responsables Seguimiento Discapacidad" Description="" Owner="181" OwnerIsUser="false" OnlyAllowMembersViewMembership="true" RequestToJoinLeaveEmailSetting="" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false" />
+    <Group Id="222" Name="Propietarios Discapacidad" Description="Use este grupo para dar a los usuarios control total en el sitio de SharePoint: Discapacidad" Owner="222" OwnerIsUser="false" OnlyAllowMembersViewMembership="true" RequestToJoinLeaveEmailSetting="" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false">
+      <Member UserId="97" />
+      <Member UserId="38" />
+    </Group>
+    <Group Id="223" Name="Integrantes Discapacidad" Description="Use este grupo para dar a los usuarios permisos de colaboración en el sitio de SharePoint: Discapacidad" Owner="222" OwnerIsUser="false" OnlyAllowMembersViewMembership="false" RequestToJoinLeaveEmailSetting="" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false" />
+    <Group Id="224" Name="Visitantes Discapacidad" Description="Use este grupo para dar a los usuarios permisos de lectura en el sitio de SharePoint: Discapacidad" Owner="222" OwnerIsUser="false" OnlyAllowMembersViewMembership="true" RequestToJoinLeaveEmailSetting="" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false">
+      <Member UserId="178" />
+      <Member UserId="169" />
+      <Member UserId="225" />
+      <Member UserId="180" />
+    </Group>
+    <Group Id="226" Name="Integrantes Población Gitana" Description="Use este grupo para dar a los usuarios permisos de colaboración en el sitio de SharePoint: Población Gitana" Owner="181" OwnerIsUser="false" OnlyAllowMembersViewMembership="false" RequestToJoinLeaveEmailSetting="" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false" />
+    <Group Id="227" Name="Visitantes SIGe" Description="Use este grupo para dar a los usuarios permisos de lectura en el sitio de SharePoint: SIGe" Owner="165" OwnerIsUser="false" OnlyAllowMembersViewMembership="true" RequestToJoinLeaveEmailSetting="" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false" />
+    <Group Id="228" Name="Integrantes SIGe" Description="Use este grupo para dar a los usuarios permisos de colaboración en el sitio de SharePoint: SIGe" Owner="165" OwnerIsUser="false" OnlyAllowMembersViewMembership="false" RequestToJoinLeaveEmailSetting="" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false">
+      <Member UserId="31" />
+    </Group>
+    <Group Id="229" Name="Integrantes Sociosanitario" Description="Use este grupo para dar a los usuarios permisos de colaboración en el sitio de SharePoint: Sociosanitario" Owner="165" OwnerIsUser="false" OnlyAllowMembersViewMembership="false" RequestToJoinLeaveEmailSetting="" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false" />
+    <Group Id="230" Name="Visitantes Sociosanitario" Description="Use este grupo para dar a los usuarios permisos de lectura en el sitio de SharePoint: Sociosanitario" Owner="165" OwnerIsUser="false" OnlyAllowMembersViewMembership="true" RequestToJoinLeaveEmailSetting="" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false" />
+    <Group Id="231" Name="Visitantes Voluntariado" Description="Use este grupo para dar a los usuarios permisos de lectura en el sitio de SharePoint: Voluntariado" Owner="165" OwnerIsUser="false" OnlyAllowMembersViewMembership="true" RequestToJoinLeaveEmailSetting="" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false" />
+    <Group Id="232" Name="Integrantes Voluntariado" Description="Use este grupo para dar a los usuarios permisos de colaboración en el sitio de SharePoint: Voluntariado" Owner="165" OwnerIsUser="false" OnlyAllowMembersViewMembership="false" RequestToJoinLeaveEmailSetting="" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false" />
+    <Group Id="233" Name="Propietarios AnálisisEstadístico" Description="Use este grupo para dar a los usuarios control total en el sitio de SharePoint: AnálisisEstadístico" Owner="233" OwnerIsUser="false" OnlyAllowMembersViewMembership="true" RequestToJoinLeaveEmailSetting="" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false">
+      <Member UserId="7" />
+      <Member UserId="110" />
+      <Member UserId="8" />
+    </Group>
+    <Group Id="234" Name="Integrantes AnálisisEstadístico" Description="Use este grupo para dar a los usuarios permisos de colaboración en el sitio de SharePoint: AnálisisEstadístico" Owner="233" OwnerIsUser="false" OnlyAllowMembersViewMembership="false" RequestToJoinLeaveEmailSetting="" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false">
+      <Member UserId="110" />
+    </Group>
+    <Group Id="235" Name="Visitantes AnálisisEstadístico" Description="Use este grupo para dar a los usuarios permisos de lectura en el sitio de SharePoint: AnálisisEstadístico" Owner="233" OwnerIsUser="false" OnlyAllowMembersViewMembership="true" RequestToJoinLeaveEmailSetting="" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false">
+      <Member UserId="132" />
+      <Member UserId="6" />
+      <Member UserId="236" />
+      <Member UserId="127" />
+      <Member UserId="128" />
+      <Member UserId="101" />
+      <Member UserId="237" />
+      <Member UserId="238" />
+    </Group>
+    <Group Id="239" Name="Colaboradores ORS" Description="" Owner="5" OwnerIsUser="false" OnlyAllowMembersViewMembership="true" RequestToJoinLeaveEmailSetting="" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false">
+      <Member UserId="39" />
+      <Member UserId="240" />
+      <Member UserId="241" />
+    </Group>
+    <Group Id="242" Name="Integrantes Comité de seguimiento" Description="Use este grupo para dar a los usuarios permisos de colaboración en el sitio de SharePoint: Comité de seguimiento" Owner="222" OwnerIsUser="false" OnlyAllowMembersViewMembership="false" RequestToJoinLeaveEmailSetting="" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false" />
+    <Group Id="243" Name="Visitantes Comité de seguimiento" Description="Use este grupo para dar a los usuarios permisos de lectura en el sitio de SharePoint: Comité de seguimiento" Owner="222" OwnerIsUser="false" OnlyAllowMembersViewMembership="true" RequestToJoinLeaveEmailSetting="" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false" />
+    <Group Id="244" Name="Usuarios del flujo de trabajo DVM" Description="Los flujos de trabajo están usando este grupo para proporcionar acceso limitado a las personas que no tienen acceso al sitio de SharePoint: DVM" Owner="31" OwnerIsUser="true" OnlyAllowMembersViewMembership="true" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false">
+      <Member UserId="245" />
+      <Member UserId="246" />
+    </Group>
+    <Group Id="247" Name="Integrantes de la Ana Escribano" Description="Use este grupo para conceder a los usuarios permisos de colaboración en el sitio de SharePoint: Ana Escribano" Owner="57" OwnerIsUser="false" OnlyAllowMembersViewMembership="false" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false">
+      <Member UserId="248" />
+    </Group>
+    <Group Id="249" Name="Sección Jurídica" Description="Use este grupo para conceder a los usuarios permisos de colaboración en el sitio de SharePoint: Ana Escribano" Owner="57" OwnerIsUser="false" OnlyAllowMembersViewMembership="false" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false">
+      <Member UserId="248" />
+    </Group>
+    <Group Id="250" Name="Propietarios X033913" Description="Use este grupo para conceder a los usuarios permisos de control total en el sitio de SharePoint: X033913" Owner="250" OwnerIsUser="false" OnlyAllowMembersViewMembership="false" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false">
+      <Member UserId="251" />
+    </Group>
+    <Group Id="252" Name="Integrantes de la X033913" Description="Use este grupo para conceder a los usuarios permisos de colaboración en el sitio de SharePoint: X033913" Owner="250" OwnerIsUser="false" OnlyAllowMembersViewMembership="false" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false">
+      <Member UserId="251" />
+    </Group>
+    <Group Id="253" Name="Visitantes de la X033913" Description="Use este grupo para conceder a los usuarios permisos de lectura en el sitio de SharePoint: X033913" Owner="250" OwnerIsUser="false" OnlyAllowMembersViewMembership="false" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false" />
+    <Group Id="254" Name="Propietario Ritxar" Description="Use este grupo para conceder a los usuarios permisos de control total en el sitio de SharePoint: X033913" Owner="254" OwnerIsUser="false" OnlyAllowMembersViewMembership="false" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false">
+      <Member UserId="251" />
+    </Group>
+    <Group Id="255" Name="Integrantes ritxar" Description="Use este grupo para conceder a los usuarios permisos de colaboración en el sitio de SharePoint: X033913" Owner="254" OwnerIsUser="false" OnlyAllowMembersViewMembership="false" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false">
+      <Member UserId="251" />
+    </Group>
+    <Group Id="256" Name="visitas ritxar" Description="Use este grupo para conceder a los usuarios permisos de lectura en el sitio de SharePoint: X033913" Owner="254" OwnerIsUser="false" OnlyAllowMembersViewMembership="false" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false">
+      <Member UserId="257" />
+      <Member UserId="258" />
+    </Group>
+    <Group Id="259" Name="Sección Técnica" Description="Use este grupo para conceder a los usuarios permisos de colaboración en el sitio de SharePoint: Ana Escribano" Owner="57" OwnerIsUser="false" OnlyAllowMembersViewMembership="false" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false">
+      <Member UserId="248" />
+    </Group>
+    <Group Id="260" Name="C. farmacia" Description="" Owner="261" OwnerIsUser="true" OnlyAllowMembersViewMembership="true" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false">
+      <Member UserId="262" />
+      <Member UserId="248" />
+      <Member UserId="258" />
+    </Group>
+    <Group Id="263" Name="Visitantes 314" Description="" Owner="264" OwnerIsUser="true" OnlyAllowMembersViewMembership="true" RequestToJoinLeaveEmailSetting="mp.diago.rodriguez@navarra.es" AllowMembersEditMembership="false" AllowRequestToJoinLeave="true" AutoAcceptRequestToJoinLeave="false">
+      <Member UserId="264" />
+    </Group>
+    <Group Id="265" Name="GRUPO 1 BIS" Description="" Owner="258" OwnerIsUser="true" OnlyAllowMembersViewMembership="true" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false">
+      <Member UserId="258" />
+    </Group>
+    <Group Id="266" Name="Visitantes N221861" Description="" Owner="267" OwnerIsUser="true" OnlyAllowMembersViewMembership="true" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false">
+      <Member UserId="267" />
+    </Group>
+    <Group Id="268" Name="GrupoExterno_PermisoTotal" Description="" Owner="269" OwnerIsUser="true" OnlyAllowMembersViewMembership="true" AllowMembersEditMembership="true" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false">
+      <Member UserId="269" />
+    </Group>
+    <Group Id="270" Name="Grupo Curso SharePoint" Description="" Owner="271" OwnerIsUser="true" OnlyAllowMembersViewMembership="true" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false">
+      <Member UserId="272" />
+      <Member UserId="271" />
+    </Group>
+    <Group Id="273" Name="Colaboradores Kris" Description="" Owner="274" OwnerIsUser="true" OnlyAllowMembersViewMembership="true" RequestToJoinLeaveEmailSetting="cristina.urdin.zubiri@navarra.es" AllowMembersEditMembership="false" AllowRequestToJoinLeave="true" AutoAcceptRequestToJoinLeave="false">
+      <Member UserId="274" />
+      <Member UserId="269" />
+    </Group>
+    <Group Id="275" Name="CFC2" Description="" Owner="272" OwnerIsUser="true" OnlyAllowMembersViewMembership="true" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false">
+      <Member UserId="272" />
+    </Group>
+    <Group Id="276" Name="GrupoExterno_PermisoTotal_Bueno" Description="" Owner="277" OwnerIsUser="true" OnlyAllowMembersViewMembership="false" RequestToJoinLeaveEmailSetting="ixauzmendi@gmail.com" AllowMembersEditMembership="true" AllowRequestToJoinLeave="true" AutoAcceptRequestToJoinLeave="false">
+      <Member UserId="277" />
+      <Member UserId="278" />
+    </Group>
+    <Group Id="279" Name="Grupo de Patxi" Description="" Owner="280" OwnerIsUser="true" OnlyAllowMembersViewMembership="false" AllowMembersEditMembership="false" AllowRequestToJoinLeave="true" AutoAcceptRequestToJoinLeave="true">
+      <Member UserId="267" />
+      <Member UserId="280" />
+      <Member UserId="281" />
+      <Member UserId="65" />
+    </Group>
+    <Group Id="282" Name="Propietarios Servicio de Recursos Ecónomicos" Description="Use este grupo para dar a los usuarios control total en el sitio de SharePoint: Servicio de Recursos Ecónomicos" Owner="282" OwnerIsUser="false" OnlyAllowMembersViewMembership="true" RequestToJoinLeaveEmailSetting="" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false">
+      <Member UserId="283" />
+      <Member UserId="284" />
+      <Member UserId="285" />
+      <Member UserId="258" />
+      <Member UserId="286" />
+    </Group>
+    <Group Id="287" Name="Visitantes Servicio de Recursos Ecónomicos" Description="Use este grupo para dar a los usuarios permisos de lectura en el sitio de SharePoint: Servicio de Recursos Ecónomicos" Owner="282" OwnerIsUser="false" OnlyAllowMembersViewMembership="true" RequestToJoinLeaveEmailSetting="" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false">
+      <Member UserId="284" />
+      <Member UserId="288" />
+      <Member UserId="289" />
+      <Member UserId="290" />
+      <Member UserId="291" />
+      <Member UserId="292" />
+    </Group>
+    <Group Id="293" Name="Integrantes Servicio de Recursos Ecónomicos" Description="Use este grupo para dar a los usuarios permisos de colaboración en el sitio de SharePoint: Servicio de Recursos Ecónomicos" Owner="282" OwnerIsUser="false" OnlyAllowMembersViewMembership="false" RequestToJoinLeaveEmailSetting="" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false">
+      <Member UserId="294" />
+      <Member UserId="285" />
+      <Member UserId="295" />
+      <Member UserId="296" />
+      <Member UserId="297" />
+      <Member UserId="286" />
+      <Member UserId="298" />
+      <Member UserId="299" />
+      <Member UserId="300" />
+      <Member UserId="301" />
+      <Member UserId="302" />
+      <Member UserId="284" />
+      <Member UserId="303" />
+      <Member UserId="304" />
+      <Member UserId="290" />
+      <Member UserId="305" />
+      <Member UserId="306" />
+      <Member UserId="307" />
+      <Member UserId="291" />
+      <Member UserId="308" />
+      <Member UserId="289" />
+      <Member UserId="309" />
+      <Member UserId="288" />
+      <Member UserId="292" />
+      <Member UserId="310" />
+      <Member UserId="258" />
+      <Member UserId="237" />
+      <Member UserId="311" />
+      <Member UserId="312" />
+      <Member UserId="313" />
+      <Member UserId="314" />
+      <Member UserId="315" />
+    </Group>
+    <Group Id="316" Name="FSE-Integrantes Servicio de Recursos Ecónomicos" Description="" Owner="282" OwnerIsUser="false" OnlyAllowMembersViewMembership="true" RequestToJoinLeaveEmailSetting="" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false">
+      <Member UserId="288" />
+      <Member UserId="289" />
+      <Member UserId="290" />
+      <Member UserId="291" />
+      <Member UserId="292" />
+    </Group>
+    <Group Id="317" Name="BEC Integrantes Servicio de Recursos Ecónomicos" Description="" Owner="282" OwnerIsUser="false" OnlyAllowMembersViewMembership="true" RequestToJoinLeaveEmailSetting="" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false">
+      <Member UserId="304" />
+    </Group>
+    <Group Id="318" Name="NOM-Integrantes Servicio de Recursos Ecónomicos" Description="" Owner="294" OwnerIsUser="true" OnlyAllowMembersViewMembership="true" RequestToJoinLeaveEmailSetting="" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false">
+      <Member UserId="289" />
+      <Member UserId="297" />
+      <Member UserId="299" />
+      <Member UserId="303" />
+      <Member UserId="310" />
+      <Member UserId="313" />
+    </Group>
+    <Group Id="319" Name="TIT-Integrantes Servicio de Recursos Ecónomicos" Description="" Owner="294" OwnerIsUser="true" OnlyAllowMembersViewMembership="true" RequestToJoinLeaveEmailSetting="" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false">
+      <Member UserId="297" />
+    </Group>
+    <Group Id="320" Name="CEN-Integrantes Servicio de Recursos Ecónomicos" Description="" Owner="294" OwnerIsUser="true" OnlyAllowMembersViewMembership="true" RequestToJoinLeaveEmailSetting="" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false">
+      <Member UserId="308" />
+    </Group>
+    <Group Id="321" Name="SEG-Integrantes Servicio de Recursos Ecónomicos" Description="" Owner="294" OwnerIsUser="true" OnlyAllowMembersViewMembership="true" RequestToJoinLeaveEmailSetting="" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false">
+      <Member UserId="288" />
+      <Member UserId="289" />
+      <Member UserId="306" />
+      <Member UserId="290" />
+      <Member UserId="291" />
+      <Member UserId="292" />
+    </Group>
+    <Group Id="322" Name="Visitantes de la Omg" Description="Use este grupo para conceder a los usuarios permisos de lectura en el sitio de SharePoint: Omg" Owner="323" OwnerIsUser="false" OnlyAllowMembersViewMembership="true" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false" />
+    <Group Id="323" Name="Integrantes XX" Description="Use este grupo para conceder a los usuarios permisos de colaboración en el sitio de SharePoint: XX" Owner="57" OwnerIsUser="false" OnlyAllowMembersViewMembership="false" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false">
+      <Member UserId="324" />
+      <Member UserId="262" />
+      <Member UserId="272" />
+      <Member UserId="271" />
+      <Member UserId="251" />
+      <Member UserId="325" />
+      <Member UserId="248" />
+      <Member UserId="258" />
+    </Group>
+    <Group Id="326" Name="Visitantes de la X008641" Description="Use este grupo para conceder a los usuarios permisos de lectura en el sitio de SharePoint: X008641" Owner="31" OwnerIsUser="true" OnlyAllowMembersViewMembership="false" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false" />
+    <Group Id="327" Name="Berria" Description="" Owner="77" OwnerIsUser="true" OnlyAllowMembersViewMembership="false" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false">
+      <Member UserId="328" />
+      <Member UserId="329" />
+      <Member UserId="77" />
+    </Group>
+    <Group Id="330" Name="ADMINISTRA TECNICOS" Description="" Owner="60" OwnerIsUser="true" OnlyAllowMembersViewMembership="false" RequestToJoinLeaveEmailSetting="susana.sanz.berrueta@navarra.es" AllowMembersEditMembership="false" AllowRequestToJoinLeave="true" AutoAcceptRequestToJoinLeave="false">
+      <Member UserId="60" />
+    </Group>
+    <Group Id="331" Name="VISITANTES_OMG" Description="" Owner="72" OwnerIsUser="true" OnlyAllowMembersViewMembership="true" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false">
+      <Member UserId="72" />
+      <Member UserId="332" />
+    </Group>
+    <Group Id="333" Name="GRUPO USUARIOS" Description="" Owner="61" OwnerIsUser="true" OnlyAllowMembersViewMembership="true" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false">
+      <Member UserId="61" />
+    </Group>
+    <Group Id="334" Name="Integrantes FP" Description="" Owner="335" OwnerIsUser="false" OnlyAllowMembersViewMembership="true" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false">
+      <Member UserId="337" />
+      <Member UserId="338" />
+    </Group>
+    <Group Id="335" Name="Propietarios Servicio de Nóminas y Estudios Económicos" Description="Use este grupo para conceder a los usuarios permisos de control total en el sitio de SharePoint: Servicio de Nóminas y Estudios Económicos" Owner="335" OwnerIsUser="false" OnlyAllowMembersViewMembership="false" RequestToJoinLeaveEmailSetting="" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false">
+      <Member UserId="336" />
+      <Member UserId="284" />
+      <Member UserId="31" />
+    </Group>
+    <Group Id="339" Name="Propietarios Servicio de Recursos Económicos" Description="Use este grupo para dar a los usuarios control total en el sitio de SharePoint: Servicio de Recursos Ecónomicos" Owner="339" OwnerIsUser="false" OnlyAllowMembersViewMembership="true" RequestToJoinLeaveEmailSetting="" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false">
+      <Member UserId="284" />
+      <Member UserId="285" />
+      <Member UserId="340" />
+      <Member UserId="341" />
+      <Member UserId="286" />
+      <Member UserId="342" />
+    </Group>
+    <Group Id="343" Name="Integrantes Servicio de Recursos Económicos" Description="Use este grupo para dar a los usuarios permisos de colaboración en el sitio de SharePoint: Servicio de Recursos Ecónomicos" Owner="339" OwnerIsUser="false" OnlyAllowMembersViewMembership="false" RequestToJoinLeaveEmailSetting="" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false">
+      <Member UserId="284" />
+      <Member UserId="336" />
+      <Member UserId="297" />
+      <Member UserId="290" />
+      <Member UserId="308" />
+      <Member UserId="291" />
+      <Member UserId="292" />
+      <Member UserId="344" />
+      <Member UserId="342" />
+    </Group>
+    <Group Id="345" Name="Integrantes Servicio de Nóminas y Estudios Económicos" Description="Use este grupo para conceder a los usuarios permisos de colaboración en el sitio de SharePoint: Servicio de Nóminas y Estudios Económicos" Owner="335" OwnerIsUser="false" OnlyAllowMembersViewMembership="false" RequestToJoinLeaveEmailSetting="" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false">
+      <Member UserId="346" />
+      <Member UserId="297" />
+      <Member UserId="347" />
+      <Member UserId="348" />
+      <Member UserId="349" />
+      <Member UserId="336" />
+      <Member UserId="303" />
+      <Member UserId="290" />
+      <Member UserId="350" />
+      <Member UserId="351" />
+      <Member UserId="291" />
+      <Member UserId="352" />
+      <Member UserId="292" />
+      <Member UserId="310" />
+      <Member UserId="353" />
+      <Member UserId="354" />
+    </Group>
+    <Group Id="355" Name="Visitantes Servicio de Nóminas y Estudios Económicos" Description="Use este grupo para conceder a los usuarios permisos de lectura en el sitio de SharePoint: Servicio de Nóminas y Estudios Económicos" Owner="335" OwnerIsUser="false" OnlyAllowMembersViewMembership="false" RequestToJoinLeaveEmailSetting="" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false" />
+    <Group Id="356" Name="DVM Formacion" Description="" Owner="31" OwnerIsUser="true" OnlyAllowMembersViewMembership="true" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false">
+      <Member UserId="31" />
+      <Member UserId="65" />
+    </Group>
+    <Group Id="357" Name="Remitentes del servicio web del centro de registros para Registro" Description="Los miembros de este grupo pueden enviar contenido a este sitio mediante servicios web." Owner="31" OwnerIsUser="true" OnlyAllowMembersViewMembership="true" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false">
+      <Member UserId="245" />
+    </Group>
+    <Group Id="358" Name="Propietarios Grupo Trabajo Empleo" Description="Use este grupo para conceder a los usuarios permisos de control total en el sitio de SharePoint: Grupo Trabajo Empleo" Owner="358" OwnerIsUser="false" OnlyAllowMembersViewMembership="false" RequestToJoinLeaveEmailSetting="" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false">
+      <Member UserId="336" />
+    </Group>
+    <Group Id="359" Name="Integrantes Grupo Trabajo Empleo" Description="Use este grupo para conceder a los usuarios permisos de colaboración en el sitio de SharePoint: Grupo Trabajo Empleo" Owner="358" OwnerIsUser="false" OnlyAllowMembersViewMembership="false" RequestToJoinLeaveEmailSetting="" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false">
+      <Member UserId="360" />
+      <Member UserId="361" />
+      <Member UserId="362" />
+      <Member UserId="363" />
+    </Group>
+    <Group Id="364" Name="Visitantes Grupo Trabajo Empleo" Description="Use este grupo para conceder a los usuarios permisos de lectura en el sitio de SharePoint: Grupo Trabajo Empleo" Owner="358" OwnerIsUser="false" OnlyAllowMembersViewMembership="false" RequestToJoinLeaveEmailSetting="" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false">
+      <Member UserId="149" />
+    </Group>
+    <Group Id="365" Name="Visitantes XX" Description="Use este grupo para conceder a los usuarios permisos de lectura en el sitio de SharePoint: XX" Owner="57" OwnerIsUser="false" OnlyAllowMembersViewMembership="false" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false">
+      <Member UserId="267" />
+      <Member UserId="18" />
+      <Member UserId="67" />
+    </Group>
+    <Group Id="366" Name="Propietarios Planes Operativos" Description="Use este grupo para conceder a los usuarios permisos de control total en el sitio de SharePoint: Planes Operativos" Owner="366" OwnerIsUser="false" OnlyAllowMembersViewMembership="false" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false">
+      <Member UserId="132" />
+      <Member UserId="6" />
+      <Member UserId="7" />
+      <Member UserId="367" />
+      <Member UserId="8" />
+      <Member UserId="368" />
+    </Group>
+    <Group Id="369" Name="Integrantes Planes Operativos" Description="Use este grupo para conceder a los usuarios permisos de colaboración en el sitio de SharePoint: Planes Operativos" Owner="366" OwnerIsUser="false" OnlyAllowMembersViewMembership="false" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false" />
+    <Group Id="370" Name="Visitantes Planes Operativos" Description="Use este grupo para conceder a los usuarios permisos de lectura en el sitio de SharePoint: Planes Operativos" Owner="366" OwnerIsUser="false" OnlyAllowMembersViewMembership="false" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false" />
+    <Group Id="371" Name="Planes Operativos Cohesión Territorial" Description="" Owner="366" OwnerIsUser="false" OnlyAllowMembersViewMembership="true" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false">
+      <Member UserId="372" />
+      <Member UserId="373" />
+      <Member UserId="374" />
+      <Member UserId="375" />
+    </Group>
+    <Group Id="376" Name="Planes Operativos Cultura y Deporte" Description="" Owner="366" OwnerIsUser="false" OnlyAllowMembersViewMembership="true" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false">
+      <Member UserId="377" />
+      <Member UserId="378" />
+      <Member UserId="379" />
+    </Group>
+    <Group Id="380" Name="Planes Operativos Derechos Sociales" Description="" Owner="366" OwnerIsUser="false" OnlyAllowMembersViewMembership="true" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false">
+      <Member UserId="381" />
+      <Member UserId="382" />
+      <Member UserId="383" />
+      <Member UserId="41" />
+      <Member UserId="384" />
+      <Member UserId="385" />
+      <Member UserId="386" />
+      <Member UserId="387" />
+      <Member UserId="388" />
+      <Member UserId="389" />
+      <Member UserId="129" />
+      <Member UserId="390" />
+      <Member UserId="391" />
+      <Member UserId="392" />
+      <Member UserId="105" />
+      <Member UserId="393" />
+      <Member UserId="394" />
+      <Member UserId="395" />
+      <Member UserId="396" />
+      <Member UserId="112" />
+    </Group>
+    <Group Id="397" Name="Planes Operativos Desarrollo Económico y Empresarial" Description="" Owner="366" OwnerIsUser="false" OnlyAllowMembersViewMembership="true" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false">
+      <Member UserId="398" />
+      <Member UserId="399" />
+      <Member UserId="400" />
+    </Group>
+    <Group Id="401" Name="Planes Operativos Desarrollo Rural y Medio Ambiente" Description="" Owner="366" OwnerIsUser="false" OnlyAllowMembersViewMembership="true" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false">
+      <Member UserId="402" />
+      <Member UserId="403" />
+      <Member UserId="404" />
+      <Member UserId="405" />
+      <Member UserId="406" />
+      <Member UserId="407" />
+    </Group>
+    <Group Id="408" Name="Planes Operativos Economía y Hacienda" Description="" Owner="366" OwnerIsUser="false" OnlyAllowMembersViewMembership="true" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false">
+      <Member UserId="409" />
+      <Member UserId="410" />
+      <Member UserId="411" />
+      <Member UserId="412" />
+      <Member UserId="413" />
+    </Group>
+    <Group Id="414" Name="Planes Operativos Educación" Description="" Owner="366" OwnerIsUser="false" OnlyAllowMembersViewMembership="true" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false">
+      <Member UserId="415" />
+      <Member UserId="416" />
+      <Member UserId="417" />
+      <Member UserId="418" />
+      <Member UserId="419" />
+    </Group>
+    <Group Id="420" Name="Planes Operativos Ordenacion del Territorio Vivienda Paisaje y Proyectos Estrategicos" Description="" Owner="366" OwnerIsUser="false" OnlyAllowMembersViewMembership="true" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false">
+      <Member UserId="121" />
+      <Member UserId="421" />
+      <Member UserId="422" />
+    </Group>
+    <Group Id="423" Name="Planes Operativos Políticas Migratorias y Justicia" Description="" Owner="366" OwnerIsUser="false" OnlyAllowMembersViewMembership="true" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false">
+      <Member UserId="424" />
+      <Member UserId="425" />
+      <Member UserId="426" />
+      <Member UserId="427" />
+    </Group>
+    <Group Id="428" Name="Visitantes de la Maitane JS" Description="Use este grupo para conceder a los usuarios permisos de lectura en el sitio de SharePoint: Maitane JS" Owner="65" OwnerIsUser="true" OnlyAllowMembersViewMembership="false" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false" />
+    <Group Id="429" Name="Planes Operativos Presidencia Igualdad Funcion Publica e Interior" Description="" Owner="366" OwnerIsUser="false" OnlyAllowMembersViewMembership="true" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false">
+      <Member UserId="367" />
+      <Member UserId="430" />
+      <Member UserId="431" />
+      <Member UserId="432" />
+      <Member UserId="433" />
+      <Member UserId="434" />
+      <Member UserId="435" />
+      <Member UserId="436" />
+    </Group>
+    <Group Id="437" Name="Planes Operativos Relaciones Ciudadanas" Description="" Owner="366" OwnerIsUser="false" OnlyAllowMembersViewMembership="true" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false">
+      <Member UserId="438" />
+      <Member UserId="439" />
+      <Member UserId="440" />
+    </Group>
+    <Group Id="441" Name="Planes Operativos Salud" Description="" Owner="366" OwnerIsUser="false" OnlyAllowMembersViewMembership="true" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false">
+      <Member UserId="442" />
+      <Member UserId="443" />
+      <Member UserId="444" />
+      <Member UserId="445" />
+      <Member UserId="446" />
+    </Group>
+    <Group Id="447" Name="Planes Operativos Universidad Innovacion y Transformacion Digital" Description="" Owner="366" OwnerIsUser="false" OnlyAllowMembersViewMembership="true" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false">
+      <Member UserId="448" />
+      <Member UserId="449" />
+    </Group>
+    <Group Id="450" Name="Propietarios LicitacionContratoDeServiciosExplotacionYAnalisisBBDDServiciosSocialesYEmpleo" Description="Use este grupo para conceder a los usuarios permisos de control total en el sitio de SharePoint: LicitacionContratoDeServiciosExplotacionYAnalisisBBDDServiciosSocialesYEmpleo" Owner="450" OwnerIsUser="false" OnlyAllowMembersViewMembership="false" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false">
+      <Member UserId="6" />
+      <Member UserId="7" />
+      <Member UserId="8" />
+    </Group>
+    <Group Id="451" Name="Integrantes de la LicitacionContratoDeServiciosExplotacionYAnalisisBBDDServiciosSocialesYEmpleo" Description="Use este grupo para conceder a los usuarios permisos de colaboración en el sitio de SharePoint: LicitacionContratoDeServiciosExplotacionYAnalisisBBDDServiciosSocialesYEmpleo" Owner="450" OwnerIsUser="false" OnlyAllowMembersViewMembership="false" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false">
+      <Member UserId="412" />
+      <Member UserId="452" />
+      <Member UserId="6" />
+      <Member UserId="42" />
+      <Member UserId="389" />
+      <Member UserId="391" />
+      <Member UserId="453" />
+      <Member UserId="454" />
+      <Member UserId="455" />
+      <Member UserId="110" />
+      <Member UserId="456" />
+      <Member UserId="7" />
+    </Group>
+    <Group Id="457" Name="Visitantes de la LicitacionContratoDeServiciosExplotacionYAnalisisBBDDServiciosSocialesYEmpleo" Description="Use este grupo para conceder a los usuarios permisos de lectura en el sitio de SharePoint: LicitacionContratoDeServiciosExplotacionYAnalisisBBDDServiciosSocialesYEmpleo" Owner="450" OwnerIsUser="false" OnlyAllowMembersViewMembership="false" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false" />
+    <Group Id="458" Name="Visitantes de la Gestor Conocimiento 19" Description="Use este grupo para conceder a los usuarios permisos de lectura en el sitio de SharePoint: Gestor Conocimiento 19" Owner="57" OwnerIsUser="false" OnlyAllowMembersViewMembership="false" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false">
+      <Member UserId="31" />
+    </Group>
+    <Group Id="459" Name="Prueba" Description="" Owner="460" OwnerIsUser="true" OnlyAllowMembersViewMembership="true" RequestToJoinLeaveEmailSetting="pf1079@navarra.es" AllowMembersEditMembership="false" AllowRequestToJoinLeave="true" AutoAcceptRequestToJoinLeave="false">
+      <Member UserId="460" />
+    </Group>
+    <Group Id="461" Name="Integrantes (2) colaboradores" Description="" Owner="57" OwnerIsUser="false" OnlyAllowMembersViewMembership="true" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false">
+      <Member UserId="65" />
+      <Member UserId="462" />
+    </Group>
+    <Group Id="463" Name="ColaboradoresCarlos" Description="" Owner="464" OwnerIsUser="true" OnlyAllowMembersViewMembership="true" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false">
+      <Member UserId="465" />
+      <Member UserId="464" />
+    </Group>
+    <Group Id="466" Name="Colaboradores de Maitane JS" Description="" Owner="467" OwnerIsUser="true" OnlyAllowMembersViewMembership="true" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false">
+      <Member UserId="467" />
+      <Member UserId="187" />
+    </Group>
+    <Group Id="468" Name="Grupo Asun" Description="" Owner="469" OwnerIsUser="true" OnlyAllowMembersViewMembership="true" RequestToJoinLeaveEmailSetting="asun.lain.bandres@navarra.es" AllowMembersEditMembership="false" AllowRequestToJoinLeave="true" AutoAcceptRequestToJoinLeave="false">
+      <Member UserId="470" />
+      <Member UserId="187" />
+      <Member UserId="469" />
+    </Group>
+    <Group Id="471" Name="Prueba Marta" Description="" Owner="472" OwnerIsUser="true" OnlyAllowMembersViewMembership="true" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false">
+      <Member UserId="473" />
+      <Member UserId="472" />
+    </Group>
+    <Group Id="474" Name="GRUPO DE COLABORADORES" Description="" Owner="50" OwnerIsUser="true" OnlyAllowMembersViewMembership="true" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false">
+      <Member UserId="50" />
+      <Member UserId="464" />
+    </Group>
+    <Group Id="475" Name="GRUPO USUARIOS 27 FEBRERO" Description="" Owner="476" OwnerIsUser="true" OnlyAllowMembersViewMembership="true" AllowMembersEditMembership="false" AllowRequestToJoinLeave="true" AutoAcceptRequestToJoinLeave="true">
+      <Member UserId="477" />
+      <Member UserId="50" />
+      <Member UserId="476" />
+    </Group>
+    <Group Id="478" Name="Ejercicio GRUPO" Description="" Owner="470" OwnerIsUser="true" OnlyAllowMembersViewMembership="true" RequestToJoinLeaveEmailSetting="jesus.villanueva.durantez@navarra.es" AllowMembersEditMembership="false" AllowRequestToJoinLeave="true" AutoAcceptRequestToJoinLeave="false">
+      <Member UserId="470" />
+      <Member UserId="187" />
+      <Member UserId="469" />
+    </Group>
+    <Group Id="479" Name="Prueba_LeyreA" Description="" Owner="480" OwnerIsUser="true" OnlyAllowMembersViewMembership="true" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false">
+      <Member UserId="481" />
+      <Member UserId="480" />
+    </Group>
+    <Group Id="482" Name="Sharepoint13" Description="" Owner="483" OwnerIsUser="true" OnlyAllowMembersViewMembership="true" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false">
+      <Member UserId="484" />
+      <Member UserId="483" />
+      <Member UserId="485" />
+      <Member UserId="378" />
+    </Group>
+    <Group Id="486" Name="Grupo prueba" Description="" Owner="487" OwnerIsUser="true" OnlyAllowMembersViewMembership="true" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false">
+      <Member UserId="487" />
+    </Group>
+    <Group Id="488" Name="Prueba2_leyre" Description="" Owner="489" OwnerIsUser="true" OnlyAllowMembersViewMembership="true" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false">
+      <Member UserId="489" />
+    </Group>
+    <Group Id="490" Name="Colaboradores Planificación - Servicio de Planificación Calidad e Inspección" Description="" Owner="5" OwnerIsUser="false" OnlyAllowMembersViewMembership="true" RequestToJoinLeaveEmailSetting="" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false">
+      <Member UserId="132" />
+      <Member UserId="128" />
+      <Member UserId="101" />
+      <Member UserId="368" />
+      <Member UserId="390" />
+      <Member UserId="238" />
+    </Group>
+    <Group Id="491" Name="Visitantes Servicio de Planificación Calidad e Inspección" Description="Use este grupo para dar a los usuarios permisos de lectura en el sitio de SharePoint: Servicio de Planificación Calidad e Inspección" Owner="5" OwnerIsUser="false" OnlyAllowMembersViewMembership="true" RequestToJoinLeaveEmailSetting="" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false" />
+    <Group Id="492" Name="Integrantes Servicio de Planificación Calidad e Inspección" Description="Use este grupo para dar a los usuarios permisos de colaboración en el sitio de SharePoint: Servicio de Planificación Calidad e Inspección" Owner="5" OwnerIsUser="false" OnlyAllowMembersViewMembership="false" RequestToJoinLeaveEmailSetting="" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false">
+      <Member UserId="132" />
+      <Member UserId="493" />
+      <Member UserId="6" />
+      <Member UserId="7" />
+      <Member UserId="236" />
+      <Member UserId="494" />
+      <Member UserId="8" />
+      <Member UserId="495" />
+      <Member UserId="101" />
+      <Member UserId="368" />
+      <Member UserId="390" />
+      <Member UserId="454" />
+    </Group>
+    <Group Id="496" Name="Propietarios Inspecciones" Description="" Owner="31" OwnerIsUser="true" OnlyAllowMembersViewMembership="true" RequestToJoinLeaveEmailSetting="" AllowMembersEditMembership="false" AllowRequestToJoinLeave="false" AutoAcceptRequestToJoinLeave="false">
+      <Member UserId="110" />
+    </Group>
+  </Groups>
+</UserGroupMap>

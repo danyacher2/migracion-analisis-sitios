@@ -1,0 +1,6 @@
+﻿Serial#,Time,Status,ScanItems,ScanFiles,ScanBadFiles,ScanFilterout,ScanTotalBytes,BytesMigrated,FinishedPacks,MigratedPacks,FinishedFiles,MigratedFiles,WorklistCount,CurrentPackedPks,CurrentUploadedPks,CurrentSubmittedPks,Thread_Pack,Thread_Upload,Thread_Submit,Thread_Total,Errors,Warnings,Memory
+"1","2026-10-16 14:07:52","SCHEMAMIGRATING","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","2","0","0","253657088"
+"2","2026-10-16 14:16:34","SCHEMAMIGRATING","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","2","0","0","261349376"
+"3","2026-10-16 14:18:20","SCHEMAMIGRATING","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","2","0","0","293097472"
+"4","2026-10-16 14:21:36","SCHEMAMIGRATING","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","2","0","0","284778496"
+"5","2026-10-16 14:25:04","SUSPENDED","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","0","2","0","0","287596544"

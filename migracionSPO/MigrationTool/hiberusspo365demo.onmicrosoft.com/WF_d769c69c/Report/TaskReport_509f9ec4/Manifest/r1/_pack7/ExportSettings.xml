@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ExportSettings xmlns="urn:deployment-exportsettings-schema" SiteUrl="https://gcinterna.admon-cfnavarra.es/Corporativa00/ServicioNominasyEstudiosEconomicos" FileLocation="C:\migracionSPO\MigrationToolStorage\hiberusspo365demo.onmicrosoft.com\WF_d769c69c\TASK_509f9ec4\r1\pack7\data" IncludeSecurity="All" SourceType="SharePoint" DetailedSource="2013">
+  <ExportObjects>
+    <DeploymentObject Id="173f2c5e-aa40-49fe-8474-0f10fcb005e2" Type="List" ParentId="a9a90712-24ad-4504-b7fd-6ec603a2dbdc" />
+    <DeploymentObject Id="8b4c47e4-303b-4019-8300-e840eaa8384f" Type="List" ParentId="a9a90712-24ad-4504-b7fd-6ec603a2dbdc" />
+    <DeploymentObject Id="3b03c940-92cf-4c60-bf42-b6dfffc9d0e5" Type="List" ParentId="a9a90712-24ad-4504-b7fd-6ec603a2dbdc" />
+  </ExportObjects>
+</ExportSettings>
